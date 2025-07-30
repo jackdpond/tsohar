@@ -1,0 +1,1332 @@
+[
+  {
+    "text": "Hey, Tim.",
+    "start": "00:00:05",
+    "end": "00:00:05"
+  },
+  {
+    "text": "Hello, John.",
+    "start": "00:00:05",
+    "end": "00:00:06"
+  },
+  {
+    "text": "Hi.",
+    "start": "00:00:06",
+    "end": "00:00:07"
+  },
+  {
+    "text": "Hi.",
+    "start": "00:00:07",
+    "end": "00:00:07"
+  },
+  {
+    "text": "We are wrapping up the Exodus Way series and this little surprise episode.",
+    "start": "00:00:08",
+    "end": "00:00:13"
+  },
+  {
+    "text": "Yeah, bonus episode. There's a really amazing stone at the beginning of the Exodus story that we wanted to turn over. And to do that, we actually wanted to bring in a colleague of mine and a fellow member of the scholarship team here at bibleproject to do that. But what we want to talk about is the design of the early chapters of Exodus has such a cool set of features to it. And one of them is that all of the most important delivering rescuing figures in the early chapters of Exodus are female characters. And lo and behold, there's not just one, not just two, not three, not four, not five, not six, but there's seven.",
+    "start": "00:00:13",
+    "end": "00:00:57"
+  },
+  {
+    "text": "Seven.",
+    "start": "00:00:57",
+    "end": "00:00:57"
+  },
+  {
+    "text": "Of course there are female rescuers, without whom the Exodus story would not have taken place. Yeah. We tend to focus on the single male deliverer figure, Moses. And of course, like that's right there, he's a key figure. But Moses wouldn't even be alive if it weren't for these seven female rescuers. So there's so much we're going to explore. So let's bring in my colleague, Tamara Knudsen. Tamara, hello.",
+    "start": "00:00:58",
+    "end": "00:01:29"
+  },
+  {
+    "text": "Hello.",
+    "start": "00:01:29",
+    "end": "00:01:29"
+  },
+  {
+    "text": "Hello.",
+    "start": "00:01:30",
+    "end": "00:01:31"
+  },
+  {
+    "text": "All the way from Scotland.",
+    "start": "00:01:31",
+    "end": "00:01:32"
+  },
+  {
+    "text": "Yes. You're on the other side of the planet and for us it's morning, for you it's evening. You're going to have dinner after we.",
+    "start": "00:01:32",
+    "end": "00:01:38"
+  },
+  {
+    "text": "Talk just after this. Yeah, I'm looking forward to it.",
+    "start": "00:01:38",
+    "end": "00:01:41"
+  },
+  {
+    "text": "Yeah. Okay, so maybe some quick context. So over the past few years, this is now early 2025, we've been growing our research and writing team around all the content that we make because I can't research and write at all. And so we've added a number of fellows to our team, people who are on our team for like a year or two. We have some full time scholars. And so, Tamara, you joined the team as a fellow and you're now in your second year of a fellowship.",
+    "start": "00:01:41",
+    "end": "00:02:09"
+  },
+  {
+    "text": "Yes.",
+    "start": "00:02:09",
+    "end": "00:02:10"
+  },
+  {
+    "text": "And so maybe talk a little bit about yourself, what you have been doing and then what you are doing as part of the Bible Project Fellows program.",
+    "start": "00:02:10",
+    "end": "00:02:18"
+  },
+  {
+    "text": "Yeah. So I live in Scotland, but I haven't always lived here. I was born here actually in Sterling, Scotland, but grew up in Zambia, in Africa. And then I did my undergraduate there in Portland, where you guys are. So Portland also has a really special place in my heart. Yeah, did undergrad there and that was a time for me of falling, falling in love with texts in general. Actually biblical texts, but text in general. I had some amazing English lit courses and then Hebrew, Bible and studied Hebrew as well. And that was really where the journey started for me in terms of falling in love with these texts and wanting to study them more. And then my husband Ethan and I, we moved to Scotland to do postgraduate studies here in St. Andrews. So we did our masters here, and mine was actually with the School of English and then my PhD in Hebrew Bible here in St. Andrews and my husband's as well. We're both just nerds together, but we Both did our PhDs in Hebrew Bible here in St. Andrews, and we finished those up a couple years ago and.",
+    "start": "00:02:18",
+    "end": "00:03:20"
+  },
+  {
+    "text": "During the same time. So you were both doing it at the same time?",
+    "start": "00:03:20",
+    "end": "00:03:24"
+  },
+  {
+    "text": "Yeah, we were doing it at the same time. Which was kind of crazy. We realized kind of halfway through, oh, not many people do this. There's a reason why. But also there was something really special about it too, because we shared the good and the bad. We shared those, like, aha, moments we could share with each other. And then the really painful ones too, you know, like, how are we ever gonna finish this? And it's like, no, you can. You can do it. Okay? That means you can do it, you know? And so we kind of got each other across the finish line. We had our two babies here too. So we now have a six year old and a two year old who were born here in Scotland, Aili and Arlo, and they've made life so full and fun. So, yeah, it was about a year and a half ago now that I joined as a fellow. It's been amazing working with this team and continuing just to have the g of the opportunity to keep. I mean, we say this often actually in our meetings, like, this is our job. We get to do this for work. Like, we get to just pour over these texts and know them more and love them more.",
+    "start": "00:03:24",
+    "end": "00:04:23"
+  },
+  {
+    "text": "And so, yeah, so part of the process is maybe to open the hood of the car, so to speak. So when John and I sit down and are talking through, like, for a podcast series, a majority of these texts that you and I talk through, John, are texts that I've brought to this scholarship team internal Bible project that we study as a group, usually beforehand. So my mind's full of all of these conversations we had as a team. But then also, Tamara, you and other members of the scholarship team are writing stuff for, like, Bible reading plans for Bible studies, like through YouVersion, a lot of stuff. For our website, we have all kinds of study guides. So you put your hand to a lot of things in writing that we're making.",
+    "start": "00:04:23",
+    "end": "00:05:09"
+  },
+  {
+    "text": "Yeah. One of the most fun Things is that we go away and work on them individually, we research together, we go and draft, and then we bring our drafts back together. And then it's this wonderful process of creating and honing together. So really, all the finished products are so, so much a team, collaborative effort, and I think they're all the better for that.",
+    "start": "00:05:09",
+    "end": "00:05:29"
+  },
+  {
+    "text": "So as a group, our scholarship team, we crawled our way line by line through Exodus 1:4 for, I don't know, over a series of a few months. And then a number of things surfaced out of that, and this topic was one of them. And we asked you to write it up as like an essay article. So tell us about what it is. And I'm actually going to kind of hand the baton to you to be our tour guide through the early chapters of Exodus about these seven remarkable human beings who graced the pages of Exodus 1:4.",
+    "start": "00:05:29",
+    "end": "00:06:00"
+  },
+  {
+    "text": "Okay. Something that's been simmering for me over the last while studying biblical texts, but also literature as a whole, even with my English studies, is this the beginning of stories. Good stories are really, really important and that they are written to be read more than once. We talk about this all the time here at Bible project, actually. Genesis 1 through 3, Genesis 1 11. Those early chapters, they're written to really shape our expectations of what's to come, to shape the way that we encounter stories and characters as they come later to be encountered again and again and again, and to be meditated on. And I think this is true outside of Bible too. Actually. We're reading through Lord of the Rings as a family. And Tolkien does this in his prologue. You know, it starts and it's concerning hobbits. And, you know, you're like, is this really the beginning to this epic narrative? And if you come back and reread it after you've been all the way to Mordor with Fre, all of a sudden, the fact that he talks about these hobbits who love peace and quiet and good tilled earth, it takes on a whole new meaning. You know, he's shaping our understanding of the story world in really important ways. So why do I bring that up? I think it's really important for the texts and the characters we're looking at today. Because as you just mentioned, Tim, this is the beginning of a really important narrative, the Exodus narrative. And so what does it mean that in these first four chapters, this be of a really important story? The driving characters we encounter here are these seven women.",
+    "start": "00:06:00",
+    "end": "00:08:06"
+  },
+  {
+    "text": "Yeah, you want to maybe get to the action? And let's get to Moses at the burning Bush or something. Let's get to Let My People Go. But we've got these four chapters of buildup, and crucial to these chapters are these seven women.",
+    "start": "00:08:07",
+    "end": "00:08:21"
+  },
+  {
+    "text": "Yes.",
+    "start": "00:08:21",
+    "end": "00:08:21"
+  },
+  {
+    "text": "There's no way out without these seven.",
+    "start": "00:08:21",
+    "end": "00:08:23"
+  },
+  {
+    "text": "There's no way out through these seven women. Their actions are the way through which, or by which God does his saving work of the Israelites.",
+    "start": "00:08:23",
+    "end": "00:08:34"
+  },
+  {
+    "text": "Yeah. So it probably is helpful at the beginning, before we dive in, just to name the seven women so that as we get to them, they're familiar. So we have Shiphrah and Puah. They're two midwives, and they'll be the first female characters we encounter at the outset of the story. And then Moses, mother and his sister. And then Pharaoh's daughter, her maidservant, who's going to play an important role.",
+    "start": "00:08:34",
+    "end": "00:08:57"
+  },
+  {
+    "text": "So three pairs so far.",
+    "start": "00:08:58",
+    "end": "00:08:59"
+  },
+  {
+    "text": "Oh, yeah, that's right. And then Zipporah, Moses, wife.",
+    "start": "00:08:59",
+    "end": "00:09:02"
+  },
+  {
+    "text": "All right, so those are the seven. Take us on a tour.",
+    "start": "00:09:02",
+    "end": "00:09:05"
+  },
+  {
+    "text": "Okay, so we know the very first verses of Exodus, chapter one. They talk about Jacob's sons, Joseph and his brothers, who were the ones who came to Egypt at the end of the book of Genesis in a time of famine. And right at the outset, we're told they all died. So, you know, maybe a little bit of a grim start, except that it pivots right away in verse seven. Verse seven of chapter one, I think, is crucially important to everything that's going to come. And it's really important to grasp this if we're going to understand the roles that these women Play. So verse 7 of Exodus 1 says, the sons of Yisra' El were fruitful, and they swarmed, and they multiplied and became strong very, very much. And the land was filled with them. Now, talking about important beginnings, a lot of the language there, it's jam packed full of language. That's all the way from Genesis 1, verse 28. And it's the blessing that God speaks over humanity right after he creates them. So he tells them to be fruitful, to multiply, and to fill the land. And that's exactly the language we have here. But it goes just a couple steps further in case we miss the idea of this flourishing garden life that's happening here. We have the language of the people swarming, which is all the way from back in Genesis 20 and 21, describing the living creatures that swarm. The swarming swarms, which is the first.",
+    "start": "00:09:06",
+    "end": "00:10:34"
+  },
+  {
+    "text": "Creatures that God blesses, right?",
+    "start": "00:10:34",
+    "end": "00:10:35"
+  },
+  {
+    "text": "Yes, yeah. The sea creatures.",
+    "start": "00:10:35",
+    "end": "00:10:37"
+  },
+  {
+    "text": "He blesses them to be fruitful, multiply in their swarm.",
+    "start": "00:10:37",
+    "end": "00:10:39"
+  },
+  {
+    "text": "Yeah, yeah. So there's all this abundant teeming, maybe, is a good word like this, The. The life that God creates that's so abundant and good and flourishing. That's what we have right here at the outset of Exodus chapter one. And then what's interesting is right after we're set up to see that life that's happening in Israel's multiplication, we have the Pharaoh's response to that life. And this is his response. It says, a new king rose over Egypt who did not know Yosef. And he said to his people, look, the people of the sons of Yisrael, they are more multiplied and stronger than us. Come, let's act skillfully with him, or else they will multiply. And it will come about when war happens to us, that even they will add themselves to our haters, and they will make war with us. And so Pharaoh is seeing this abundant, strong life that's coming out of Israel. And his response, crucially, is to propose acting shrewdly to suppress, to try and stop what's happening with the flourishing life. He's moving against that current. He wants to stop it. And so right at the outset, we're only like, I don't know, not even 14 verses in, but we have flourishing garden life, and we have a snakeish figure. And so Pharaoh, he seeks to oppress the people by making them slaves. And the language is pretty strong here. It's brutal slavery and oppression. But the text turns around and tells us that it doesn't work. They just continue to multiply and to fill the land. And so Pharaoh's next response is to decide he's just going to take the life, he's going to kill. And this is where the women step in. And all of a sudden, Pharaoh is having a conversation with two midwives. So Pharaoh turns to the midwives, and he says, when you help the Hebrew women deliver, and you look upon the stones, if it is a son, then you will put him to death. And if it is a daughter, then she will live. And then we'll come back and look at what the midwives response is to that. But a few verses later, Pharaoh turns around and gives a command to all his people. And notice the repetition here. Pharaoh commands his people, saying, every son that is born, throw him into the Nile, and every daughter, you will let them live. So that last bit is repeated word for word. Pharaoh apparently doesn't see these daughters as a threat.",
+    "start": "00:10:39",
+    "end": "00:13:08"
+  },
+  {
+    "text": "Yeah, that's really interesting. Yeah, it's clear both times he's like, let the women live. Like, the women to him are not a big deal.",
+    "start": "00:13:08",
+    "end": "00:13:14"
+  },
+  {
+    "text": "Yeah. These daughters he doesn't perceive as a threat in the case of war. I mean, he said war is what he's afraid of, a war breaking out. So he assumes it's only going to be male Hebrews. I mean, it's deep irony. I mean, that's where you're leading us.",
+    "start": "00:13:15",
+    "end": "00:13:31"
+  },
+  {
+    "text": "But he underestimates the women.",
+    "start": "00:13:31",
+    "end": "00:13:34"
+  },
+  {
+    "text": "Yeah, yeah. And it's really interesting that the text does go out of its way to make that clear to us, because he could just say he said to kill all the sons, but we have repeated the daughters will live. And the second thing that that line communicates, that's really important, and that is that twice we have the association of daughters with life, which is the Hebrew word haya. But the Midwives, they resist Pharaoh. It says the midwives feared Elohim. They did not do as the king of Egypt said to them. They preserved the lives of the children. And it's using the word Chaya here again. They made them to live the lives of the children. And the king of Egypt called to the midwives, and he said to them, why have you done this thing? And preserved the lives again of the children. And their response is amazing. And again highlights exactly what the role of the women is here. Their response to him is, well, the Hebrew women are not like the Egyptian women, for they are. And often translations don't know quite what to do with this. Sometimes it comes out as they're vigorous. But the word is from Chaya. It's their chayot. They're living. They're full of life. So these women in. Even in the act of childbirth, they're bringers of life, protectors of life in the face of Pharaoh's oppression and resistance to that life.",
+    "start": "00:13:34",
+    "end": "00:14:57"
+  },
+  {
+    "text": "And don't they tell Pharaoh something like, by the time we get there, they already gave birth or something like that. Is that what's happening?",
+    "start": "00:14:58",
+    "end": "00:15:04"
+  },
+  {
+    "text": "Yeah, they're so lively that, yeah, it happens really quickly.",
+    "start": "00:15:04",
+    "end": "00:15:07"
+  },
+  {
+    "text": "They're like, we're trying to Pharaoh, but like, yeah, they're being shrewd. They're to Pharaoh, right. They're like, oh, man, we're totally trying to fulfill your quota, Pharaoh. But like, these women are just so full of life. By the time we get there, it's all done.",
+    "start": "00:15:07",
+    "end": "00:15:21"
+  },
+  {
+    "text": "They're deceiving the deceiver.",
+    "start": "00:15:21",
+    "end": "00:15:23"
+  },
+  {
+    "text": "Yeah, yeah.",
+    "start": "00:15:23",
+    "end": "00:15:24"
+  },
+  {
+    "text": "Counter deception.",
+    "start": "00:15:24",
+    "end": "00:15:25"
+  },
+  {
+    "text": "Yeah, yeah. And it's funny is that Pharaoh doesn't seem to know what to do with it. He doesn't respond.",
+    "start": "00:15:25",
+    "end": "00:15:32"
+  },
+  {
+    "text": "Yeah. He just comes up with another plan.",
+    "start": "00:15:33",
+    "end": "00:15:34"
+  },
+  {
+    "text": "Yeah, yeah, Plan B, where Pharaoh says, okay, instead to all his people. If there's a Hebrew boy, throw him in the Nile.",
+    "start": "00:15:35",
+    "end": "00:15:42"
+  },
+  {
+    "text": "Yes. All right.",
+    "start": "00:15:42",
+    "end": "00:15:43"
+  },
+  {
+    "text": "But if it's a daughter, let her live.",
+    "start": "00:15:43",
+    "end": "00:15:44"
+  },
+  {
+    "text": "Got it. Now, something we noticed as a group when we were working through this was the analogies of the blessing with humanity back in the garden. The analogies of Pharaoh and the snake. And then all of a sudden with all of this repetition of Chayah, all of a sudden we were staring at another character from Genesis 1 through 3, just like leafing off the page at us.",
+    "start": "00:15:44",
+    "end": "00:16:10"
+  },
+  {
+    "text": "Yeah. So this does tie back to Eve and her name, because when Adam names her, he says, you'll be Chava Eve because you'll be the mother of all living. So there is a sense. Yeah, yeah.",
+    "start": "00:16:10",
+    "end": "00:16:24"
+  },
+  {
+    "text": "Ol Chaya, in a way. Remember, John, think of all of the times we've reflected on how important the Solomon story is for understanding the Eden story. As a back reflection, it gives you an image of what Adam and Eve could have done.",
+    "start": "00:16:24",
+    "end": "00:16:40"
+  },
+  {
+    "text": "Right.",
+    "start": "00:16:40",
+    "end": "00:16:41"
+  },
+  {
+    "text": "Which is.",
+    "start": "00:16:41",
+    "end": "00:16:42"
+  },
+  {
+    "text": "Yeah, Solomon's kind of like an alternative Adam who instead of taking the tree of Knowing Good and Bad on his own terms, he asks God for knowing good and bad.",
+    "start": "00:16:42",
+    "end": "00:16:52"
+  },
+  {
+    "text": "Yes, yeah. So this story would be like a parallel, but with the Eve figure. It's like a back reflection on how Eve could have responded or ought to have.",
+    "start": "00:16:52",
+    "end": "00:17:02"
+  },
+  {
+    "text": "She could have outshooted the snake.",
+    "start": "00:17:02",
+    "end": "00:17:05"
+  },
+  {
+    "text": "Yeah, yeah. It sends your imagination back there to be like, oh, this is what it looks like to respond appropriately to a snake.",
+    "start": "00:17:05",
+    "end": "00:17:12"
+  },
+  {
+    "text": "That's cool.",
+    "start": "00:17:12",
+    "end": "00:17:12"
+  },
+  {
+    "text": "Which will be really interesting when we get to Moses mother, because. Which is actually where we go next. But yeah, because.",
+    "start": "00:17:12",
+    "end": "00:17:18"
+  },
+  {
+    "text": "Oh, great, let's just do it. Wonderful, wonderful.",
+    "start": "00:17:18",
+    "end": "00:17:21"
+  },
+  {
+    "text": "So Moses mother is introduced as a daughter of Levi. And remember, in Pharaoh's mind, these daughters aren't a threat. But all of a sudden we're introduced to a daughter. And this daughter becomes pregnant and she gives birth to a son. And she saw him, that he was good.",
+    "start": "00:17:21",
+    "end": "00:17:41"
+  },
+  {
+    "text": "Come on, Tim.",
+    "start": "00:17:41",
+    "end": "00:17:42"
+  },
+  {
+    "text": "Like you were saying, it's also a reframing of the Eve story because it's exactly the same words used there, that she sees the fruit and it's good. But Moses mother sees this life in her son. And often translations will say, you know, maybe he was especially beautiful, he's a good looking little boy. But actually it's just. It's Tov. He was Tov. And so she sees his life, and it was good. And so she hides him for three months. And then when she can't hide him anymore, she makes a teva, an ark out of reeds. She tars it and Puts pitch on it, and then she places the child in it and she puts it in the reeds.",
+    "start": "00:17:42",
+    "end": "00:18:20"
+  },
+  {
+    "text": "So she becomes like a Noah figure here.",
+    "start": "00:18:20",
+    "end": "00:18:22"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:18:22",
+    "end": "00:18:22"
+  },
+  {
+    "text": "Putting life. Building the ark in the ark. Yeah.",
+    "start": "00:18:23",
+    "end": "00:18:25"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:18:25",
+    "end": "00:18:26"
+  },
+  {
+    "text": "Well, so she sees that it's good, but then instead of taking, she eventually releases. Gives the good child. She released. Let's go of it.",
+    "start": "00:18:26",
+    "end": "00:18:36"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:18:36",
+    "end": "00:18:37"
+  },
+  {
+    "text": "Just thinking about the Eve analogies. It's not just a simple analogy between. Right. Eve and Moses. Mom. What? Her actions are played off of Eve's in these really creative ways. I guess that's the summary I'm trying to get.",
+    "start": "00:18:37",
+    "end": "00:18:49"
+  },
+  {
+    "text": "Yeah. Which I think it's pulling on Genesis 1:3. It's pulling on Eve both as this mother figure for all of humanity. Chava. But also in. In the moment of temptation and the fall. But then also we have Noah woven in and like a rescue from watery death. And being highlighted is that these women are acting to. To protect and to promote and even to produce this good, flourishing life that God has spoken blessing over in the face of incredible resistance and oppression. And I think that's really important for how the story of the Exodus unfolds.",
+    "start": "00:18:49",
+    "end": "00:19:28"
+  },
+  {
+    "text": "If there's a threat on the life of the boys, and we're told that Pharaoh's enforcing that now with Plan B, the second version of the plan, then her hiding him is at risk to herself. I mean, I think we're supposed to see that. That her hiding him is actually this act of real courageous bravery, potential sacrifice of her own life. There's just a lot buried in that. She hid him for three months at risk to her own safety.",
+    "start": "00:19:28",
+    "end": "00:19:58"
+  },
+  {
+    "text": "Yeah. And with the Midwives, too. It does seem like all of them are acting in resistance to Pharaoh.",
+    "start": "00:19:58",
+    "end": "00:20:05"
+  },
+  {
+    "text": "A brutal king.",
+    "start": "00:20:05",
+    "end": "00:20:07"
+  },
+  {
+    "text": "Yeah. A violent man. It's all these brave women resisting a violent man.",
+    "start": "00:20:07",
+    "end": "00:20:11"
+  },
+  {
+    "text": "Yeah. So Moses. Mother places him in the Tevah in the Nile. And then we have Miriam. His sister is introduced. She stands from a distance to know what would be done to him. So she kind of has this guardian watching over him.",
+    "start": "00:20:12",
+    "end": "00:20:27"
+  },
+  {
+    "text": "This is the fourth woman.",
+    "start": "00:20:27",
+    "end": "00:20:28"
+  },
+  {
+    "text": "Yes, that's right. Yeah. Miriam. So Moses in the Teva in the Nile, Miriam's watching over him. And then now we have Pharaoh's daughter. And here the irony just gets so deep, because it's not just a daughter, it's Pharaoh's daughter.",
+    "start": "00:20:28",
+    "end": "00:20:44"
+  },
+  {
+    "text": "Yeah. That's great.",
+    "start": "00:20:44",
+    "end": "00:20:45"
+  },
+  {
+    "text": "This is where, for me, at this point in the story, it's so clear when you see it, you can't miss it how much subversion is happening here.",
+    "start": "00:20:45",
+    "end": "00:20:53"
+  },
+  {
+    "text": "Sam.",
+    "start": "00:20:54",
+    "end": "00:21:02"
+  },
+  {
+    "text": "With Farah's daughter, there's so many layers of subversion that are happening. So she goes down to wash by the Nile and her young women are walking along the side of the Nile with her. And she, Farah's daughter, sees the teva in the middle of the reeds, and so she sends her maidservant. So there's our sixth woman. She sends her to go and retrieve the teva and so she brings it and Farah's daughter opens the teva. So apparently it had a lid. I'm not sure if that was explicit.",
+    "start": "00:21:21",
+    "end": "00:21:53"
+  },
+  {
+    "text": "Before, but that's a good point. So did arc. Arc had a little lid covering on top.",
+    "start": "00:21:53",
+    "end": "00:21:58"
+  },
+  {
+    "text": "Yeah. So she lifts the lid and she. And this is, the detail here is so exquisite. So she lifts up the lid, she sees the child, and look, the young boy, the Na', a, he's crying and she has pity on him. And she says, this is one of the Hebrew children.",
+    "start": "00:21:58",
+    "end": "00:22:17"
+  },
+  {
+    "text": "So she knows. Right. Isn't this. The point is exposing her knowledge?",
+    "start": "00:22:17",
+    "end": "00:22:22"
+  },
+  {
+    "text": "She's aware.",
+    "start": "00:22:22",
+    "end": "00:22:23"
+  },
+  {
+    "text": "Yeah. In light of her dad's decree.",
+    "start": "00:22:24",
+    "end": "00:22:26"
+  },
+  {
+    "text": "Yeah, she's aware, which is important for then what she goes on to do. It's important that we know she knows she's not just saving any old child.",
+    "start": "00:22:26",
+    "end": "00:22:34"
+  },
+  {
+    "text": "That's good. The narrator wants us to know what she knows.",
+    "start": "00:22:34",
+    "end": "00:22:38"
+  },
+  {
+    "text": "Yeah, yeah, that's great. Because it's important for the level of resistance and courage that she's about to enact. So at this moment, Moses sister steps in and it's just this beautiful intersection because we have all these women stepping in to help. So his sister says to the daughter of Pharaoh, shall I go?",
+    "start": "00:22:38",
+    "end": "00:22:56"
+  },
+  {
+    "text": "Wait, so she's been watching. She sees Pharaoh's daughter do this. She steps in at this moment.",
+    "start": "00:22:56",
+    "end": "00:23:03"
+  },
+  {
+    "text": "Yeah. Which also presumably would take considerable courage.",
+    "start": "00:23:03",
+    "end": "00:23:07"
+  },
+  {
+    "text": "That's a good point. She doesn't know what's going on inside of Pharaoh, the daughter of Pharaoh's mind.",
+    "start": "00:23:07",
+    "end": "00:23:11"
+  },
+  {
+    "text": "Yeah, yeah.",
+    "start": "00:23:11",
+    "end": "00:23:12"
+  },
+  {
+    "text": "And I've heard Carmen Imes talk about this actually, and she said that quite possibly, if you kind of do the math on how old Aaron is in relation to Moses, Miriam might be a child. She might be, I think Carmen Nymes says, you know, maybe like we have a six year old Miriam.",
+    "start": "00:23:13",
+    "end": "00:23:31"
+  },
+  {
+    "text": "That's cool to think about.",
+    "start": "00:23:32",
+    "end": "00:23:33"
+  },
+  {
+    "text": "Yeah. So. And it is really beautiful. Something I love about this narrative is the, the diversity of the women who are. So you have, you know, you have Hebrew women, you have an Egyptian women, you have mothers and daughters and sisters and maidservants and midwives. You know, it's such a communal, there's a community of women that are coming Together.",
+    "start": "00:23:33",
+    "end": "00:23:53"
+  },
+  {
+    "text": "Yes. From different levels of social status.",
+    "start": "00:23:53",
+    "end": "00:23:56"
+  },
+  {
+    "text": "Yeah, yeah.",
+    "start": "00:23:56",
+    "end": "00:23:57"
+  },
+  {
+    "text": "Insider, outsider, nationality. Different. Yeah.",
+    "start": "00:23:57",
+    "end": "00:24:01"
+  },
+  {
+    "text": "Culture.",
+    "start": "00:24:01",
+    "end": "00:24:02"
+  },
+  {
+    "text": "Yeah. That's a great option.",
+    "start": "00:24:02",
+    "end": "00:24:03"
+  },
+  {
+    "text": "Crossing boundaries that, you know, Pharaoh has made very, very clear where there's. There should not be an alliance here. These are, you know, people who are. He's setting against each other, but they reach across those boundaries to preserve life. Yeah. So Moses sister says, should I go and call a nurse woman for you? From the Hebrews, she could nurse the child for you. And also, you know, pretty clever on the part of Miriam. She's thinking ahead. And so Pharaoh's daughter, she says, yes, go. And so Moses sister, the young woman went and she called the mother of the child, and the daughter of Pharaoh said to her, go with this child and nurse him for me, and I will give you your wage. And the woman took the child and she nursed him. And the child grew big, and she brought him to the daughter of Pharaoh, and he became a son to her. And she called his name Moshe, because she said, I drew him up out of the waters. So there's so many, many incredible things happening here in just this tiny little narrative. But even just on the surface level, we have Pharaoh commanding people, his people, to throw the Hebrew boys into the Nile. And then his very own daughter is drawing a Hebrew boy out from the Nile. So it's a direct reversal of her father's decree. Pharaoh is brutally oppressing an entire people group with seemingly no heart or sympathy. But his daughter sees the suffering of this one child, and it turns her heart to rescue him. And like we've been saying, arguably to do so at even great risk to herself, she's putting herself against Pharaoh in this moment now.",
+    "start": "00:24:03",
+    "end": "00:25:53"
+  },
+  {
+    "text": "It's a powerful contrast. Pharaoh dehumanizes them by just putting them into this category, the threat to national security.",
+    "start": "00:25:53",
+    "end": "00:26:00"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:26:00",
+    "end": "00:26:00"
+  },
+  {
+    "text": "And Pharaoh's daughter, it highlights her perception of the value of an individual life. Like, this is a people group made up of precious lives. It's so powerful.",
+    "start": "00:26:00",
+    "end": "00:26:11"
+  },
+  {
+    "text": "Yeah, yeah.",
+    "start": "00:26:11",
+    "end": "00:26:13"
+  },
+  {
+    "text": "You know, another thing. And when we studied this as a team, I forget somebody surfaced it. Maybe it was you who first noticed it, but we really became fixated on the wage that Pharaoh's daughter offers and why that little detail actually is really significant. In larger contrast with the wage for the nurse. Yeah.",
+    "start": "00:26:13",
+    "end": "00:26:35"
+  },
+  {
+    "text": "Yeah. So I think that has become possibly my favorite moment of this whole story, because it's just amazing that you have Pharaoh enslaving an entire people group and brutally so. The text really goes out of its way to tell us that. And then you have his daughter, who Turns around and pays a mother wages to nurse her own child. Like, how else could you extend a hand of dignity to somebody? I mean, it's enough that she's giving this child back to his mother. I suppose she doesn't know. She might have connected the dots. She doesn't know for sure that this is his mother. But either way, she's giving a Hebrew child back to a Hebrew woman and paying her, paying her to nurse her own child. It's just this brilliant moment of subversion.",
+    "start": "00:26:35",
+    "end": "00:27:24"
+  },
+  {
+    "text": "Yeah. Brutal slavery, which is you're extracting labor and value out of somebody and then to not, you know, compensate them. It's like the biggest. Slammed there.",
+    "start": "00:27:24",
+    "end": "00:27:36"
+  },
+  {
+    "text": "Dehumanizing.",
+    "start": "00:27:36",
+    "end": "00:27:37"
+  },
+  {
+    "text": "Yeah. Dignity.",
+    "start": "00:27:37",
+    "end": "00:27:38"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:27:38",
+    "end": "00:27:39"
+  },
+  {
+    "text": "And in this case, actually the value that's being compensated for is a value given to Moses because essentially it's care and milk to keep him alive. So it's not even Egypt's not benefiting here from this investment. So it just heightens the contrast. What her dad wouldn't give and what she is giving is just contrasting in so many ways.",
+    "start": "00:27:39",
+    "end": "00:28:03"
+  },
+  {
+    "text": "Brilliant.",
+    "start": "00:28:03",
+    "end": "00:28:03"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:28:03",
+    "end": "00:28:04"
+  },
+  {
+    "text": "It's a whole nother level. That's true. I had thought about that. It's not just she's paying the wages for his mother's sake, but yeah, she's paying to keep a Hebrew alive.",
+    "start": "00:28:04",
+    "end": "00:28:12"
+  },
+  {
+    "text": "Right. Yeah. Very powerful.",
+    "start": "00:28:12",
+    "end": "00:28:15"
+  },
+  {
+    "text": "Yeah. You know, Pharaoh is doing everything in his power to divide and destroy people, but his daughter, along with the other women in this narrative, are partnering together to preserve that life and to promote it and continue that flourishing life.",
+    "start": "00:28:15",
+    "end": "00:28:30"
+  },
+  {
+    "text": "Oh, that's a good observation. Yeah. In other words, Pharaoh's kind of the solitary figure. You know, that's interesting. Think about. He becomes increasingly solitary actually, as his madness grows through the plagues too, doesn't it? Where his own advisors are like, dude, chill out, like you're crazy. Let the people go. Whoa. That's just sinking in, really, for the first time for me. Whereas it's the community of women who deliver the soul deliverer. So even Moses, then. It's like the village. He was raised by the village. And Pharaoh is the polar opposite. His fear drives them more and more into isolation.",
+    "start": "00:28:30",
+    "end": "00:29:07"
+  },
+  {
+    "text": "Isolation. Yeah. And again, at the very beginning of the Exodus narrative, I think it's important that we have Hebrews and Egyptians together. It's. We have the Hebrews and their preservation, their rescue from slavery is really important. But we also know throughout the rest of the Exodus narrative that this bringing in of the nations is also a really important theme. And these women are enacting it here right now at the beginning of the story. And that's important for later, too.",
+    "start": "00:29:07",
+    "end": "00:29:34"
+  },
+  {
+    "text": "Well, it's important for the seventh war woman.",
+    "start": "00:29:35",
+    "end": "00:29:36"
+  },
+  {
+    "text": "Yeah, right. Yes.",
+    "start": "00:29:36",
+    "end": "00:29:37"
+  },
+  {
+    "text": "Wait, wait, hold on. What are they doing? They're bringing in the nation.",
+    "start": "00:29:37",
+    "end": "00:29:42"
+  },
+  {
+    "text": "What are we talking about?",
+    "start": "00:29:43",
+    "end": "00:29:44"
+  },
+  {
+    "text": "Yeah. So we have Hebrew women, right? So the midwives, most likely Hebrew women. Then we have Moses, mother and sister, who we know are Hebrews. But then we have Pharaoh's daughter and her maidservant, who are Egyptian. And then, like Tim's saying, we're about to turn to Zipporah, who's a Midianite. And so all of these women are working in partnership together. So the bringing in of the nations that we're talking about is this partnership that extends beyond Israel for pursuing the good, flourishing life that God has blessed humanity with. And so. And that's exactly what Israel is supposed to go and do. Right. Is to be that blessing, to bring that blessing through their own flourishing. And we're seeing it right here that these women are working together in partnership, even across those boundaries.",
+    "start": "00:29:44",
+    "end": "00:30:31"
+  },
+  {
+    "text": "So Hebrew women, Egyptian women. And now we're going to meet a Midianite woman.",
+    "start": "00:30:32",
+    "end": "00:30:37"
+  },
+  {
+    "text": "So Zipporah is introduced in chapter two, when Moses flees Pharaoh, because all of a sudden, now Pharaoh does want to kill him.",
+    "start": "00:31:08",
+    "end": "00:31:15"
+  },
+  {
+    "text": "Yes. Moses all of a sudden is like a man.",
+    "start": "00:31:16",
+    "end": "00:31:18"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:31:19",
+    "end": "00:31:19"
+  },
+  {
+    "text": "He grows up short. He grows up in a sentence. Yeah. And then there's that famous story. Famous just because in all the movies, it's one of the most dramatic moments.",
+    "start": "00:31:19",
+    "end": "00:31:29"
+  },
+  {
+    "text": "Of the story where he kills an Egyptian.",
+    "start": "00:31:29",
+    "end": "00:31:33"
+  },
+  {
+    "text": "He sees an Egyptian slave driver beating one of his brothers. Right. The narrative calls it brothers. And then he just murders that guy on the spot and hides him in the sand. Oh, yeah, this interesting.",
+    "start": "00:31:33",
+    "end": "00:31:46"
+  },
+  {
+    "text": "I forgot about that. Yeah.",
+    "start": "00:31:46",
+    "end": "00:31:47"
+  },
+  {
+    "text": "Parallel. But contrast with his mom, because his mom hid a human life to save their lives, and Moses hid a human because he had taken their life. There's ambiguity around Moses. Murder of the Egyptian. I think that's actually important for the Zipporah story.",
+    "start": "00:31:47",
+    "end": "00:32:04"
+  },
+  {
+    "text": "Yes. And important for where we've just come from, too, because we have all these actions that have been taken to preserve life. And then it is interesting that Moses comes out and the first thing he does actually is take life.",
+    "start": "00:32:05",
+    "end": "00:32:17"
+  },
+  {
+    "text": "It's a contrast to his mom and all these women, though, because Pharaoh was striking, so to speak, all the life these Hebrews. And what these women do is they resist, but they don't resist in kind. They don't resist Pharaoh. By using Pharaoh's tactics, they subvert. And their way of resisting is to save life. And so I guess when Moses is introduced. The first thing he does in the story acts like Pharaoh. Acts more like Pharaoh than like, all of these women.",
+    "start": "00:32:17",
+    "end": "00:32:47"
+  },
+  {
+    "text": "And it causes exile.",
+    "start": "00:32:48",
+    "end": "00:32:49"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:32:50",
+    "end": "00:32:50"
+  },
+  {
+    "text": "And we know from the chapters that will come and from his moment at the burning bush and that whole dialogue he has with God there. Moses is a complex character at this point. There's a lot of kind of figuring out for himself who he is that has to happen and who God is. And it's interesting that these women are set up to be these exemplars, these kind of paradigmatic characters that we look back to and think, oh, that's. They're an example either of how we should have been or how we shouldn't have been. You know, they're really important for everything that's going to come. And so Moses, he has kind of this longer trajectory through the rest of the narrative where we see him, you know, figuring himself out and making mistakes.",
+    "start": "00:32:51",
+    "end": "00:33:28"
+  },
+  {
+    "text": "That's good. So after the murder, Moses has to flee. And then he happens upon this. Well in the wilderness where he meets seven women.",
+    "start": "00:33:29",
+    "end": "00:33:40"
+  },
+  {
+    "text": "Seven women.",
+    "start": "00:33:40",
+    "end": "00:33:40"
+  },
+  {
+    "text": "Oh, he meets seven women.",
+    "start": "00:33:40",
+    "end": "00:33:42"
+  },
+  {
+    "text": "He meets seven. Seven women. Which is surely kind of the narrator winking like, hey, look for the seven. She's probably among these seven, in case you missed it. Yeah.",
+    "start": "00:33:42",
+    "end": "00:33:51"
+  },
+  {
+    "text": "Women are really important for this story. Yeah, yeah, yeah, yeah. So. And Zipporah, obviously is part of both sets of seven.",
+    "start": "00:33:52",
+    "end": "00:33:58"
+  },
+  {
+    "text": "Yeah. Right.",
+    "start": "00:33:59",
+    "end": "00:34:00"
+  },
+  {
+    "text": "Because she's one of the named or the specifically mentioned women. But she's also part of Jethro's seven daughters introduced in chapter two. So, I mean, initially in chapter two, I think Zipporah's role is interesting in that she provides, in a sense, along with her father and her community. They provide a stability for Moses in this time of kind of figuring out, fleeing from Pharaoh, his. His life being in danger and just kind of figuring out who he is. There's a family and a sense, an identity and a home that's provided through Zipporah and her family. But then we get to chapter four, and it gets a lot more dramatic.",
+    "start": "00:34:00",
+    "end": "00:34:36"
+  },
+  {
+    "text": "Okay. So we're speeding forward. The burning bush has happened.",
+    "start": "00:34:38",
+    "end": "00:34:40"
+  },
+  {
+    "text": "Yeah, yeah. The burning bush happens in between.",
+    "start": "00:34:40",
+    "end": "00:34:42"
+  },
+  {
+    "text": "Okay, That's. That's significant because God's saying, I'm gonna point you.",
+    "start": "00:34:42",
+    "end": "00:34:45"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:34:45",
+    "end": "00:34:46"
+  },
+  {
+    "text": "Go back, confront Pharaoh. You're gonna be the one to save.",
+    "start": "00:34:46",
+    "end": "00:34:49"
+  },
+  {
+    "text": "Moses tries to get out of it.",
+    "start": "00:34:49",
+    "end": "00:34:51"
+  },
+  {
+    "text": "Moses. Yeah. Five.",
+    "start": "00:34:51",
+    "end": "00:34:52"
+  },
+  {
+    "text": "Five times.",
+    "start": "00:34:52",
+    "end": "00:34:53"
+  },
+  {
+    "text": "Yeah, yeah. Finally gives in. Okay, so all of that. So just.",
+    "start": "00:34:53",
+    "end": "00:34:56"
+  },
+  {
+    "text": "And. And it is important because, like, we were talking about so much, I think, of the burning bush moment is Moses figuring out again for himself, saying, even when I go, who do I say you are? Who do I say, send me? You know, like, there's so much that Moses is just trying to figure out.",
+    "start": "00:34:57",
+    "end": "00:35:12"
+  },
+  {
+    "text": "And I see what you're saying is the women never have this moment of crisis. Like, but who is God and should we really protect life?",
+    "start": "00:35:12",
+    "end": "00:35:19"
+  },
+  {
+    "text": "And he I. Because now he's also. Now he has three identities, kind of, so to speak. Who am I and who are you?",
+    "start": "00:35:19",
+    "end": "00:35:26"
+  },
+  {
+    "text": "God.",
+    "start": "00:35:26",
+    "end": "00:35:27"
+  },
+  {
+    "text": "Well. And yes, the women just somehow the midwives just fear God. They just know God in this very powerful way, and just like, at risk of their own safety, do what they know is God's will.",
+    "start": "00:35:28",
+    "end": "00:35:38"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:35:38",
+    "end": "00:35:38"
+  },
+  {
+    "text": "Moses goes through long, complicated process to not just figure out God's will, but then do it. Wow. Such a great contrast.",
+    "start": "00:35:38",
+    "end": "00:35:46"
+  },
+  {
+    "text": "Yeah, yeah. And then again, like, you're saying, alongside Moses, mother, who sees what's good, These women seem tuned in with what God is doing and with the blessing of this life that he's giving. Yeah, yeah. And then, so Moses has left the burning bush and he's. He's setting out back towards Egypt to obey what God has told him to do. And then there's this interesting.",
+    "start": "00:35:47",
+    "end": "00:36:10"
+  },
+  {
+    "text": "Really weird story. Yeah, really weird story.",
+    "start": "00:36:10",
+    "end": "00:36:13"
+  },
+  {
+    "text": "Yeah, yeah, yeah. So chapter four, verses 24 to 26. All of a sudden, it came about on the road at their night shelter. This is Moses and Zipporah and their children that Yahweh encountered him, presumably Moses, and he was seeking to put him to death. But Zipporah.",
+    "start": "00:36:13",
+    "end": "00:36:32"
+  },
+  {
+    "text": "And we don't know why.",
+    "start": "00:36:32",
+    "end": "00:36:33"
+  },
+  {
+    "text": "Well.",
+    "start": "00:36:34",
+    "end": "00:36:34"
+  },
+  {
+    "text": "Well, not yet. What? What do you mean?",
+    "start": "00:36:34",
+    "end": "00:36:38"
+  },
+  {
+    "text": "Well, oh, this little story is a riddle.",
+    "start": "00:36:38",
+    "end": "00:36:40"
+  },
+  {
+    "text": "Oh, yes.",
+    "start": "00:36:40",
+    "end": "00:36:41"
+  },
+  {
+    "text": "So I'm just saying at this point, the riddle begins, like, why does he want to put him to death?",
+    "start": "00:36:41",
+    "end": "00:36:44"
+  },
+  {
+    "text": "Yeah. Packed with hyperlinks that I think unlock the riddle, but the reader has to do quite a lot of work.",
+    "start": "00:36:44",
+    "end": "00:36:50"
+  },
+  {
+    "text": "Yeah, yeah.",
+    "start": "00:36:50",
+    "end": "00:36:50"
+  },
+  {
+    "text": "So Zipporah takes a flint rock, like you do, and she. She cuts the foreskin of her son and she touched it to his feet. Questions about who's his and what are feet? And she, what are feet?",
+    "start": "00:36:51",
+    "end": "00:37:08"
+  },
+  {
+    "text": "Why is there a question, what is feet?",
+    "start": "00:37:09",
+    "end": "00:37:10"
+  },
+  {
+    "text": "Because sometimes in Hebrew Bible, feet is a euphemism for male genitalia. So the question is it?",
+    "start": "00:37:13",
+    "end": "00:37:20"
+  },
+  {
+    "text": "That's good to know.",
+    "start": "00:37:20",
+    "end": "00:37:20"
+  },
+  {
+    "text": "Yeah. Yeah. So this raises questions of whether it's her son's feet or Moses feet, and if it's even feet. And then she said, indeed, you are, for me, a bridegroom. We could say a lot of translations say a bridegroom of bloodshed. So I'll Say that, and then we can talk more about that translation. And then he relented, presumably, Yahweh. There's a lot of ambiguity. He relented from him when she said, you're a bridegroom of blood. Regarding the circumcision. Unseen.",
+    "start": "00:37:20",
+    "end": "00:37:53"
+  },
+  {
+    "text": "Unseen.",
+    "start": "00:37:53",
+    "end": "00:37:53"
+  },
+  {
+    "text": "You're like, what just happened?",
+    "start": "00:37:54",
+    "end": "00:37:56"
+  },
+  {
+    "text": "So, yeah, what did just happen? So they're leaving. God comes, gonna put Moses to death. We don't know why. But then Zipporah circumcises her child. Some ambiguity of what does she do with the foreskin? And then God sees all this. He sees the circumcision, and he decides, cool, I don't need to kill you.",
+    "start": "00:37:57",
+    "end": "00:38:16"
+  },
+  {
+    "text": "Okay? That's what happens. Basic outline. God's gonna kill Moses. Zipporah steps in, does this thing, saves Moses. Now, God's not gonna kill Moses.",
+    "start": "00:38:17",
+    "end": "00:38:26"
+  },
+  {
+    "text": "Okay.",
+    "start": "00:38:26",
+    "end": "00:38:26"
+  },
+  {
+    "text": "She saves his life. We don't really know why or what's really going to. I don't fully appreciate it, but she saves his life.",
+    "start": "00:38:27",
+    "end": "00:38:33"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:38:34",
+    "end": "00:38:34"
+  },
+  {
+    "text": "Okay.",
+    "start": "00:38:34",
+    "end": "00:38:34"
+  },
+  {
+    "text": "Yeah, yeah. I think right at the outset, there's the fact that Zipporah is somehow. She's aware of the practice of circumcision, which all the way Back to Genesis 17, is this unique marker, if you will, of Israel's relationship with God. So Zipporah is in the know, and she's aware in this moment that that's.",
+    "start": "00:38:34",
+    "end": "00:38:56"
+  },
+  {
+    "text": "What'S required, needs to be done.",
+    "start": "00:38:56",
+    "end": "00:38:57"
+  },
+  {
+    "text": "Yeah. So she has this incredible insight where.",
+    "start": "00:38:57",
+    "end": "00:39:01"
+  },
+  {
+    "text": "Moses, who grew up. Well, he grew up in Pharaoh's house, so who knows what he.",
+    "start": "00:39:01",
+    "end": "00:39:05"
+  },
+  {
+    "text": "This is part of his ambiguous identity.",
+    "start": "00:39:05",
+    "end": "00:39:07"
+  },
+  {
+    "text": "He just doesn't. Like, he doesn't know, or he's ignoring it.",
+    "start": "00:39:07",
+    "end": "00:39:10"
+  },
+  {
+    "text": "But apparently his son wasn't circumcised. And this would have been. He would have been old enough now, his son, that he should have been. We obviously don't know if Moses was circumcised. He would have been in a Hebrew home at day eight because she was.",
+    "start": "00:39:10",
+    "end": "00:39:23"
+  },
+  {
+    "text": "With his mom three months. Three months.",
+    "start": "00:39:23",
+    "end": "00:39:25"
+  },
+  {
+    "text": "So he would have been.",
+    "start": "00:39:25",
+    "end": "00:39:26"
+  },
+  {
+    "text": "Yeah. So it's very possible that Moses is. But clearly their son wasn't. And so Zipporah is somehow aware in this, you know, pressured moment where God has just showed up to kill her husband. So Zipporah becomes this figure that actually steps in between God and Moses and rescues him in that moment, which is really important. So Moses is rescued once again. And then this is interesting, and this might be where we start to talk around some of the ambiguity, but there's a possibility that this little narrative is also pointing forward to the Passover and to the shedding of blood. Even when in that narrative, when God comes against the firstborn sons to take life and the blood is what prevents him from doing so.",
+    "start": "00:39:26",
+    "end": "00:40:16"
+  },
+  {
+    "text": "That's right. And the word touch. She touched the foreskin to his quote feet is the same word used of touching the blood of the lamb.",
+    "start": "00:40:16",
+    "end": "00:40:26"
+  },
+  {
+    "text": "Oh, on the door.",
+    "start": "00:40:26",
+    "end": "00:40:27"
+  },
+  {
+    "text": "To the door with the hyssop branch. You touch it, you touch it. The blood gets touched to the door.",
+    "start": "00:40:27",
+    "end": "00:40:33"
+  },
+  {
+    "text": "Interesting. So this is connected. We're supposed to meditate on this story in relation to the Passover story.",
+    "start": "00:40:33",
+    "end": "00:40:39"
+  },
+  {
+    "text": "It's like a pre Passover.",
+    "start": "00:40:39",
+    "end": "00:40:41"
+  },
+  {
+    "text": "We could have a whole episode on that.",
+    "start": "00:40:41",
+    "end": "00:40:43"
+  },
+  {
+    "text": "Well, so actually maybe just as a footnote, we have had an episode on that, John.",
+    "start": "00:40:43",
+    "end": "00:40:47"
+  },
+  {
+    "text": "A whole episode on that.",
+    "start": "00:40:49",
+    "end": "00:40:51"
+  },
+  {
+    "text": "Well, in our Exodus series from the Torah series a couple years ago, we did at least half or a third of an episode on this story. But it's so dense, it's wild. Yeah, totally. So maybe I'll just. We could put a link to that in the show notes here. But what we're highlighting now, specifically how this fits in to the portrait of the seven women. So keep taking us forward tomorrow. What else do you see here?",
+    "start": "00:40:51",
+    "end": "00:41:16"
+  },
+  {
+    "text": "Yeah, so I think those are some of the key things is that Zipporah's actions here, they reach back to Genesis 17. She's aware of something that's deeply important for Israel's relationship with God in that moment, but they also reverbate forward in the story like they're really significant. We know the Passover is this huge moment in Israel's identity and in their exodus from Egypt. And so this tiny little story, I mean it's doing so many things, but at least on one level, it's connecting back and forward for these identity shaping moments for Israel and Zipporah, a Midianite is the one who's taking the action.",
+    "start": "00:41:17",
+    "end": "00:41:59"
+  },
+  {
+    "text": "So that analogy with Passover then significant because also at Passover, the threat to life is something that God is bringing about on the night of Passover. That's morally complicated for readers of the story, ancient and modern. Like how Yahweh is involved with the death of the firstborn and Passover. And isn't it interesting that that same moral ambiguity and shock is happening in this little story that's like a preacher.",
+    "start": "00:41:59",
+    "end": "00:42:27"
+  },
+  {
+    "text": "And you're like, why?",
+    "start": "00:42:27",
+    "end": "00:42:28"
+  },
+  {
+    "text": "Exactly. Totally. So that's interesting. Parallel. But then also in the Passover story, God is both the one bringing the plague and God is the one providing the protection, deliverance from the plague by directing Israel with the Passover lamb. Interestingly, the figure who's in the delivering slot of this little riddle story isn't God. It's this woman. It's Zipporah. But then that makes you back, reflect and say, whoa. Well, at Passover, God was the one both bringing about the justice and the death plague, but also delivering life. But now the seventh woman is bringing about the deliverance from death, which makes you rethink, like, well, who's delivering from death? Is it God or these women? And maybe the whole point is maybe it's not the. Either or. The women are the way that God is saving life.",
+    "start": "00:42:28",
+    "end": "00:43:25"
+  },
+  {
+    "text": "Yeah. They're somehow aware of what God is doing. They're courageous enough to step into it and to resist what Pharaoh's doing and to preserve and protect life. Yeah.",
+    "start": "00:43:25",
+    "end": "00:43:34"
+  },
+  {
+    "text": "This is a stellar example of meditation literature. What we mean by meditation literature, like, these women are already awesome. Just as you read 1 to 4, the Passover story brings a whole new layer of, like, appreciation, so to speak.",
+    "start": "00:43:34",
+    "end": "00:43:48"
+  },
+  {
+    "text": "Yeah. Yeah. And I think it could be cool to point audience members to Carmen Iam's Exodus classroom that we have, because she talks about some of this in more detail.",
+    "start": "00:43:49",
+    "end": "00:43:58"
+  },
+  {
+    "text": "It's.",
+    "start": "00:43:58",
+    "end": "00:43:59"
+  },
+  {
+    "text": "But she talks about how Zipporah, her name, and Shipra, the very first woman named in the story. In English, their names, when we pronounce it, they don't sound very similar, but in Hebrew they are. They have similarity. And then apparently in the Greek, the lxx, they're the same. They have the same name. So that's interesting, because.",
+    "start": "00:43:59",
+    "end": "00:44:18"
+  },
+  {
+    "text": "What.",
+    "start": "00:44:18",
+    "end": "00:44:19"
+  },
+  {
+    "text": "Yeah, apparently we're talking about Zipporah, the.",
+    "start": "00:44:19",
+    "end": "00:44:22"
+  },
+  {
+    "text": "First woman and the last woman, and Shipra, the midwife.",
+    "start": "00:44:22",
+    "end": "00:44:25"
+  },
+  {
+    "text": "So in that way, it's just kind of bringing home this framing.",
+    "start": "00:44:25",
+    "end": "00:44:29"
+  },
+  {
+    "text": "Yeah. The framing of either one.",
+    "start": "00:44:29",
+    "end": "00:44:30"
+  },
+  {
+    "text": "I've never noticed that before. They're one letter different in Hebrew. Oh, are they Zipporah and. But then I can see in Greek, there wouldn't be that difference. They would just have to use a sigma.",
+    "start": "00:44:30",
+    "end": "00:44:41"
+  },
+  {
+    "text": "Yeah. Yeah. And do you know what's really interesting about that, too, is that I think it's something that, you know, commentators have puzzled over is the meanings of their names. And they're kind of weird, like Little Bird, maybe Sephora and Sparkle, you know, like. But I. I think it has more to do with.",
+    "start": "00:44:42",
+    "end": "00:44:58"
+  },
+  {
+    "text": "Brilliant.",
+    "start": "00:44:59",
+    "end": "00:44:59"
+  },
+  {
+    "text": "Yeah. That they sound okay. Yeah. So just bringing it home. Yeah.",
+    "start": "00:44:59",
+    "end": "00:45:04"
+  },
+  {
+    "text": "Full circle.",
+    "start": "00:45:04",
+    "end": "00:45:05"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:45:05",
+    "end": "00:45:05"
+  },
+  {
+    "text": "Fantastic. Wow. Okay.",
+    "start": "00:45:05",
+    "end": "00:45:07"
+  },
+  {
+    "text": "Yeah. So kind of just to wrap it up that basically, these women at the beginning of a story that's all about God rescuing and bringing life from death, that continues to echo throughout the whole Biblical story of God rescuing, bringing life in the face of the death and the resistance that we as humans enact towards that life. These women, they partner with God to do what he's doing and to, to protect that life and even to resist a really powerful, fear inspiring figure. But they, the midwives, explicitly choose to fear Yahweh over the pharaoh. And so these seven women, they also point forward to Jesus. They, you know, we've talked about how the Exodus narrative is important for how Jesus comes and brings rescue from slavery. And these women, in many ways they act even in their powerlessness and courage and promotion of life, they are like Jesus. Sam, we started by talking about beginnings. And it is really interesting the more that I've looked at it, actually Exodus 1 through 4, it's not alone in being a really important story where women are at the beginning and are operating in this role. So actually there's a lot of stories in the Bible that start this way. So there's the book of Joshua that starts with Rechab and her rescue of the spies. Judges has this really interesting little story about Aqsa right at the beginning where she inherits land. She asks her father for land and she gives her land. And each one of these stories is important in different ways for the stories that they shape, Right.",
+    "start": "00:45:07",
+    "end": "00:47:17"
+  },
+  {
+    "text": "Because Aksa, it's a tiny story, right. But it's a story also where all of the tribes of Israel are not able to get all of the land. Right. And then right there in all of those failures is this woman named Aksa who not only gets land, but she asks for more and like, gets it.",
+    "start": "00:47:17",
+    "end": "00:47:35"
+  },
+  {
+    "text": "She asks for really good land. Yeah. And then her father gives her even more. Yeah.",
+    "start": "00:47:35",
+    "end": "00:47:39"
+  },
+  {
+    "text": "So cool.",
+    "start": "00:47:39",
+    "end": "00:47:40"
+  },
+  {
+    "text": "Yeah, it's really important. And then Ruth obviously has her whole story as her own, but at the beginning, her oath is really, really important and kind of sets the bar for what all the characters will follow. And I think Hannah is another one. At the beginning of first and Second Samuel, her story and then her song are really important for I think that we're supposed to measure the kings actually by how, how they look in light of Hannah's song and what she describes there in terms of power and powerlessness and reliance on God versus grasping power and oppressing other people. And then the beginning of Esther, we have Vashti, who the queen stands up to a king. Yeah. In this moment where he demands something that's just unjust and undignifying and she says no, just quietly resists. And then in the New Testament too, we have Mary and Elizabeth and I.",
+    "start": "00:47:40",
+    "end": "00:48:33"
+  },
+  {
+    "text": "Think not a short list.",
+    "start": "00:48:33",
+    "end": "00:48:35"
+  },
+  {
+    "text": "Yeah. Yeah. It's not an isolated case.",
+    "start": "00:48:35",
+    "end": "00:48:38"
+  },
+  {
+    "text": "And what's interesting is in the stories, you guys, correct me if I'm wrong. It doesn't feel like the stories present them as really conflicted women. Like, when you get to David or Solomon, it's like, this guy's great. And then also look at how horrible he is too. Like, there's all this, like, just drama and conflict with the character of these men. But then you get to these women and it's kind of more like just look how great they are.",
+    "start": "00:48:38",
+    "end": "00:49:01"
+  },
+  {
+    "text": "Yeah. Do you know, I've wondered, though, I've started to wonder if at least a part of it isn't because most, if not all of these women are in some sense in a powerless position. And that we can point back to the fall for that. The consequences of the fall, spoken by God, are okay, because of this brokenness that's entered the world. What had been good, you know, a symptom of that brokenness is going to be this ruling over. And so that's from the start, you're saying.",
+    "start": "00:49:03",
+    "end": "00:49:35"
+  },
+  {
+    "text": "Real quick to clarify. Thank you for this great insight. In other words, the co ruling of male and female of Genesis 1 becomes of male ruling the female in Genesis 3 as a sign of what's wrong with the world outside of you.",
+    "start": "00:49:35",
+    "end": "00:49:48"
+  },
+  {
+    "text": "Exactly. Yeah. That's really clear in the way the story progresses. The moment of hope, of heartbreak in the story where so much is happening relationally that's broken. But one key symptom is the ruling over, which inevitably, and we see this in narrative after narrative, puts women in this position of being ruled over and being powerless. So I wonder if it isn't, you know, what you're naming John, that there are often times where the male characters, in a sense, they're put in positions of power. It's easier for them to grasp for power and to exercise that power over other people. Whereas these women are more often than not in positions already of powerlessness. And what's really significant is when from those positions of powerlessness they see they're somehow. They have this insight into the upside down kingdom which comes through Jesus and comes through the powerless Savior who is ultimately powerful, but you know, who's. Who comes vulnerably through, you know, through a virgin birth as a baby. And so it seems like it ties together this overarching theme through the story that has to do with. With power and how we strive to grasp it and how Jesus subverts that. And all these. These characters leading up to him too. And many of them are women.",
+    "start": "00:49:48",
+    "end": "00:51:14"
+  },
+  {
+    "text": "Scholarship team was working on yesterday, we were meditating on a section of one of Paul's letters to the Corinthians where he talks about the wisdom of God that made the wisdom of the world foolish by looking foolish. How a crucified messiah, ultimate powerlessness is somehow God's favorite means to show true wisdom to the people who think that they're powerful and wise. And in a way, he's putting words, he's turning into a slogan, a shorthand. What all these stories are showing through narrative.",
+    "start": "00:51:15",
+    "end": "00:51:49"
+  },
+  {
+    "text": "Yeah, yeah, yeah. And Ken made the servant song in Isaiah as well. Is another place where you really. It's made explicit.",
+    "start": "00:51:50",
+    "end": "00:51:57"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:51:57",
+    "end": "00:51:57"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:51:57",
+    "end": "00:51:57"
+  },
+  {
+    "text": "Man. This is amazing.",
+    "start": "00:51:57",
+    "end": "00:52:01"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:52:02",
+    "end": "00:52:02"
+  },
+  {
+    "text": "This is just four chapters.",
+    "start": "00:52:03",
+    "end": "00:52:04"
+  },
+  {
+    "text": "Yeah. Of one story.",
+    "start": "00:52:05",
+    "end": "00:52:07"
+  },
+  {
+    "text": "Yeah. But such a great example. Cause in biblical narrative, it's not common that you get this many characters on the stage in such a short amount of time.",
+    "start": "00:52:07",
+    "end": "00:52:15"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:52:15",
+    "end": "00:52:16"
+  },
+  {
+    "text": "Typically, biblical authors just put a few people in front of you at a time. But to get these seven female characters in a short span with so few male characters, it's like someone's really trying to get us to think about all these dynamics, you know, that we're naming.",
+    "start": "00:52:16",
+    "end": "00:52:31"
+  },
+  {
+    "text": "And it's the introduction to then what becomes one of the most important kind of thematic narratives in the whole Bible.",
+    "start": "00:52:31",
+    "end": "00:52:39"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:52:39",
+    "end": "00:52:39"
+  },
+  {
+    "text": "Of the Exodus Way.",
+    "start": "00:52:40",
+    "end": "00:52:41"
+  },
+  {
+    "text": "Sheesh. So amazing.",
+    "start": "00:52:41",
+    "end": "00:52:42"
+  },
+  {
+    "text": "Yeah. Yeah.",
+    "start": "00:52:42",
+    "end": "00:52:44"
+  },
+  {
+    "text": "Tamara, thank you.",
+    "start": "00:52:45",
+    "end": "00:52:46"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:52:47",
+    "end": "00:52:47"
+  },
+  {
+    "text": "Thank you guys for playing tour guide through these stories. This is really, really powerful stuff.",
+    "start": "00:52:47",
+    "end": "00:52:53"
+  },
+  {
+    "text": "That's it for today's episode. Next week, we'll do a question and response with your questions around the theme of the Exodus Way. Bibleproject is a crowdfunded nonprofit, and we exist to help people experience the Bible as a unified story that leads to Jesus. Everything that we make is free because of the generous support of thousands of people just like you. Thank you so much for being a part of this with us.",
+    "start": "00:52:56",
+    "end": "00:53:20"
+  },
+  {
+    "text": "Hey, my name is sue, and I'm from Hawaii. Hi, my name is Gary and I'm from Milwaukee, Oregon. First heard about the Bible Project at church. I look forward to using it with our youth group. I first heard about the Bible project on YouTube. YouTube video, and I'm like, what is this? And I use now the Bible Project for everything. My favorite thing about the Bible Project is the theology. I learned so much from it. My favorite thing is just how accessible it makes the Bible and gives people a different perspective on things. We believe that the Bible is a unified story that leads to Jesus.",
+    "start": "00:53:22",
+    "end": "00:53:55"
+  },
+  {
+    "text": "We're a crowdfunded project by people like me.",
+    "start": "00:53:55",
+    "end": "00:53:58"
+  },
+  {
+    "text": "Find free videos, articles, podcasts, classes, and more on the BibleProject app and@bibleproject.com hey everyone, this is Barb.",
+    "start": "00:53:58",
+    "end": "00:54:10"
+  },
+  {
+    "text": "I'm a volunteer at BibleProject. We're a group of people that sit.",
+    "start": "00:54:10",
+    "end": "00:54:14"
+  },
+  {
+    "text": "Around a table and do our work, which is meaningful, lovely work, and it's the most warm place you can possibly imagine. There's a whole team of people that bring the podcast to life every week. For for a full list of everyone who's involved, check out the show credits in the episode description wherever you stream the podcast and on our website.",
+    "start": "00:54:14",
+    "end": "00:54:33"
+  }
+]

@@ -1,0 +1,992 @@
+[
+  {
+    "text": "Welcome to this midweek episode of the BibleProject podcast.",
+    "start": "00:00:10",
+    "end": "00:00:13"
+  },
+  {
+    "text": "I'm John and this is Tim. Today we get to talk with Haley Goranson. Jacob. We have been doing some of these recently where we'll reach out to a scholar whose book I discovered while John and I are working on a video idea or theme, video or topic. So I actually found Halley's work, which is a book called Conformed to the Image of his Reconsidering Paul's Theology of Glory in Romans. So essentially it's a souped up word and theme study on the word glory in Paul's letters and then specifically to the Romans. We've talked about glory before.",
+    "start": "00:00:13",
+    "end": "00:00:55"
+  },
+  {
+    "text": "We have. It's one of those words that we don't use in normal everyday English.",
+    "start": "00:00:55",
+    "end": "00:01:00"
+  },
+  {
+    "text": "Yeah. It's a common biblical word often to describe God's glory, which is often associated with either how God glows like a light bulb, like the sun, or radiance, but also God's status or importance. So we've talked about this in the podcast. There's actually a lot of really important, well known statements in Paul's letter to the Romans that have the word glory. All have sinned and fallen short of the glory. The glory of God.",
+    "start": "00:01:00",
+    "end": "00:01:28"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:01:28",
+    "end": "00:01:29"
+  },
+  {
+    "text": "So what Hayley did, this book is a revision of her actually her PhD thesis done at the University of St. Andrews. What she does is she does a study of the word glory in Paul's letters, then in Second Temple Jewish literature, and then she lands back at the letter to the Romans and provides some just unique insights that gave me. It was just like you can read the same text for 20 years and then all of a sudden ask a new question and boom, the things unfold in ways you've never seen them before. So I learned so much from her book that I said we should reach out and talk to her.",
+    "start": "00:01:29",
+    "end": "00:02:04"
+  },
+  {
+    "text": "We're really thankful for Haley spending some time with us.",
+    "start": "00:02:04",
+    "end": "00:02:06"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:02:06",
+    "end": "00:02:07"
+  },
+  {
+    "text": "So let's get into it.",
+    "start": "00:02:07",
+    "end": "00:02:08"
+  },
+  {
+    "text": "Let's do it. Haley, thank you for joining us today on the podcast.",
+    "start": "00:02:08",
+    "end": "00:02:19"
+  },
+  {
+    "text": "My pleasure.",
+    "start": "00:02:19",
+    "end": "00:02:20"
+  },
+  {
+    "text": "We are excited to hear you talk more about some of the ideas that I got to read about in your book and then got excited about it. John and I have talked about it. John and I have had an ongoing conversation about the theme of glory and the image of God and the human calling. That's kind of been a sub theme of all of our work over the last couple years. So when I came across your book, I was like, oh yes, just like write down the center lane of things that we both care a lot About. But first, tell us a little bit about yourself, maybe where you're from, Haley, and how you ended up in biblical studies and what you're doing right now.",
+    "start": "00:02:20",
+    "end": "00:03:03"
+  },
+  {
+    "text": "Okay. Yeah. Great. Well, as we'll quickly hear from the accent, I'm from Minnesota originally.",
+    "start": "00:03:03",
+    "end": "00:03:08"
+  },
+  {
+    "text": "Oh, yeah? What part of the state?",
+    "start": "00:03:09",
+    "end": "00:03:11"
+  },
+  {
+    "text": "Well, the southeast corner in a tiny rural town called mazepa. It's about 600 people. So moved my way from there was eventually at Crown College in Minnesota, and so did Biblical studies there. Yeah, I've just kind of made my way from there to various places throughout the United States doing different adventures. Seminary in Massachusetts at Gordon Conwell, pastored a church for a couple years in Cooke City, Montana, and then, yeah, some time in Scotland doing PhD work. And now here at Whitworth University in Spokane.",
+    "start": "00:03:11",
+    "end": "00:03:46"
+  },
+  {
+    "text": "Tell us about how you got hooked on biblical studies. I'm always interested to hear that story.",
+    "start": "00:03:47",
+    "end": "00:03:54"
+  },
+  {
+    "text": "Well, I became a Christian when I was 12, and from that point on, I just had this overwhelming desire to read the Bible and was just. It was an insatiable desire. And so when I went to college, I wanted to go to be able to take just a year of Bible classes. And then my goal was to go on to pre med and eventually to be a pediatric oncologist. So what I'm doing now is quite different. And that's really thanks in part to the Bible classes that I took at Crown College in Minnesota. I took a Galatians class. So we got to, you know, the. The part where Paul's talking about Abraham and the coming of the law 400 years, 30 years later, and it became the Bible, just kind of became alive to me. It was like this new thing where the Old Testament and the New Testament blended to make this beautiful narrative that I'd really never before. And I was really just hooked from that point on. So I changed my major, stuck around, and here I am.",
+    "start": "00:03:54",
+    "end": "00:04:57"
+  },
+  {
+    "text": "So it sounds like it was Paul's letters that first got you excited about the scope of the overall biblical story. That's what you're saying?",
+    "start": "00:04:57",
+    "end": "00:05:06"
+  },
+  {
+    "text": "Yeah, it was very much Paul's letters. Yep.",
+    "start": "00:05:06",
+    "end": "00:05:08"
+  },
+  {
+    "text": "Yeah. Now, I found out a bit about you through your book, which is about Paul's letter to the Romans. So was it just your education? Graduate school was kind of focused, whole Bible, but through the Pauline letters, was that the story?",
+    "start": "00:05:08",
+    "end": "00:05:21"
+  },
+  {
+    "text": "Yep. Basically, yeah. I just have continued to focus on Paul, and as I've continued to focus on Paul, and I think as shifts have happened in scholarship, my professors throughout the different years have been attuned to that and have been Emphasizing more and more the Old Testament echoes, intertextuality issues, and have helped to concrete. To make concrete this larger biblical narrative. And so I got more and more excited about seeing these Old Testament echoes in the New Testament and then eventually even the creation narrative in Paul's letters on a textual level. But then it was also, okay, what does this actually mean then, for Christianity? What does it mean for when we talk about what the Gospel is or what salvation is? How does the creation narrative fit into that? So those types of questions have kind of been trained in me. I've been trained to ask those types of questions now.",
+    "start": "00:05:21",
+    "end": "00:06:18"
+  },
+  {
+    "text": "Yeah. Awesome. So, yeah, that's a perfect. Yeah. Kind of lead into your book, which I came across conformed to the image of his son reconsidering Paul's theology of glory in Romans. This is the end result of your graduate work, your doctoral thesis, is that right?",
+    "start": "00:06:19",
+    "end": "00:06:39"
+  },
+  {
+    "text": "That's right. Yep. Yep.",
+    "start": "00:06:39",
+    "end": "00:06:41"
+  },
+  {
+    "text": "All right. So every book kind of generates out of some questions that usually go pretty deep or a history. So what led you to this topic? And why did you dedicate so much time to it? What motivated you?",
+    "start": "00:06:41",
+    "end": "00:06:56"
+  },
+  {
+    "text": "Yeah, I don't know. And at the same time, there were very muddled years, that or months, those first months of the PhD. I was in St. Andrews, Scotland. And so how it works for the PhD programs there is you submit a large proposal, and then if there's a supervisor there who wants to work with you with that proposal, then you're accepted. And the idea is that proposal then gets whittled down into something that's actually doable. So my proposal was to carry on this discovery of thinking through creation echoes and Paul. And so I think I actually propose something like looking at all the Genesis 1 through 3 and echoes in Paul's letters, as if that would take, you know, three to four years. That would. That's. That's a lifetime of work. But thankfully, in the process, my supervisor there was Tom Wright. And he was just excellent with helping me kind of sift through what are the more critical things that I wanted to look at. Where are the questions that were grounding everything? And so I just kept going back and forth, submitting new outline after new outline, slowly, very, very slowly whittling it down to more and specific details, until kind of one day, Romans 8:29 just landed in my lap, as here's kind of the heart and soul of what at least many in the Protestant evangelical world here in the United States think of as the kind of goal of salvation. And part of my goal with PhD work was to write something that is going to have an impact on the church. I didn't want to write something that was just going to sit on a bookshelf for five nerdy scholars to read here and there, but actually something that is beneficial for the church at large. And so Romans 8:29 kind of fell. And it had everything I was wanting to think about. And so I just picked it up and ran with it.",
+    "start": "00:06:56",
+    "end": "00:08:51"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:08:52",
+    "end": "00:08:52"
+  },
+  {
+    "text": "When I was in high school, I was asked to talk about my favorite chapter in the Bible, and I didn't have one. So I asked my mom, what's your favorite chapter in the Bible? She said, Romans 8. And then that became my favorite chapter of the Bible. And it is a beautiful chapter and means a lot to a lot of people. But when we get to this idea of glory, it's such a Bible word that doesn't mean anything to me. I think I would just skip over it. I think it would just fuzz out in my mind.",
+    "start": "00:08:52",
+    "end": "00:09:23"
+  },
+  {
+    "text": "Yeah, yeah. Let me just read. I'm just going to read the section of verses that you spent a lot of time working on. And then first you had a helpful way of introducing the reader to different traditions of interpretation of this passage. That was really helpful for me.",
+    "start": "00:09:23",
+    "end": "00:09:40"
+  },
+  {
+    "text": "Good.",
+    "start": "00:09:40",
+    "end": "00:09:40"
+  },
+  {
+    "text": "Yeah. So I'd like you to, if you could, kind of summarize and explore those for our audience. But I'll just read. This is Romans 8:28 30. Paul says, and we know. I'm reading from the English Standard Version, and we know that for those who love God, all things work together for good. For those who are called according to his purpose, for those whom he foreknew, he also predestined to be conformed to the image of His Son, in order that he that is the Son might be the firstborn among many brothers. And those whom he predestined, he also called. And those whom he called, he also justified or declared righteous. And those whom he justified, he also glorified. So this is a famous text to talk about a lot of things, all the power words of Pauline theology and of controversy about Paul's theology. Yeah. So what attracted your interest here? What do you think is kind of the main driving point here? And how have different people understood what the main point is here?",
+    "start": "00:09:40",
+    "end": "00:10:48"
+  },
+  {
+    "text": "Well, yeah, for me, what I really focused in on, or the primary question that I was asking, is that middle part of Romans 8:29. What does it mean to be conformed to the image of God's Son? Much of the controversial words are before and after it, namely that foreknowledge predestination justification. But I wanted to really just focus on that middle bit that we kind of overlook or take for granted. Conform to the image of the sun. And when I started looking into it, I became quite frustrated, actually. Every commentary that I would open, it would say something like this. It would say, one day when the Lord returns, we will be made like Christ. Isn't it wonderful that one day we'll be made to reflect Christ? We'll be like the Son of God. God will make us like his Son. Alleluia. And I just wanted to say, yes, hallelujah. Amen. However, what does it actually mean to be made like Christ? If that's even. If that's even what Paul is getting at. Yeah. Kind of let that frustration then fuel where I went with it.",
+    "start": "00:10:48",
+    "end": "00:12:00"
+  },
+  {
+    "text": "That could occur to anybody. Thoughtfully reading. Because if you wanted to say to be like Christ, he could say that, but instead he uses the image of God language from Genesis 1. The image of the Son.",
+    "start": "00:12:00",
+    "end": "00:12:12"
+  },
+  {
+    "text": "Yeah. Which is hugely significant. When we recognize that larger biblical theology that Paul's working with.",
+    "start": "00:12:12",
+    "end": "00:12:19"
+  },
+  {
+    "text": "Introduce us to maybe some different ways people have taken it. So people to be made like Christ. You had a good survey of like, it means moral holiness, or it means exaltation, or it means it will glow like light bulbs. People have taken it to mean a lot of different things, Right?",
+    "start": "00:12:20",
+    "end": "00:12:37"
+  },
+  {
+    "text": "Yeah. So there's a handful of options that many have understood it to be. One would be it refers to the time when we're physically resurrected. So to be conformed to Christ or to the image of the Son would be looking towards the day of resurrection, when we receive our new bodies, when we are reunited with God in that physical form, fully redeemed on every level. And so, in other words, it would be a very much a future understanding, even beyond the second coming, right after post resurrection time. So that physical redemption is one of the ways that people have understood it. Another way is to understand it as sharing in the sufferings of Christ. Now, as we think about what does it look like to be a Christian, how did Christ live his life? It was a cruciform life. It was a life of suffering, of self sacrifice and service. And so for many, when they read that verse, it's as if Paul is saying we should share in the sufferings of Christ now. And there's a lot to that. In fact, I think it's actually a significant part of what Paul's getting at. But it's maybe not the entirety or we need to reframe it in a slightly different way, the main way that people think about it is this moral sanctification. And this is especially popular within the, you know, your kind of typical church culture. In the United States we have language of holiness, of sanctification, of striving to be morally righteous or morally pure. And so when we read it, it's as if Paul is saying to us, one day we will be made morally pure or holy, morally sanctified, perfect and upright in the way that Christ is. As if that is somehow the goal of our salvation or our entering into the Christian life is to be holy or pure. And that's by far the most common way that people have thought about it.",
+    "start": "00:12:37",
+    "end": "00:14:44"
+  },
+  {
+    "text": "It's kind of like a futurized version of what would Jesus do? And it's eventually I'll become the kind of person who will just do what Jesus would do.",
+    "start": "00:14:44",
+    "end": "00:14:53"
+  },
+  {
+    "text": "Exactly. We strive to do that now we don't achieve it, but one day we will perfectly.",
+    "start": "00:14:53",
+    "end": "00:14:59"
+  },
+  {
+    "text": "Yeah, that's the way I would read this from my tradition.",
+    "start": "00:14:59",
+    "end": "00:15:03"
+  },
+  {
+    "text": "To be conformed to the image of Jesus.",
+    "start": "00:15:03",
+    "end": "00:15:05"
+  },
+  {
+    "text": "Yeah, it's a moral thing. It's about moral character.",
+    "start": "00:15:05",
+    "end": "00:15:08"
+  },
+  {
+    "text": "Yeah. Well, when you think about it, people think of Jesus and they typically think of his moral uprightness, his perfection, his divinity, and all the ways that we think of how we should be like Jesus. And so when we think of, isn't it wonderful that one day we'll be like Christ, it's only natural to think, well, yes, of course we'll be like Christ in the way that we think of Christ as, which is to say, perfectly holy, pure, morally upright.",
+    "start": "00:15:08",
+    "end": "00:15:33"
+  },
+  {
+    "text": "So the million dollar question is, is that the specific nuance that Paul had in mind? And you think this phrase to conform to the image is deeply connected to that last phrase in verse 30, to be glorified.",
+    "start": "00:15:34",
+    "end": "00:15:47"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:15:47",
+    "end": "00:15:48"
+  },
+  {
+    "text": "And there's some story in Paul's mind that he's assuming that we're going to know, but that seems like many of us don't know.",
+    "start": "00:15:48",
+    "end": "00:15:56"
+  },
+  {
+    "text": "Yeah, yeah, I do. And in fact, a lot of people do. I'm not alone in this way in connecting this question. What does it mean to be conformed to the image of the sun? Many people will connect it to being glorified. That's at the end of 8:30. The issue with that is what we then think of glory as. So you just trade one question for another. Really.",
+    "start": "00:15:56",
+    "end": "00:16:21"
+  },
+  {
+    "text": "Yeah. It's like explaining one unclear thing by saying another unclear thing.",
+    "start": "00:16:21",
+    "end": "00:16:26"
+  },
+  {
+    "text": "Yeah, perhaps even a more unclear thing.",
+    "start": "00:16:26",
+    "end": "00:16:29"
+  },
+  {
+    "text": "Yeah, exactly. I think the word glory is just meaningless to me. Like it just comes into my Brain that dumps out. Well, I mean now more. Well, yeah, I guess.",
+    "start": "00:16:29",
+    "end": "00:16:42"
+  },
+  {
+    "text": "No, but like, time travel to, like, your youth group self. If you're a high schooler, having grown up in church, what did you think of?",
+    "start": "00:16:42",
+    "end": "00:16:49"
+  },
+  {
+    "text": "Hmm.",
+    "start": "00:16:50",
+    "end": "00:16:50"
+  },
+  {
+    "text": "That's a great aspect of Haley, too. Or maybe you didn't grow up in youth group. I don't.",
+    "start": "00:16:50",
+    "end": "00:16:54"
+  },
+  {
+    "text": "I don't remember. I don't remember what I thought. But I do know you. You mentioned art, Tim. You talked about the glowing. The light bulb kind of thing. That definitely comes to mind. Some sort of beaming ness.",
+    "start": "00:16:54",
+    "end": "00:17:07"
+  },
+  {
+    "text": "Yeah. Did you? You said you became Christian when you were 12, Haley.",
+    "start": "00:17:07",
+    "end": "00:17:11"
+  },
+  {
+    "text": "I did.",
+    "start": "00:17:11",
+    "end": "00:17:12"
+  },
+  {
+    "text": "So can you still remember what glory meant to you as, like, high school. High schooler or something?",
+    "start": "00:17:12",
+    "end": "00:17:17"
+  },
+  {
+    "text": "I think up until I started the PhD, I thought of glory as what most people think of it as. As a combination of two things. One would be something to do with light radiance or light imagery. The other is the presence of God. And so you put those together and I think. I would think. Well, and in thanks also to many of our hymns that we sing and have sung throughout. There's hardly a hymnal that exists where every hymn doesn't have the word glory in it.",
+    "start": "00:17:17",
+    "end": "00:17:51"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:17:52",
+    "end": "00:17:52"
+  },
+  {
+    "text": "And when we think of it, for humans, it's always one day when we die, when we enter into the presence of God, we will then receive our glory. We will come into glory.",
+    "start": "00:17:52",
+    "end": "00:18:04"
+  },
+  {
+    "text": "Yeah. It almost becomes a synonym with heaven in the terms of some place we go to. Like we enter glory.",
+    "start": "00:18:04",
+    "end": "00:18:10"
+  },
+  {
+    "text": "It's a glorious place. So glorious people will be in the glorious place.",
+    "start": "00:18:10",
+    "end": "00:18:14"
+  },
+  {
+    "text": "Yeah. Yeah, that's true. It isn't a lot of hymns. And so for me, it's in the category of words like hallelujah and glory. It's just kind of like. Yeah, it's just a phrase just to get us into the next idea.",
+    "start": "00:18:14",
+    "end": "00:18:25"
+  },
+  {
+    "text": "Glory.",
+    "start": "00:18:26",
+    "end": "00:18:26"
+  },
+  {
+    "text": "It's just part of the Christianese language that we have, and we don't really stop and think. But even one of the best examples, though, the word's not used but is in Amazing Grace. The verse where it has and when. We've been there 10,000 years.",
+    "start": "00:18:27",
+    "end": "00:18:41"
+  },
+  {
+    "text": "Oh, yes. Bright shining, shining bright, shining as the sun. So that is a popular understanding and that actually has a lot of grounding in biblical examples. This is a whole section of your book is just a really helpful study of the concept and word glory throughout the Bible. This was really helpful. Thank you for that, by the way. I don't know.",
+    "start": "00:18:41",
+    "end": "00:19:02"
+  },
+  {
+    "text": "I'm glad.",
+    "start": "00:19:02",
+    "end": "00:19:03"
+  },
+  {
+    "text": "How many nights you stayed buried in concordances and dictionaries. But it's a really helpful chapter. So talk to us about the range of meaning of glory in the Bible, in Jewish literature, and in Paul.",
+    "start": "00:19:03",
+    "end": "00:19:15"
+  },
+  {
+    "text": "Okay. Yeah, it is a range. It's quite tricky because it depends on how we think of glory in association with God vs Glory in association with humans. So we all understand perfectly well when we say we give glory to God, and it's the sense in which we extol God, we praise God, we honor God, but glory is also used as a possessive of God, something that God owns or possesses or can give out or can display. And that's where it becomes getting a bit more tricky. And so we have verses like the heavens declare the glory of God. What does that actually mean? Or the world will see the glory of God revealed. Does the psalmist in those cases expect that the sky will just light up with the radiance of the sun, literally filling the entirety of the globe? I mean, it's poetry, right? It's meant to create symbols, the symbolic language that creates visions in our minds of something beautiful, of something magnificent.",
+    "start": "00:19:16",
+    "end": "00:20:26"
+  },
+  {
+    "text": "In conversations that John and I have had, we've walked through some of the. Yeah. These biblical examples where the word glory can refer to something in creation, a physical part of creation that can be called God's glory, meaning it's a physical manifestation of his beauty, his power, his creativity. And, John, you came up with my favorite example ever, which was your bedroom as a junior high.",
+    "start": "00:20:27",
+    "end": "00:20:51"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:20:52",
+    "end": "00:20:52"
+  },
+  {
+    "text": "Like as a teenager where I'd come into your room. You had a better way of describing it than I did.",
+    "start": "00:20:53",
+    "end": "00:20:58"
+  },
+  {
+    "text": "Yeah, man. This was a while ago.",
+    "start": "00:20:58",
+    "end": "00:21:01"
+  },
+  {
+    "text": "Do you remember when I talked about. Totally.",
+    "start": "00:21:01",
+    "end": "00:21:02"
+  },
+  {
+    "text": "We were talking about glory. And what really helped me was you talking about the literal meaning or like, of heaviness.",
+    "start": "00:21:02",
+    "end": "00:21:08"
+  },
+  {
+    "text": "Oh, heaviness.",
+    "start": "00:21:08",
+    "end": "00:21:09"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:21:09",
+    "end": "00:21:09"
+  },
+  {
+    "text": "Yeah, that's right.",
+    "start": "00:21:09",
+    "end": "00:21:10"
+  },
+  {
+    "text": "But I still was trying to understand, like, what makes me important, what makes me significant, what would be this outward appearance of who I am. And for me, I was just imagining, like, when you come into my room, I want you to see the things that I'm interested in and the music I listen to. And it's to tell a story about me.",
+    "start": "00:21:10",
+    "end": "00:21:30"
+  },
+  {
+    "text": "Your CD tower.",
+    "start": "00:21:30",
+    "end": "00:21:31"
+  },
+  {
+    "text": "Yeah, my CD tower. And my guitar in the corner. Just like this room is my glory.",
+    "start": "00:21:31",
+    "end": "00:21:38"
+  },
+  {
+    "text": "Yeah, yeah, yeah. The physical manifestation of your.",
+    "start": "00:21:38",
+    "end": "00:21:42"
+  },
+  {
+    "text": "Who I am. Yeah.",
+    "start": "00:21:43",
+    "end": "00:21:45"
+  },
+  {
+    "text": "Does that aligned with what you're saying, or do you want to say more about that?",
+    "start": "00:21:45",
+    "end": "00:21:49"
+  },
+  {
+    "text": "Yeah, I think that definitely aligns with how glory is often used of God. But of course, the other way that we think of it and know perhaps even better Is the Shekinah glory. The times when the glory actually is visible and is revealed in these, what we think of as Theophanic revelations, Right. Where there's fire and there's the brightness. We think of the times when Moses is shown the glory of God and his face shines, or when God comes and indwells the holy of holies in the tabernacle and then in the temple when Solomon dedicates it, or in Ezekiel's vision of the glory of God leaving from the temple. That is very much the presence of God revealed in this visible manifestation of light. And for that reason, it makes perfect sense to think of glory, especially glory for the future for humans in heaven, as the radiance of God. The presence of God. It's not unfounded in the least bit. In fact, it's used quite often throughout the Bible.",
+    "start": "00:21:49",
+    "end": "00:23:05"
+  },
+  {
+    "text": "But you want to help us see that Paul makes a distinction when he talks about human glory. He's got something a little more specific in mind. Maybe that's not the best way of saying it.",
+    "start": "00:23:05",
+    "end": "00:23:17"
+  },
+  {
+    "text": "Yeah, well, I think so. See, the issue is when we think of glory for God, it's very different than when we think of glory for humans. So for humans, when we look at how glory is used throughout the Old Testament in particular, it's almost always a sense of honor or a sense of status, a sense of power. Not a single time in the Old Testament is a human said to have glory or to be glorified such that they're made to shine, with the one exception of Moses in Moses face in Exodus 34. But if that's going to be our example of what we can expect someday in heaven, then it's just our faces that should be shining, not our whole bodies.",
+    "start": "00:23:17",
+    "end": "00:24:00"
+  },
+  {
+    "text": "Yeah, that's right. And if I remember correctly, the word glory isn't used to describe Moses in that story. It's another verb. It's like the verb to. It's the verb for horns, to horn or spikes or shining. It's a strange verb, if I remember.",
+    "start": "00:24:00",
+    "end": "00:24:14"
+  },
+  {
+    "text": "Well, and I'm specifically using the Greek text primarily. So I think for the Greek, it is more that he is glorified.",
+    "start": "00:24:14",
+    "end": "00:24:22"
+  },
+  {
+    "text": "Oh, that's good. Yeah. Okay, good to know.",
+    "start": "00:24:22",
+    "end": "00:24:24"
+  },
+  {
+    "text": "Yeah, great. So that's the only time that a human is said to shine.",
+    "start": "00:24:24",
+    "end": "00:24:28"
+  },
+  {
+    "text": "Well, humans don't shine a lot.",
+    "start": "00:24:28",
+    "end": "00:24:30"
+  },
+  {
+    "text": "They don't. They don't.",
+    "start": "00:24:30",
+    "end": "00:24:31"
+  },
+  {
+    "text": "There's slight bioluminescence. We talked about this recently.",
+    "start": "00:24:32",
+    "end": "00:24:36"
+  },
+  {
+    "text": "Yeah. Yes, we do. We glow. We just. We can't see it.",
+    "start": "00:24:36",
+    "end": "00:24:39"
+  },
+  {
+    "text": "It's not visible to our eyeballs. There are sensors that can detect it.",
+    "start": "00:24:39",
+    "end": "00:24:44"
+  },
+  {
+    "text": "Glory.",
+    "start": "00:24:44",
+    "end": "00:24:44"
+  },
+  {
+    "text": "I think it's centralized in our heads, our faces.",
+    "start": "00:24:44",
+    "end": "00:24:47"
+  },
+  {
+    "text": "Oh, really?",
+    "start": "00:24:47",
+    "end": "00:24:47"
+  },
+  {
+    "text": "Is it the bioluminescence?",
+    "start": "00:24:47",
+    "end": "00:24:49"
+  },
+  {
+    "text": "Oh, I thought it was the whole.",
+    "start": "00:24:49",
+    "end": "00:24:49"
+  },
+  {
+    "text": "Body anyway, besides the point. As if the author of Exodus knew that. Okay, so your point is, when the word glory is attached to humans in the Bible, it doesn't mean glow. It means these other things.",
+    "start": "00:24:49",
+    "end": "00:25:05"
+  },
+  {
+    "text": "Status.",
+    "start": "00:25:05",
+    "end": "00:25:05"
+  },
+  {
+    "text": "It means like what it says for people like Joseph in the story of Joseph, when his brothers come and he reveals his identity to them. He says, don't be afraid. Just go home and tell my father of the glory that's been given to me. Or we have people like Daniel and his three buddies, Shadrach, Meshach, Abednego. They deny the king's food for the week and just eat vegetables and water. At the end of it, they are lifted up as being better than anyone else in the kingdom. And Daniel is glorified and is given a position of rule over the kingdom. Those are the types of examples when humans are glorified in the Old Testament. And I think that's what Paul is working with primarily for human glory.",
+    "start": "00:25:05",
+    "end": "00:25:53"
+  },
+  {
+    "text": "Which brings us back to Romans 8. Then this is why people who notice that connection, and this is why you draw the connection to being conformed to the image of the Son is connected to. Or I forget, do you say even it's the same point as being glorified?",
+    "start": "00:25:54",
+    "end": "00:26:10"
+  },
+  {
+    "text": "Yeah, I think it's the same point, the way that they're kind of constructed, it's to be conformed to the image of the sun, aka when all is said and done, glorified. So different language for the same event.",
+    "start": "00:26:11",
+    "end": "00:26:24"
+  },
+  {
+    "text": "Yes, you brought up Tim. The image language is connected to Genesis 1, and that is connected to status and rule. Right. Which I wouldn't have picked up if it hadn't been for this project and talking. Because from like you said, Haley, like, from. From a typical Christian, American, Christian perspective, generally, the narrative is you've been blowing it, get saved, and now you can live a morally upright life and then one day fully realize that which isn't untrue. But if that's the only story, then you read something like this and you think, okay, this is about being morally upright. But if the story is that God put us on this flying space rock so that we could rule the world with him, then there's something more going on here.",
+    "start": "00:26:24",
+    "end": "00:27:14"
+  },
+  {
+    "text": "Yeah. Yes. So if being conformed to the image and being glorified are the same, in Paul's mind, he's got some story, some deeper. Yeah. Connected storyline that you think is actually underlying the whole of, like, Romans 1 through 8. He's working from a deep, kind of below the surface story. So talk to us about that.",
+    "start": "00:27:14",
+    "end": "00:27:37"
+  },
+  {
+    "text": "Yeah, I do. I do think that there's something deeper there. It ultimately comes down to how Paul thinks about what does it mean to be a human, and how does he think of Jesus as the new human, the. The new Adam, when he rises from the dead, launching this new creation, this new humanity, he's going back to a new version on some level, of Genesis 1. And what does it look like to be made in the image of God? When we think of Genesis 1, of course we have the creation of humanity in the image of God. And of course, we've wrestled with that for 2000 years. What is the imago dei refer to? And of course, it can be many things at the same time. The text does give us a pretty good hint as to what the writer was getting at. And that's in the. The language that follows, which is, be fruitful and multiply. Fill the earth and have dominion. Rule over the fish in the sea, the birds in the air, the things that creep on the ground. In other words, God's coming, creating humanity and saying, I'm giving you a job to do. In fact, you're created to fulfill this vocation. Here's what you're meant to do. You're meant to rule over creation. You're meant to represent me, the creator God to the creation. You're meant to be my hands and feet, and to rule with justice and equity and love, and all the things that we're eventually going to see in the narrative Christ doing. But of course, humans have failed at that vocation, which is exactly what Paul gets at in Romans 1, and I think where he launches the narrative of what God has done in and through Christ. He begins with, here's what humans were meant to do, but they instead exchange the glory of God. This is Romans 1:23. They exchange the glory of God for the images that represent human beings, animals, birds, fish, reptiles. And that then has launched them into this world of sin and death and injustice and chaos and brokenness, until the Redeemer comes and shows us, reveals us. What does it look like to be a true human here?",
+    "start": "00:27:37",
+    "end": "00:30:06"
+  },
+  {
+    "text": "Let me just push pause for a second. I think I've noticed this before. I don't remember if John and I have talked about this. So you drew attention in Romans 1 to where Paul says they exchanged the glory. There's one of our words, our glory words of the immortal God. For images, there's our image word, but instead of the glory being a human image, it's images resembling the things we're supposed to rule. Humans, birds, animals. It's exactly the list of creatures in Genesis 1 that we're supposed to rule over. And his point is that it's inverted creation.",
+    "start": "00:30:06",
+    "end": "00:30:38"
+  },
+  {
+    "text": "Yeah. Being ruled over.",
+    "start": "00:30:38",
+    "end": "00:30:40"
+  },
+  {
+    "text": "Yeah. We give over our authority to these human made.",
+    "start": "00:30:40",
+    "end": "00:30:44"
+  },
+  {
+    "text": "No, we haven't. We haven't talked about that. That's cool.",
+    "start": "00:30:44",
+    "end": "00:30:46"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:30:46",
+    "end": "00:30:47"
+  },
+  {
+    "text": "What do you think then? The glory of God here and what's it referring to? Is it referring to his rule or is it like more of his Shekinah kind of glory or what do you think is happening here?",
+    "start": "00:30:47",
+    "end": "00:30:59"
+  },
+  {
+    "text": "Yeah, it's a great question, John. I think that for the most part, Paul uses the word glory throughout Romans very consistently. And he uses it almost entirely as the sense of honor or rule. So in the question of Romans 1:23, the glory of God that they exchange, I think it's that sense of rule, of having that dominion or rulership over creation that God has given to them. Right. So it's not a glory that's intrinsic to us as humans. It's the glory of God, the rule of God, the kingship of God that God has gifted to humans to live into.",
+    "start": "00:30:59",
+    "end": "00:31:40"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:31:40",
+    "end": "00:31:41"
+  },
+  {
+    "text": "It's interesting. I would always read this verse as just like giving God. You're praising the wrong thing, which means that at some level. But man, how much more tragic is it that it's like God handed you his rule, his ability to rule with him, and then we exchange that for like.",
+    "start": "00:31:41",
+    "end": "00:31:59"
+  },
+  {
+    "text": "Yeah, that's right.",
+    "start": "00:32:00",
+    "end": "00:32:01"
+  },
+  {
+    "text": "That doesn't sound great. Let's let the creepers rule over us.",
+    "start": "00:32:01",
+    "end": "00:32:04"
+  },
+  {
+    "text": "Yeah. If you think about it, the glory as like God's moral perfection or light. It doesn't make any sense here. How do you exchange that? It's not mine to exchange.",
+    "start": "00:32:04",
+    "end": "00:32:15"
+  },
+  {
+    "text": "Oh, interesting.",
+    "start": "00:32:15",
+    "end": "00:32:15"
+  },
+  {
+    "text": "Oh yeah.",
+    "start": "00:32:15",
+    "end": "00:32:16"
+  },
+  {
+    "text": "I can't exchange God's glory for animals. Like that's something God would have to do.",
+    "start": "00:32:16",
+    "end": "00:32:20"
+  },
+  {
+    "text": "That's funny, I just kind of always change that verb in my mind to say something more like ignored. But you're right, because you can't.",
+    "start": "00:32:20",
+    "end": "00:32:28"
+  },
+  {
+    "text": "I can only exchange something that I possess. And I possess glory of God only if it's been given to me as a gift, namely his rule. Yeah, that's more actually clear to me than it ever has been before.",
+    "start": "00:32:28",
+    "end": "00:32:40"
+  },
+  {
+    "text": "One of the words to use maybe is to they abdicated. Because when we think of this royal context, they're given a throne, they're given rulership, it's external to Them, they're brought into this environment, but they can choose to say, no, thanks. They can abdicate the throne and elect to have something else instead.",
+    "start": "00:32:40",
+    "end": "00:33:01"
+  },
+  {
+    "text": "So talk about another important. We use the word glory in Romans is Romans 3, 23, which I actually remember when I was a new Christian in my 20s classic. It was on the list of verses to memorize. It's kind of like top five. Yeah. One of the sound bites about the human condition. For all have sinned and fallen short of the glory of God, which again, I assumed meant moral. God is glorious in his moral perfection. And I have not attained to that moral perfection. What do you think Paul is meaning in line with what we've already talked about?",
+    "start": "00:33:01",
+    "end": "00:33:37"
+  },
+  {
+    "text": "I think he's simply restating what he already said in123. Now he's putting the sin language on it. He's calling it what he didn't call it in 123, which is sin. To exchange the glory of God and worship idols, we call idolatry. Idolatry is the basis of sin. And he's simply restating it. Because now he's carried on in the other things that he's saying in Romans and has kind of come round to summarizing that to say, look, Jew and Gentile, we have all participated in this form of idolatry. We are all guilty of it. We have all exchanged the glory of God. We've all fallen short of it or lost it.",
+    "start": "00:33:37",
+    "end": "00:34:23"
+  },
+  {
+    "text": "Yeah. This is a dense Greek phrase, the glory of God. But in both of those passages, what it means is the glory God has given to humans. That's what it means. That's what you're saying?",
+    "start": "00:34:23",
+    "end": "00:34:33"
+  },
+  {
+    "text": "That's what I'm arguing for anyway. Yeah.",
+    "start": "00:34:33",
+    "end": "00:34:35"
+  },
+  {
+    "text": "And it's not just you. There's a lot of people who think.",
+    "start": "00:34:35",
+    "end": "00:34:37"
+  },
+  {
+    "text": "It means that, but it's this kind of vocational, functional sense of we were called to a vocation and we chose to ignore it or we chose to reject it and thereby we rejected. What does it mean to be fully human? What does it mean to be the image bearers of God walking the earth?",
+    "start": "00:34:37",
+    "end": "00:34:58"
+  },
+  {
+    "text": "I think that's really cool. And I want to just say, okay, glory of God. That's all Paul means. But I gotta imagine that he also, in that word, means also not just the glory that God's given us, but the glory that he has, the honor and the awesomeness.",
+    "start": "00:34:59",
+    "end": "00:35:14"
+  },
+  {
+    "text": "Well, it could be like we can receive glory, honor and status and the favor of sharing in God's rule. Because it's something that is, like you say, Haley, intrinsic To God, the fact that he gives it to others means that he is the ultimate source of it.",
+    "start": "00:35:15",
+    "end": "00:35:31"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:35:31",
+    "end": "00:35:31"
+  },
+  {
+    "text": "It lies underneath God's glory does. But at the same time, that's not the main nuance. When we talk about people exchanging God's glory or not attaining, falling short of it.",
+    "start": "00:35:31",
+    "end": "00:35:43"
+  },
+  {
+    "text": "Yeah, yeah, you're right.",
+    "start": "00:35:43",
+    "end": "00:35:44"
+  },
+  {
+    "text": "Just a different point about God's glory.",
+    "start": "00:35:45",
+    "end": "00:35:47"
+  },
+  {
+    "text": "It's more specific.",
+    "start": "00:35:47",
+    "end": "00:35:48"
+  },
+  {
+    "text": "Yeah. It doesn't take anything away from the glory of God. In fact, I think it actually fills it out more. If we think of falling short of the glory of God as not attaining to some sort of brilliant light, well, that doesn't make any sense whatsoever. But if it's also this kind of moral or holy sense standards that we're somehow trying to achieve, then I think that reduces what the biblical narrative is about.",
+    "start": "00:35:48",
+    "end": "00:36:13"
+  },
+  {
+    "text": "Right.",
+    "start": "00:36:13",
+    "end": "00:36:14"
+  },
+  {
+    "text": "As if being holy is the end game. Being holy is close to the end game, but we're called to be holy for a particular purpose. In other words, what does it look like to be holy? To be holy looks like living the human life that we've been called to live as God's representatives on the earth. So it's not as if they're two completely separate things. It's just fitting that moral uprightness or holiness within the larger narrative of what the Bible has told us about what it means to be human.",
+    "start": "00:36:14",
+    "end": "00:36:46"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:36:46",
+    "end": "00:36:47"
+  },
+  {
+    "text": "Haley, let me ask you the next question that I have back to Romans 8. Then in Romans 8 we're celebrating Paul's celebrating the moment when we are going to be conformed to the image of the sun, which leads up to the last statement of being glorified, sharing in God's glory, being of status and honor and rule. Why does he say conform to the image of the Son as opposed to conform to the image of God? Because he has the image of God phrase in Genesis 1. But he's using the phrase image of the Son. I think this connects to how you understand Psalm 8 and how important that is to Paul. So talk a little bit about that. The image of the Son, what's loaded in there for Paul?",
+    "start": "00:36:47",
+    "end": "00:37:29"
+  },
+  {
+    "text": "Yeah, yeah, great question. It's ridiculously important that it's the Son that we are being conformed to, whose glory or image it is that we are sharing in because of Psalm 8. But even beyond that, when we get, if we think specifically of Romans 5, who Jesus is as the Son of God, he is not only the Son of God, who is the long awaited Jewish Messiah come to redeem God's covenant people, but he is larger than that. He's more than that. He is the new Adam. He is the representative of the new humanity. That's hugely important for Paul, as Paul thinks about what does it mean for us as humans to be justified or saved or to be redeemed as humans? The only model that we have is the person of Jesus Christ, his humanity. And so for Paul to, say, conform to the image of the Son, I think he's thinking there of not just Jesus as the third person of the Trinity or as the Messiah, but specifically as that Son and Messiah who is also the new Adam, the new human. And that's the case because of how important something Psalm 8 is to Paul and to the rest of the New Testament writers, really. So Psalm 8 is, you know, just a psalm that we say often and perhaps don't think a ton about. But in Psalm 8, it's saying, essentially, it's a. The psalmist is asking God, why have you thought of humans? Why do you care so much for us who simply are on the earth and all we do is bad things? Why have you crowned us, us mere humans, with glory and honor? Why have you crowned us with glory and honor? And why have you given us, mere humans, dominion over the birds in the air, the fish in the sea, and all that creeps on the ground? Lord our Lord, how majestic is your name. Praise God for what you have given to us mere humans. And that psalm is essentially a commentary on Genesis 1:26 28. Instead of the image language being used, it's the crowned with glory language that's being used. And then the same language is there of having the dominion over the fish in the sea, the birds in the air, and everything that creeps on the ground. So Psalm 8 is about humanity at large. And what Paul and the writer of Hebrews does is to look at Psalm 8 and to say, Jesus Christ is the Son of man who has been given that dominion, who has been crowned with glory and honor and now rules over all things. In other words, Jesus Christ is the ideal perfect human. He's the one that we were all meant to be like, but failed to be like. And so Psalm 8 is in First Corinthians 15, where Paul is using the new Adam imagery. He conflates it with Psalm 110. Lord, my Lord. The Lord said to my Lord, sit at my right hand until I make your enemies a footstool for your feet. The writer of Hebrews uses it fairly extensively in a passage to say how Jesus is the greatest human to exist. So soulmate is hugely important. And with that Being in the background, we know then that Paul is equating Jesus as the human, the new Adam, to the Son of man. Of Psalm 8, who is the ideal beautiful picture of what humanity was in Genesis 1:26 28.",
+    "start": "00:37:29",
+    "end": "00:41:25"
+  },
+  {
+    "text": "Well said.",
+    "start": "00:41:26",
+    "end": "00:41:27"
+  },
+  {
+    "text": "Downright cosmic.",
+    "start": "00:41:27",
+    "end": "00:41:28"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:41:29",
+    "end": "00:41:30"
+  },
+  {
+    "text": "That's so amazing. What an amazing story. Yeah.",
+    "start": "00:41:30",
+    "end": "00:41:33"
+  },
+  {
+    "text": "What Psalm 8 does for me is it kind of echoes, I think, what a lot of people feel, but actually can't really say in Christian culture, maybe as much is what is just like, it really just seems sometimes like we're just bumbling hairy sapiens. Just like, you know, are we really. Is there something more going on?",
+    "start": "00:41:33",
+    "end": "00:41:54"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:41:54",
+    "end": "00:41:55"
+  },
+  {
+    "text": "And it's a psalmist going like, yeah, there's a calling that is way more important than you would anticipate for. Yeah. How kind of ridiculous we are. And thank God for Jesus, who can show what that actually looks like.",
+    "start": "00:41:55",
+    "end": "00:42:09"
+  },
+  {
+    "text": "Haley. One part that really stuck with me, I found myself pondering was a little section where you explored how Paul talks about followers of Jesus ruling, exercising their glory rule status in the present moment. He talks about it in Romans 8. It has stuck out to me before, but the way you framed that question, how do we rule the world in the present According to Romans 8, I really. I love how you, how you put it.",
+    "start": "00:42:10",
+    "end": "00:42:35"
+  },
+  {
+    "text": "It's also hugely important because what we think of glory typically is something in the future, no matter how we characterize it, other than the suffering one, especially for moral perfection or the physical resurrection body that we might have, or entering into the, quote, glorious presence or radiance of God. They're all in the future. They're all post earthly life this side of heaven. And actually what Paul says in Romans 8:30 is that it's already done. And this is the beauty of grammar, in a way, in 8:30, it's not we will be glorified, it's he has glorified, it's done. It's an accomplished fact. Those who are in Christ are glorified, which is to say then they are conformed to the image of the Son. But of course, Romans 8 is tricky, right, because Romans 8, it's not only the chapter where literally every theology kind of comes to roost, but it's also difficult in terms of thinking through the time elements. So Paul says we are adopted, and he also says when we will be adopted. And he says we will be glorified. And he says we have been glorified. And so there's this, what we refer to as now, but not yet. There's a sense in which, for those of Us who have been redeemed in Christ, we live into that future reality in the present. What God will do at the return of Christ. He's already launched that program now. And we, through the person and work of Christ, get to live into that new reality now. So we are already glorified, if this understanding of glory is correct. Anyway, we have already been replaced or reset on that throne of glory. We have already been given the crown of glory and honor. We have already been called to rule over the earth now in Christ. Yeah. So I think. And Paul gets at that in Romans 8 in various ways.",
+    "start": "00:42:36",
+    "end": "00:44:43"
+  },
+  {
+    "text": "Yeah, yeah, yeah, that. So that gave me a whole new way to think about, because right in the paragraph before the verses that you focused on is the chain of groanings in Romans 8 that creation is groaning.",
+    "start": "00:44:43",
+    "end": "00:44:58"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:44:58",
+    "end": "00:44:58"
+  },
+  {
+    "text": "And believers who have this glorified identity in the present, we're groaning because we're in these bodies that, like, hurt and get sick and die along with creation. And then inside of our groaning as we cry out to God, we discover the Spirit is groaning and the Spirit's interceding and intercession language is imagery of somebody in the throne room of God's presence crying out to the one on the throne on behalf of somebody outside the throne room. Yeah. This was so helpful. They just put together all those images for me that it's actually glorified Jesus followers who suffer. You mentioned the suffering with Messiah is an important element here.",
+    "start": "00:44:59",
+    "end": "00:45:38"
+  },
+  {
+    "text": "It is.",
+    "start": "00:45:38",
+    "end": "00:45:39"
+  },
+  {
+    "text": "It's as if we exercise our rule by crying out to God to bring new creation. Yeah, But I don't know how to pray for that. And so I find the spirit of this groaning God is praying in and through the groanings of his glorified people. And somehow that's our way of ruling the world, is to. To share in its suffering and groaning. That is so beautiful and profound. But the way you package that helped me see that in a new way. And I'm guessing you didn't quite say that in the book, but it seemed like that's where you were leading.",
+    "start": "00:45:39",
+    "end": "00:46:12"
+  },
+  {
+    "text": "Yeah, entirely. And in fact, we often don't know what to do with those few verses on the Spirit and the intercession and the groaning, we kind of skip over it. We can give a sermon here and there on what intercessory prayer might look like, but what scholars don't know how to do necessarily is to tie it in with the surrounding context. The creation groaning and then God's purposes coming to fruition for those who love him being conformed to the image we're made like Christ and then glorified. We're shining someday. Like, how did these things, how did.",
+    "start": "00:46:12",
+    "end": "00:46:43"
+  },
+  {
+    "text": "All these ideas fit together?",
+    "start": "00:46:43",
+    "end": "00:46:44"
+  },
+  {
+    "text": "They don't fit together when we characterize them like we typically do. But yeah, I do think that Paul envisions that redeemed humans in Christ will participate in the sufferings of Christ, which is to say they will rule over the earth in the way that Christ ruled. And the way that Christ ruled is through self sacrifice, through suffering. And when we truly enter into that world of suffering, we enter into something that's far beyond what we're capable of comprehending. You know, we just came through Easter and we woke up on Easter morning to the news of the bombings in Sri Lanka where now 350 plus persons are proclaimed dead. How do we wrestle with that? It's evils like that that we wake up to and we think, I don't even know what to pray. And we groan because we don't have the words, but the Spirit does. And the Spirit can intercede on our behalf for us, for these issues of brokenness and chaos and evil and pain and suffering going on in the world. When we even think of like the Gospel of John, far beyond Paul here. But the Gospel of John, Jesus is constantly saying, my time for glory has not yet come. The entire second half of the Gospel of John is what we refer to as the Book of glory. Glory is just literally everywhere. It's like every other verse, glory this, glory that you will see, my glory, my glory will be revealed. And then eventually Jesus says, my time has come, or the time has come for my glory to be made known. And when is that glory made known? In the Gospel of John, it's made known when he is lifted up, when he is on the cross. It's the revelation of God's glory, God's power, God's honor, God's character, God's dominion as king and creator being revealed through the greatest act of self sacrifice and suffering. So for Paul, I think when he thinks of us and what it means to be human and to be redeemed and to be reglorified, to participate in the glory of the new Adam, he envisions us entering into the sufferings of the world because we enter into the sufferings of Christ, who ruled through suffering through self sacrifice. So it's not a sense of domination, it's a sense of dominion via self sacrifice. And I think that's what Paul's getting at with the groanings, creation's groaning and its brokenness. It's longing for the children of God to be revealed. Because when the children of God are revealed, they're re. Glorified. They're fully entered into that glory. They're fully entered into what they were meant to do for creation in the beginning. To help be and to thr. And to flourish into all that it was meant to be. The Spirit then groans with us and intercedes for us in the brokenness of the world. I think that all makes a whole lot more sense of Romans 8 at large and what Paul does elsewhere.",
+    "start": "00:46:44",
+    "end": "00:49:52"
+  },
+  {
+    "text": "Wow.",
+    "start": "00:49:52",
+    "end": "00:49:53"
+  },
+  {
+    "text": "Yes. Thank you.",
+    "start": "00:49:53",
+    "end": "00:49:54"
+  },
+  {
+    "text": "That's beautiful.",
+    "start": "00:49:54",
+    "end": "00:49:55"
+  },
+  {
+    "text": "That is worth many cups of tea and the long walk. Yeah. Thank you for that. Haley, you mentioned you've had a season in pastoral ministry. As you think about your students, how would you encourage a local church to imagine that calling and vocation in a specific neighborhood? What would that look like? What was the name of the town you grew up in? I like the name.",
+    "start": "00:49:55",
+    "end": "00:50:17"
+  },
+  {
+    "text": "It's called Mazzeppa.",
+    "start": "00:50:17",
+    "end": "00:50:19"
+  },
+  {
+    "text": "Yeah, Mazzeppa.",
+    "start": "00:50:19",
+    "end": "00:50:20"
+  },
+  {
+    "text": "Mazeppa. Sounds like an Italian dish.",
+    "start": "00:50:20",
+    "end": "00:50:21"
+  },
+  {
+    "text": "What comes to your imagination when you think of a group of followers of Jesus in a neighborhood or in a city embodying that glorified conform to the Son of God type of ruling?",
+    "start": "00:50:22",
+    "end": "00:50:35"
+  },
+  {
+    "text": "Yeah. I envision them looking around and having eyes to see true brokenness, true pain. Not looking for somebody to evangelize, not looking for somebody who doesn't go to church, but they want to go to church. Those are perfectly good and fine things to look for. But I don't know that that's what it means to rule or to be glorified in this way. I think what it would mean for the church is to look at their neighborhood and to see the suffering, because every neighborhood has some form of suffering. Right. Even the most privileged of us in the United States have some form of suffering going on. But to look at the neighborhood and to see what forms of suffering there is, is it poverty? Is it issues of race? Is it health concerns? Is it. You know, you think of Flint, Michigan, a lack of clean drinking water. Is it? There are so many issues that have riddled our broken world, and every single neighborhood has them. And so I think it would be a matter of the church truly assessing those areas of brokenness and pain and suffering and thinking through the ways in which they can bring the love of God into that neighborhood where they can bring mercy, where they can bring grace, where they can bring some form of redemption. It's not always going to be spiritual redemption. Physical redemption is just as much something that we've been called to as much as the spiritual redemption aspects. And so it's getting away from hyper spiritualizing everything and thinking of it as simply, I'm a Christian now, my job is to make others Christians and to quote, carry out the gospel in that way. But rather I'm a Christian, therefore God has called me into a life of using my own body for the redemption of the world around me in a physical and spiritual way. And that's what he gets at in Romans 12, right. He goes through all of this significant theological weightiness of the letter that we spend all our time on. Then he has this massive Therefore in chapter 12, verse 1, therefore I urge you, I entreat you, I plead with you, present your bodies as this sacrifice of worship. Don't be conformed to the world around you, to the patterns of this age, this present evil age. He doesn't use the word evil there, but that's what he thinks of this age as. Don't be conformed to the patterns of this world, but rather have the eyes to see what God is actually doing in the world around you and then enter into that join, that work of redemption.",
+    "start": "00:50:35",
+    "end": "00:53:29"
+  },
+  {
+    "text": "Yeah. This whole idea seems so connected then to like the Beatitudes, Jesus. Oh yeah, entirely of being the peacemaker and suffer.",
+    "start": "00:53:30",
+    "end": "00:53:40"
+  },
+  {
+    "text": "Blessed are those who hunger. He doesn't say groan for justice, but those who hunger and thirst. But to be meek for justice in.",
+    "start": "00:53:40",
+    "end": "00:53:47"
+  },
+  {
+    "text": "The world, there's a sense of kind of like man. It's almost pathetic, but no, it's entering into suffering. There's something so beautiful there.",
+    "start": "00:53:47",
+    "end": "00:53:56"
+  },
+  {
+    "text": "It is beautiful. It's the most beautiful act to have been committed.",
+    "start": "00:53:56",
+    "end": "00:54:00"
+  },
+  {
+    "text": "It's not how we think of ruling.",
+    "start": "00:54:01",
+    "end": "00:54:03"
+  },
+  {
+    "text": "Yeah, that's right.",
+    "start": "00:54:04",
+    "end": "00:54:05"
+  },
+  {
+    "text": "Very atypical.",
+    "start": "00:54:05",
+    "end": "00:54:06"
+  },
+  {
+    "text": "But that's hugely important though, even in thinking through, like what Paul's doing in Romans. Right. If we think of the first century Christians in Rome, the Roman environment, there is nothing for that culture that says that self sacrifice or suffering is good. It is the opposite of a virtue. Which is why Christians stood out so much. Right. So when Paul says, think of glory or those who will be glorified or receive glory, that context is about honor, it's about status, it's about rule. Except what Paul's doing is to say, according to the way that Jesus Christ has ruled, our rule is going to look very different than the world's rule around us. We will rule, but it's not going to look like our neighbors think it should look. It's going to be the opposite. And that's actually going to be what attracts people to Christ.",
+    "start": "00:54:07",
+    "end": "00:55:03"
+  },
+  {
+    "text": "Very cool.",
+    "start": "00:55:03",
+    "end": "00:55:04"
+  },
+  {
+    "text": "Yeah. Haley, you have a wonderful way of wrapping ideas together.",
+    "start": "00:55:04",
+    "end": "00:55:09"
+  },
+  {
+    "text": "I can listen to your accent all day.",
+    "start": "00:55:11",
+    "end": "00:55:13"
+  },
+  {
+    "text": "Thank you for the effort you put into writing this book. I know books like this are a huge amount of work, and there were probably many late nights, and you're wondering, what? Why am I doing this?",
+    "start": "00:55:15",
+    "end": "00:55:26"
+  },
+  {
+    "text": "Many, many times.",
+    "start": "00:55:26",
+    "end": "00:55:27"
+  },
+  {
+    "text": "I hugely benefited from it. I hope that because of this interview, more people will hear about it and learn from you, too. But thank you for your hard work. I learned a lot, and I was personally inspired. And it's really fun to hear you talk about it in person. Thank you for taking time to talk. We really enjoyed it.",
+    "start": "00:55:29",
+    "end": "00:55:46"
+  },
+  {
+    "text": "Thanks, Hayley. Great to meet you.",
+    "start": "00:55:46",
+    "end": "00:55:47"
+  },
+  {
+    "text": "Yeah. My pleasure. Thanks, guys.",
+    "start": "00:55:47",
+    "end": "00:55:49"
+  },
+  {
+    "text": "All right, John, that was an awesome conversation with an amazing woman.",
+    "start": "00:55:52",
+    "end": "00:55:56"
+  },
+  {
+    "text": "Yeah. What a pleasant person.",
+    "start": "00:55:56",
+    "end": "00:55:57"
+  },
+  {
+    "text": "Yeah. So thoughtful and smart. Yeah, she's super thoughtful. I learned a lot both from her book and then it was great to hear her summarize.",
+    "start": "00:55:58",
+    "end": "00:56:05"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:56:05",
+    "end": "00:56:05"
+  },
+  {
+    "text": "Her ideas in ways that were even a little bit different than how she stated them in the book.",
+    "start": "00:56:05",
+    "end": "00:56:10"
+  },
+  {
+    "text": "We're going to continue to do these interviews as we can. If they are helpful for you and you enjoy them, let us know. It's a new thing that we're doing, and we may stop doing.",
+    "start": "00:56:10",
+    "end": "00:56:20"
+  },
+  {
+    "text": "We may. That's right. Well, we might do some more. I don't know. Yeah.",
+    "start": "00:56:25",
+    "end": "00:56:28"
+  },
+  {
+    "text": "The Bible Project is a crowdfunded nonprofit in Portland, Oregon. We believe the Bible's unified story leads to Jesus. And all of this takes place because so many of you have generously supported this project and said, please make resources. And we said, yes, we would love to.",
+    "start": "00:56:28",
+    "end": "00:56:47"
+  },
+  {
+    "text": "Yeah. Yeah.",
+    "start": "00:56:47",
+    "end": "00:56:48"
+  },
+  {
+    "text": "And so we're really grateful for you being a part of this with us.",
+    "start": "00:56:48",
+    "end": "00:56:50"
+  },
+  {
+    "text": "Yeah. Thanks, everybody for listening, and we'll see you in the next episode.",
+    "start": "00:56:50",
+    "end": "00:56:54"
+  },
+  {
+    "text": "We believe the Bible is a uniform story that leads to Jesus. We are a crowdfunded project by people like me. Find free videos, study notes, and more at the Bible Study Project dot com.",
+    "start": "00:56:54",
+    "end": "00:57:07"
+  }
+]

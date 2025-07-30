@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BibleProject Podcast Navigator</title>
+  <link rel="stylesheet" href="style.css?v=20240728">
+</head>
+<body>
+  <div class="container">
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <h1>BibleProject</h1>
+      </div>
+      <div class="sidebar-tabs">
+        <button class="tab-button active" data-tab="navigate">Navigate</button>
+        <button class="tab-button" data-tab="search">Search</button>
+      </div>
+      <div class="tab-content">
+        <div id="navigate-tab" class="tab-panel active">
+          <nav id="series-nav">
+            <!-- Series and episodes will be injected here by JS -->
+          </nav>
+        </div>
+        <div id="search-tab" class="tab-panel">
+          <div class="search-sidebar">
+            <input type="text" id="sidebar-search-input" placeholder="Search episodes...">
+            <button id="sidebar-search-btn">🔍</button>
+            <div id="sidebar-search-results"></div>
+          </div>
+        </div>
+      </div>
+    </aside>
+    <main class="main-content">
+      <h2 class="main-title">BibleProject <span class="highlight">Pod-Search</span></h2>
+      <div id="search-results"></div>
+    </main>
+  </div>
+  <script src="script.js?v=20240728"></script>
+</body>
+</html> 

@@ -1,0 +1,2162 @@
+[
+  {
+    "text": "Welcome to this midweek episode of the BibleProject podcast, where we do interviews with scholars that have been influential to the work that we're doing here at the bibleproject.",
+    "start": "00:00:08",
+    "end": "00:00:17"
+  },
+  {
+    "text": "Yeah. Every video that we make at the bibleproject has been in the works for a long time and usually involves a large stack of books upstream of the creation process. One of the biblical scholars that I actually have been reading and learning from pretty much since the beginning, all the way back, since my first year or two, taking classes in biblical studies, is a scholar, Scott McKnight, who's a scholar of New Testament studies, but also really interested in the Greek and Roman backgrounds, cultural setting of the New Testament, Jewish setting. He's a scholar of everything. Yeah, he's amazing.",
+    "start": "00:00:18",
+    "end": "00:00:54"
+  },
+  {
+    "text": "You might know him from his book, Jesus Creed.",
+    "start": "00:00:54",
+    "end": "00:00:57"
+  },
+  {
+    "text": "Yes, that's right.",
+    "start": "00:00:57",
+    "end": "00:00:58"
+  },
+  {
+    "text": "But he's written a lot of stuff.",
+    "start": "00:00:58",
+    "end": "00:01:01"
+  },
+  {
+    "text": "Yeah. He's one of those authors who, once you're over, it's like 15 to 20 books.",
+    "start": "00:01:01",
+    "end": "00:01:05"
+  },
+  {
+    "text": "You're just in a different league.",
+    "start": "00:01:06",
+    "end": "00:01:07"
+  },
+  {
+    "text": "He's well over that. I've actually had a chance to meet him a time or two at conferences or different things, but he ended up in town in Portland for an event. And so when I found out, I asked him if he would come into the BioProject studio and if I could sit down with him. So what I did, actually, was I went to my library and found every book of his that I own and that I've read.",
+    "start": "00:01:07",
+    "end": "00:01:30"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:01:31",
+    "end": "00:01:31"
+  },
+  {
+    "text": "And then I put them all in chronological order and spent an hour retracing my learning journey.",
+    "start": "00:01:31",
+    "end": "00:01:37"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:01:37",
+    "end": "00:01:37"
+  },
+  {
+    "text": "From that stack of books. And what this interview is, is me sharing, going through each book, what I learned from it. But then I get to ask him why he wrote the book and what he cared about most in writing that book. And it's kind of. It was a really fun conversation.",
+    "start": "00:01:38",
+    "end": "00:01:54"
+  },
+  {
+    "text": "It was. You get into the mind of an author in a way that we don't typically get to talk about. And Scott's just a really great, humble, and smart guy. It was a pleasure talking with him. And so here's our conversation with Scott McKnight.",
+    "start": "00:01:54",
+    "end": "00:02:10"
+  },
+  {
+    "text": "All right, Scott, welcome.",
+    "start": "00:02:14",
+    "end": "00:02:15"
+  },
+  {
+    "text": "Good to be with you.",
+    "start": "00:02:15",
+    "end": "00:02:16"
+  },
+  {
+    "text": "So, yes, we get to interview scholars that I'm reading and that I'm learning from time to time. This is only the second time we've had somebody be able to come here, so we're grateful.",
+    "start": "00:02:16",
+    "end": "00:02:29"
+  },
+  {
+    "text": "Oh, good.",
+    "start": "00:02:29",
+    "end": "00:02:29"
+  },
+  {
+    "text": "You're here in town for some other things, too, that we're glad to be.",
+    "start": "00:02:29",
+    "end": "00:02:33"
+  },
+  {
+    "text": "I'm glad to be back in Portland. It's raining. That's What Portland should be.",
+    "start": "00:02:33",
+    "end": "00:02:37"
+  },
+  {
+    "text": "That's right.",
+    "start": "00:02:37",
+    "end": "00:02:37"
+  },
+  {
+    "text": "It was snowing earlier.",
+    "start": "00:02:37",
+    "end": "00:02:39"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:02:39",
+    "end": "00:02:39"
+  },
+  {
+    "text": "I don't call that snow. We know what real snow is.",
+    "start": "00:02:39",
+    "end": "00:02:44"
+  },
+  {
+    "text": "Snow for us.",
+    "start": "00:02:44",
+    "end": "00:02:45"
+  },
+  {
+    "text": "Yeah, that's right. I've talked about you on the podcast or your work. We've said a bit about you, the intro, this episode. But you're a professor at Northern Seminary now. Yes, Illinois. You've been there for a number of years now.",
+    "start": "00:02:45",
+    "end": "00:02:57"
+  },
+  {
+    "text": "Seven. This is finishing well. Yeah. Seven years.",
+    "start": "00:02:57",
+    "end": "00:03:01"
+  },
+  {
+    "text": "Yep. And you teach courses on New Testament programs?",
+    "start": "00:03:01",
+    "end": "00:03:04"
+  },
+  {
+    "text": "Yeah, I teach a Master of Arts and New Testament program where we have a lot of live students. One of my students lives in the Netherlands. I have two DMin groups. Cohorts.",
+    "start": "00:03:04",
+    "end": "00:03:16"
+  },
+  {
+    "text": "Doctor of Ministry.",
+    "start": "00:03:16",
+    "end": "00:03:17"
+  },
+  {
+    "text": "Doctor of Ministry. And then I do some other courses when the schedule permits, but.",
+    "start": "00:03:17",
+    "end": "00:03:24"
+  },
+  {
+    "text": "And you write a lot?",
+    "start": "00:03:25",
+    "end": "00:03:26"
+  },
+  {
+    "text": "I do. I get headaches when I don't write.",
+    "start": "00:03:26",
+    "end": "00:03:29"
+  },
+  {
+    "text": "When you don't write, you get headaches.",
+    "start": "00:03:29",
+    "end": "00:03:31"
+  },
+  {
+    "text": "So I normally. I teach on Mondays and Tuesday through Friday I'm home unless I'm traveling like this.",
+    "start": "00:03:31",
+    "end": "00:03:40"
+  },
+  {
+    "text": "Got it.",
+    "start": "00:03:40",
+    "end": "00:03:40"
+  },
+  {
+    "text": "And I'm usually at my computer by 7:30, sometimes 7. And I can usually work until about 2:00. And then I can't write anymore. Then I read the Juice.",
+    "start": "00:03:40",
+    "end": "00:03:52"
+  },
+  {
+    "text": "The energies. That's a lot spent for the day. That's a seven hour chunk of your day.",
+    "start": "00:03:52",
+    "end": "00:03:57"
+  },
+  {
+    "text": "No wonder you're so prolific.",
+    "start": "00:03:57",
+    "end": "00:03:58"
+  },
+  {
+    "text": "But I've been doing it for a long time. 35 years.",
+    "start": "00:03:59",
+    "end": "00:04:02"
+  },
+  {
+    "text": "Yeah. You formed a habit in terms of like it's a way of life for you. Reading, taking notes and writing. But you love it.",
+    "start": "00:04:02",
+    "end": "00:04:10"
+  },
+  {
+    "text": "I don't look at it. Some people say you must really be disciplined. I think my response to that is no. I don't know what else to do with my time because this is what I do. I get up in the morning expecting to write and I'll take breaks from a book or something. Right now I'm translating the New Testament for intervarsity to match John Goldingay's First Testament.",
+    "start": "00:04:10",
+    "end": "00:04:34"
+  },
+  {
+    "text": "Oh, you are outstanding.",
+    "start": "00:04:34",
+    "end": "00:04:36"
+  },
+  {
+    "text": "It's called the Second Testament. So I'll finish a book. I'm right now in the middle of Mark. When I finish Mark, I have to write a Fesh Rif article for a professor. So I'll do that and then I'll go back to translating. That's what I do. Yeah, that's what I do.",
+    "start": "00:04:36",
+    "end": "00:04:53"
+  },
+  {
+    "text": "You've been doing it for a long time.",
+    "start": "00:04:53",
+    "end": "00:04:54"
+  },
+  {
+    "text": "Yep.",
+    "start": "00:04:54",
+    "end": "00:04:55"
+  },
+  {
+    "text": "Well, that's great. I and lots of people have benefited from your. Whether it's your habit, discipline or joy. It seems like it's kind of all of them.",
+    "start": "00:04:55",
+    "end": "00:05:03"
+  },
+  {
+    "text": "Addiction.",
+    "start": "00:05:04",
+    "end": "00:05:04"
+  },
+  {
+    "text": "Yeah. There's lots of people who are grateful, and you've helped a lot of people.",
+    "start": "00:05:05",
+    "end": "00:05:10"
+  },
+  {
+    "text": "Well, thanks.",
+    "start": "00:05:10",
+    "end": "00:05:11"
+  },
+  {
+    "text": "A lot of people through your. It's a ministry of writing.",
+    "start": "00:05:11",
+    "end": "00:05:14"
+  },
+  {
+    "text": "It is.",
+    "start": "00:05:14",
+    "end": "00:05:14"
+  },
+  {
+    "text": "I've heard you talk about it.",
+    "start": "00:05:14",
+    "end": "00:05:16"
+  },
+  {
+    "text": "Yeah. At one time it was more academic, but when I wrote Jesus Creed In 2004, my life changed.",
+    "start": "00:05:16",
+    "end": "00:05:23"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:05:23",
+    "end": "00:05:23"
+  },
+  {
+    "text": "Yes. I want to save that.",
+    "start": "00:05:23",
+    "end": "00:05:24"
+  },
+  {
+    "text": "Okay.",
+    "start": "00:05:24",
+    "end": "00:05:25"
+  },
+  {
+    "text": "I want to talk about that. When you had that experience. But knowing that you were coming, I kind of reconstructed my encounter with your work throughout my education. So I have a handful of books in person. I have a number of Kindle books. And then the first time I came across your work was actually, I was in. I think I finished second year Greek, and I was in a class on Hebrews in English, but I was forcing myself to read it in Greek because I wanted to get better. That was challenging. An enormous amount of work. And the warning passages that terrify many people when they read them, warning followers of Jesus about fiery judgment and these kinds of things. And anyway, so I asked my professor, what do you recommend? So he recommended this article. I was just figuring out what articles are. So I go to Trinity Journal.",
+    "start": "00:05:25",
+    "end": "00:06:21"
+  },
+  {
+    "text": "That's right.",
+    "start": "00:06:21",
+    "end": "00:06:21"
+  },
+  {
+    "text": "And here it is. I actually have a PDF of my original copy. And, Scott, I just want to remind you, some Pages have only three lines of text, and the whole thing is footnotes.",
+    "start": "00:06:22",
+    "end": "00:06:34"
+  },
+  {
+    "text": "90%.",
+    "start": "00:06:35",
+    "end": "00:06:35"
+  },
+  {
+    "text": "Yeah. This one's half and half. That's good. That's good. But this academic writing, I spent a whole summer.",
+    "start": "00:06:36",
+    "end": "00:06:42"
+  },
+  {
+    "text": "I was vexed on this problem, and I wanted to work it. And I found a formal approach to the passages. There's four elements in each one of the warnings.",
+    "start": "00:06:42",
+    "end": "00:06:51"
+  },
+  {
+    "text": "Wait, which passage are we talking about?",
+    "start": "00:06:51",
+    "end": "00:06:52"
+  },
+  {
+    "text": "So, yeah, there's a network of passages that repeat throughout Hebrews, warning of really stringent warnings of divine judgment for turning away from Jesus. Yeah. And it causes theological problems for lots of traditions.",
+    "start": "00:06:53",
+    "end": "00:07:07"
+  },
+  {
+    "text": "People can be terrified by it. I mean, Tim, over the years, I've gotten dozens of letters from people who are convinced that they've committed the unpardonable sin. And they find out about this because of my article. And I think, oh, I wish you don't. I don't want you to read that one now. You've obviously felt the terror. We don't need to worry about that right now.",
+    "start": "00:07:07",
+    "end": "00:07:28"
+  },
+  {
+    "text": "Yeah, sure.",
+    "start": "00:07:28",
+    "end": "00:07:29"
+  },
+  {
+    "text": "So, yes, that was. I spent a whole summer working on that, and then I taught it.",
+    "start": "00:07:30",
+    "end": "00:07:34"
+  },
+  {
+    "text": "Had you been teaching? It was just personally. It was a question. You needed to respond.",
+    "start": "00:07:35",
+    "end": "00:07:39"
+  },
+  {
+    "text": "I taught a course at Trinity called. We called it the Leftovers Hebrews General Epistles, Johannine Literature and Revelation. So there was the Synoptic Gospels, Acts and Paul, and then the Leftovers.",
+    "start": "00:07:39",
+    "end": "00:07:52"
+  },
+  {
+    "text": "That's not what it said in the syllabus.",
+    "start": "00:07:53",
+    "end": "00:07:55"
+  },
+  {
+    "text": "No, it said. I don't know the number. I can't remember. NT603 or something.",
+    "start": "00:07:55",
+    "end": "00:08:00"
+  },
+  {
+    "text": "NT603.",
+    "start": "00:08:00",
+    "end": "00:08:01"
+  },
+  {
+    "text": "And it was. They called it Hebrews General Epistles and Johannian Literature. I think it was the official title. But I taught it. And this is a seminary. Pretty full of Calvinists. At the midterm, almost every student in the class was convinced of my view. And I remember thinking, I'm in trouble. I'm officially now in trouble with the Calvinist professors.",
+    "start": "00:08:02",
+    "end": "00:08:24"
+  },
+  {
+    "text": "I see.",
+    "start": "00:08:24",
+    "end": "00:08:25"
+  },
+  {
+    "text": "I mean, it was fair. I wasn't bothered by it. This is what Trinity was like. Yeah. And that's become a little ebook. Oh, is that called A Long Faithfulness?",
+    "start": "00:08:25",
+    "end": "00:08:37"
+  },
+  {
+    "text": "Oh, no. Oh, yeah, I saw that.",
+    "start": "00:08:37",
+    "end": "00:08:38"
+  },
+  {
+    "text": "I rewrote it so it's more readable. Took out all those long footnotes that you.",
+    "start": "00:08:38",
+    "end": "00:08:42"
+  },
+  {
+    "text": "Okay. Did you rewrite it just to be less technical for a wider audience? Oh, that's good to know. Oh, that's great to know.",
+    "start": "00:08:43",
+    "end": "00:08:50"
+  },
+  {
+    "text": "I wanted to call it A Long Faithfulness in the same direction, but it sounded too much like another book.",
+    "start": "00:08:50",
+    "end": "00:08:56"
+  },
+  {
+    "text": "That's right, yeah.",
+    "start": "00:08:56",
+    "end": "00:08:57"
+  },
+  {
+    "text": "Do you get into the blaspheming of the Holy Spirit?",
+    "start": "00:08:57",
+    "end": "00:09:00"
+  },
+  {
+    "text": "Sure. Well, blaspheming of the Holy Spirit is from the Gospels.",
+    "start": "00:09:00",
+    "end": "00:09:03"
+  },
+  {
+    "text": "Right.",
+    "start": "00:09:03",
+    "end": "00:09:03"
+  },
+  {
+    "text": "This one is. I call the sin apostasy. So you're actually consciously, intentionally turning your back on faith in Christ.",
+    "start": "00:09:03",
+    "end": "00:09:13"
+  },
+  {
+    "text": "But do you think that's what that's about, too? Does it all connect together?",
+    "start": "00:09:13",
+    "end": "00:09:16"
+  },
+  {
+    "text": "Okay, Yeah. I think that's what the sin is, and the judgment is eternal judgment. So I'm Arminian in that is. I think that there are people who can walk away from the faith and lose what redemption they had. That's sort of the argument.",
+    "start": "00:09:16",
+    "end": "00:09:31"
+  },
+  {
+    "text": "Well, that's the heaviness you feel when you read Hebrews.",
+    "start": "00:09:31",
+    "end": "00:09:33"
+  },
+  {
+    "text": "Yeah. Yeah, it sure does. It scares you. I remember as a high school student, I read it the first time, but I was so assured of assurance of faith that I knew it didn't have anything to do with me. But in college, I started reading it, and then when I was in seminary, I went, whoa, this is some pretty serious stuff here. But I didn't have to work it out until I had to teach it. And then I couldn't live with the way I talked about it, so I had. Or the way I was thinking about it, so I had to. I spent the whole summer preparing that one lecture.",
+    "start": "00:09:33",
+    "end": "00:10:02"
+  },
+  {
+    "text": "Wow. I also remember that this essay was a good model for me just in reading how to read New Testament epistles. And, you know, I had other classes in it, but I think because the New Testament epistles, the way they communicate, make their points, mount arguments, use illustration, it's different than how we think about communicating. And it takes a while to acclimate to how the apostles make arguments and so on. And so this approach also was a good model for me in reading the epistles as whole lines of thought. And you can't just abstract a paragraph out here or there, but view every paragraph as a network within all of its. So your point here is there's lots of warning passages. They all illuminate each other.",
+    "start": "00:10:02",
+    "end": "00:10:47"
+  },
+  {
+    "text": "Yes.",
+    "start": "00:10:47",
+    "end": "00:10:47"
+  },
+  {
+    "text": "You can't treat one.",
+    "start": "00:10:47",
+    "end": "00:10:48"
+  },
+  {
+    "text": "That's the point.",
+    "start": "00:10:48",
+    "end": "00:10:49"
+  },
+  {
+    "text": "Different from how you treat another thing. Yeah. Well, thank you for that.",
+    "start": "00:10:49",
+    "end": "00:10:53"
+  },
+  {
+    "text": "Yeah. Not many people have thanked me for that one.",
+    "start": "00:10:53",
+    "end": "00:10:57"
+  },
+  {
+    "text": "It was helpful.",
+    "start": "00:10:57",
+    "end": "00:10:58"
+  },
+  {
+    "text": "But, you know, it's almost an education in itself, is when you work through one passage really carefully. Let's just say you give students an entire week to do nothing but read that, work through everything, every question. That's how you get educated.",
+    "start": "00:10:58",
+    "end": "00:11:14"
+  },
+  {
+    "text": "Yes.",
+    "start": "00:11:14",
+    "end": "00:11:14"
+  },
+  {
+    "text": "You know, we have a. We've got to cover the big picture. No one knows how to do that better than you. We've got to cover the big picture, but you have to dig down at times to figure out how this work is actually done at the deeper level.",
+    "start": "00:11:14",
+    "end": "00:11:26"
+  },
+  {
+    "text": "Yeah, that's right.",
+    "start": "00:11:26",
+    "end": "00:11:27"
+  },
+  {
+    "text": "And so I think it's been helpful for that. But that was a long time ago. That was a long time ago. It had to be in the 80s. Was it?",
+    "start": "00:11:27",
+    "end": "00:11:36"
+  },
+  {
+    "text": "I think it was published in 92.",
+    "start": "00:11:37",
+    "end": "00:11:39"
+  },
+  {
+    "text": "92. I probably gave the lectures in the late 80s before I went.",
+    "start": "00:11:39",
+    "end": "00:11:44"
+  },
+  {
+    "text": "Okay.",
+    "start": "00:11:44",
+    "end": "00:11:44"
+  },
+  {
+    "text": "Publication with it.",
+    "start": "00:11:44",
+    "end": "00:11:45"
+  },
+  {
+    "text": "So those are from years you were. Yeah. Teaching at Trinity in Illinois.",
+    "start": "00:11:45",
+    "end": "00:11:49"
+  },
+  {
+    "text": "Yep.",
+    "start": "00:11:49",
+    "end": "00:11:49"
+  },
+  {
+    "text": "Yeah. Was that your first teaching?",
+    "start": "00:11:49",
+    "end": "00:11:51"
+  },
+  {
+    "text": "First teaching position.",
+    "start": "00:11:51",
+    "end": "00:11:52"
+  },
+  {
+    "text": "Okay. Okay. So next step in this journey of me discovering Satman II's work. The next one was a volume in a series called Guides to New Testament Exegesis. Yes. It's a handbook. Yes, It's a handbook called Interpreting the Synoptic Gospels. Matthew, Mark and Luke Scott. I mean, again, I took some classes at Multnomah, but for me, this was the next level. So you were one of my first tutors in teaching me to read the Synoptic Gospels. Thank you so much.",
+    "start": "00:11:52",
+    "end": "00:12:32"
+  },
+  {
+    "text": "Well, thank you. That's neat. That's neat.",
+    "start": "00:12:32",
+    "end": "00:12:34"
+  },
+  {
+    "text": "No, really, I've come back to this so many times. There are many things that were Interesting to me. So I think I had only been following Jesus and reading the Gospels for a couple years before I enrolled for classes. It was all still pretty fresh, and I still so remember my bewilderment at reading anything in the Bible. It was so strange to me. But Jesus was awesome. I was compelled by him and that he was amazing. So I read the Gospels a lot, but I just constantly had this sense of, like, I don't really have a clue what's going on here on any given page, about how to follow a narrative argument, how the portrait of Jesus is advancing and developing, building. And so it was actually in the same series. Tom Schreiner has a volume on how to read the epistles that I found really helpful. And so then I saw in the library, I was like, oh, this is a series. Oh, Scott McKnight. Hey. I read him on the warning letters, the warning passage in Hebrews. And so there you go. And so this helped me immensely, especially the latter half, about how each Matthew, Mark and Luke are developing distinct motifs that are unique and how to trace a motif through repeated words and themes and ideas, as well as how to compare the synoptics. I was helped immensely. So thank you for that.",
+    "start": "00:12:34",
+    "end": "00:13:56"
+  },
+  {
+    "text": "That was my first book.",
+    "start": "00:13:56",
+    "end": "00:13:57"
+  },
+  {
+    "text": "Yes. Tell me about the Genesis of this book.",
+    "start": "00:13:57",
+    "end": "00:14:00"
+  },
+  {
+    "text": "My PhD supervisor, Jimmy Dunn, and my external examiner, Graham Stanton, wanted me to publish my dissertation. I was teaching Synoptic Gospels. So I sat down to write, start my dissertation, and revise it. I worked one day, and I said to my wife, I'm never going to do this again. I'm not touching this Matthew 10 again. I did my work on that. I don't want to revise it. I. I want to write something for my students. So I had been building notes. I was helped by Murray Harris and Richard Longenecker and Walt Liefeld, who had taught synoptics at Trinity. And there were notes that were passing around. I got permission from Walt Liefeld to use a little bit of what he had said. And so I started building my own lecture notes on the Synoptic Gospels. And I had just gotten an Apple Macintosh 512K. Are you old enough to remember that?",
+    "start": "00:14:00",
+    "end": "00:14:57"
+  },
+  {
+    "text": "That's the processing power. 512.",
+    "start": "00:14:59",
+    "end": "00:15:01"
+  },
+  {
+    "text": "I don't know. It was small, though. I could type about.",
+    "start": "00:15:01",
+    "end": "00:15:04"
+  },
+  {
+    "text": "It wasn't one of the neon ones 25?",
+    "start": "00:15:05",
+    "end": "00:15:07"
+  },
+  {
+    "text": "No, no, way before that. This was a little square box? No, it was. I could type about 25 pages, and I had to change disks. Okay, so then. Then it was 512ke. You got an external drive and Then you could go 100 pages, right?",
+    "start": "00:15:07",
+    "end": "00:15:23"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:15:23",
+    "end": "00:15:24"
+  },
+  {
+    "text": "I still have all my discs.",
+    "start": "00:15:24",
+    "end": "00:15:26"
+  },
+  {
+    "text": "Whoa.",
+    "start": "00:15:26",
+    "end": "00:15:27"
+  },
+  {
+    "text": "I have a whole drawer full of nothing but these little discs.",
+    "start": "00:15:27",
+    "end": "00:15:29"
+  },
+  {
+    "text": "I'm sure they don't work anymore.",
+    "start": "00:15:29",
+    "end": "00:15:30"
+  },
+  {
+    "text": "I'm sure they don't. Doesn't matter. I don't have the computer either. But I started building and I would write it out. And because our lectures were a little bit more formal, I would write it all out. And the next thing I realized I had something like a book. So at an SBL meeting, I talked to an editor, Alan Fisher, and then his colleague Jim Kinney at Baker, and they said, why don't you be the editor for a series? So I wrote the Synoptics and then I asked some friends to do the other ones. And we did a little Introduction to the New Testament.",
+    "start": "00:15:30",
+    "end": "00:16:03"
+  },
+  {
+    "text": "Yeah, it was like five or six volumes.",
+    "start": "00:16:03",
+    "end": "00:16:04"
+  },
+  {
+    "text": "Yeah, yeah, it worked. And it was fun. Ramsay Michaels did Revelation.",
+    "start": "00:16:04",
+    "end": "00:16:08"
+  },
+  {
+    "text": "Yeah, totally.",
+    "start": "00:16:08",
+    "end": "00:16:09"
+  },
+  {
+    "text": "Drew Totter did Hebrews. Very good book.",
+    "start": "00:16:09",
+    "end": "00:16:11"
+  },
+  {
+    "text": "Yeah. The whole series I ended up getting. There's lots of books on the synoptic problem, the historical question of the relation. But just like reading next level depth reading tools. Maybe it exists, but I haven't.",
+    "start": "00:16:11",
+    "end": "00:16:26"
+  },
+  {
+    "text": "Is when I was doing synoptic gospel studies, redaction criticism and literary and sometimes called composition criticism were the thing. And so people were studying, how does Matthew present the disciples? How does Mark present the disciples? Luke. Some people got into John as well. But the synoptics are distinct. Well, that almost. And the synoptic problem was always involved. So that's what I was teaching. And all of a sudden it all died and it became historical Jesus studies. And at SBL, the Matthew seminar.",
+    "start": "00:16:28",
+    "end": "00:17:03"
+  },
+  {
+    "text": "SBL is Society of Biblical Literature.",
+    "start": "00:17:03",
+    "end": "00:17:05"
+  },
+  {
+    "text": "Shrunk from interesting 125 people to. And the Jesus. The Historical Jesus Seminar. We're talking the glory days of Tom Wright, Paula Fredrickson, John Dominic Cross, and Mark Borg. I was in sessions where there were over a thousand professors in one session listening to other professors. Now, professors have big enough egos that you can't get a thousand of them together to listen to one person or anything. And they took over. And all of a sudden the historical Jesus studies took over. Gospel studies. And that lasted for almost a decade.",
+    "start": "00:17:06",
+    "end": "00:17:41"
+  },
+  {
+    "text": "The first time I heard that phrase was just a week ago. Someone told me, what's that? The historical Jesus.",
+    "start": "00:17:41",
+    "end": "00:17:47"
+  },
+  {
+    "text": "Historical Jesus study.",
+    "start": "00:17:47",
+    "end": "00:17:48"
+  },
+  {
+    "text": "It was a thing. And I was like, I don't even know what that is. I still don't know what it is.",
+    "start": "00:17:48",
+    "end": "00:17:53"
+  },
+  {
+    "text": "What it means is. Now here's the. This is critical because I define this Very carefully. And I get into arguments with someone named N.T. wright about this. Historical Jesus is not what Jesus was like. So it's not baptizing Jesus in historical context. It's looking at the Gospels with a skeptical eye saying not all this stuff was said and done.",
+    "start": "00:17:53",
+    "end": "00:18:15"
+  },
+  {
+    "text": "You're talking about the agenda of this academic program.",
+    "start": "00:18:16",
+    "end": "00:18:18"
+  },
+  {
+    "text": "That's what it does. And they try to find what Jesus was really like over against what the church believes.",
+    "start": "00:18:18",
+    "end": "00:18:23"
+  },
+  {
+    "text": "Yeah. And when I asked the guy who was telling me about this, I said, well, where else but the Gospels do we have any information about Jesus?",
+    "start": "00:18:23",
+    "end": "00:18:29"
+  },
+  {
+    "text": "Well, other than our Gospels, there are some other Gospels.",
+    "start": "00:18:30",
+    "end": "00:18:32"
+  },
+  {
+    "text": "Only the other Gospels.",
+    "start": "00:18:32",
+    "end": "00:18:33"
+  },
+  {
+    "text": "Yeah. And there would be Jewish information from the Dead Sea Scrolls and stuff that would filter in, but Jesus isn't there. You've got to use the Gospels. You don't use the Gospels, you're not going to get anywhere. But some people are very generous with non canonical Gospels. The Gospel is not in our Bible and very critical of the canonical.",
+    "start": "00:18:33",
+    "end": "00:18:53"
+  },
+  {
+    "text": "Yeah, right.",
+    "start": "00:18:53",
+    "end": "00:18:54"
+  },
+  {
+    "text": "So that's what historical Jesus studies does.",
+    "start": "00:18:54",
+    "end": "00:18:56"
+  },
+  {
+    "text": "Okay.",
+    "start": "00:18:56",
+    "end": "00:18:57"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:18:57",
+    "end": "00:18:57"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:18:57",
+    "end": "00:18:57"
+  },
+  {
+    "text": "So well, that's a great transition for our next stop on the tour.",
+    "start": "00:18:58",
+    "end": "00:19:01"
+  },
+  {
+    "text": "Yes.",
+    "start": "00:19:01",
+    "end": "00:19:02"
+  },
+  {
+    "text": "So there were two books I'm looking a book you wrote, A New Vision for Israel, the Teachings of Jesus in national Context. You wrote it published in 99. I was late to the game. I read it in 2006. But I actually discovered this and Jesus Creed around the same time.",
+    "start": "00:19:03",
+    "end": "00:19:20"
+  },
+  {
+    "text": "And I think, yeah, about the same time.",
+    "start": "00:19:20",
+    "end": "00:19:22"
+  },
+  {
+    "text": "It was probably about 2001 when I encountered Tom Wright's big book on Jesus and the victory of God. And then that just began in a big rabbit trail for me. And so I just started reading everybody in his footnotes and figuring out historical Jesus stuff. It was my first time diving into that.",
+    "start": "00:19:22",
+    "end": "00:19:41"
+  },
+  {
+    "text": "And Tom Wright's book was so fun to read.",
+    "start": "00:19:42",
+    "end": "00:19:44"
+  },
+  {
+    "text": "Oh, it was amazing to read.",
+    "start": "00:19:44",
+    "end": "00:19:46"
+  },
+  {
+    "text": "That was just unreal.",
+    "start": "00:19:46",
+    "end": "00:19:48"
+  },
+  {
+    "text": "Yeah, totally.",
+    "start": "00:19:48",
+    "end": "00:19:49"
+  },
+  {
+    "text": "Which one?",
+    "start": "00:19:49",
+    "end": "00:19:49"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:19:49",
+    "end": "00:19:49"
+  },
+  {
+    "text": "Jesus and the Victory of God. When I read that I went, whoa.",
+    "start": "00:19:49",
+    "end": "00:19:53"
+  },
+  {
+    "text": "Yeah, it was just a new world. Enjoyable to read.",
+    "start": "00:19:53",
+    "end": "00:19:55"
+  },
+  {
+    "text": "96 or 97.",
+    "start": "00:19:55",
+    "end": "00:19:57"
+  },
+  {
+    "text": "Read that book.",
+    "start": "00:19:58",
+    "end": "00:19:58"
+  },
+  {
+    "text": "600 pages and it could have been a thousand.",
+    "start": "00:19:59",
+    "end": "00:20:02"
+  },
+  {
+    "text": "Yeah, that's right. But it was, it's an. Enjoy. It's a, it's a work of literary art, even just how it's organized. Anyway, he's a good writer. So are you.",
+    "start": "00:20:02",
+    "end": "00:20:11"
+  },
+  {
+    "text": "So this one is not well written though.",
+    "start": "00:20:11",
+    "end": "00:20:13"
+  },
+  {
+    "text": "Here's what was helpful for me about it. And as I was looking through, looking through my notes as. So maybe this represents. I'm in year 11 now of reading the Bible in 2006. And I was beginning to make this turn of understanding Jesus, that to understand his cosmic significance, I needed to understand how the Gospels are presenting his historical mission to the Israel of his time.",
+    "start": "00:20:14",
+    "end": "00:20:42"
+  },
+  {
+    "text": "Yes.",
+    "start": "00:20:42",
+    "end": "00:20:42"
+  },
+  {
+    "text": "And that his message about the kingdom, his calls to repentance, his warnings of judgment, are they not bound to the first century? But I have to first understand what they meant in that moment. And while Tom Wright's book did that was shorter. And there are a number of points that I felt like you clarified for me that were left hanging after Tom Wright. So I'm curious. Yeah, tell me what the genesis of this book and what interested you about these ideas?",
+    "start": "00:20:43",
+    "end": "00:21:11"
+  },
+  {
+    "text": "Well, Bruce Chilton and Craig Evans were editing a series, and Craig came to me and asked me if I wanted to write one. And I said, I will, but I kind of want to do just a book on the teachings of Jesus in his historical context. Craig said, go for it. So that's what I wrote. And I wanted to show that the message of Jesus about the kingdom, about ethics, about God, were all connected to the Old Testament, to the Jewish world, and that Jesus was calling the people of Israel to repent in light of the coming judgment on Jerusalem for its waywardness. So, like Deuteronomy type stuff, you know?",
+    "start": "00:21:11",
+    "end": "00:21:52"
+  },
+  {
+    "text": "Yes.",
+    "start": "00:21:52",
+    "end": "00:21:52"
+  },
+  {
+    "text": "Yeah, that's what I did. I did not go into how Matthew presents it, Mark presents it, Luke presents it. I didn't do that. I wanted to kind of focus on the teachings of Jesus and still in some ways be relevant for my classes who were studying Jesus. I found when I got to North Park University in Chicago that that book was too heavy for my college students. In fact, I wrote it when I was there. And it was disappointing to me that the book I wrote that I thought they could understand was too dense. So I was not able to use it as a textbook. I had too many unbelievers in my class to.",
+    "start": "00:21:52",
+    "end": "00:22:33"
+  },
+  {
+    "text": "That's right. You had a spiritually diverse student body at North Park. Yeah, that's right.",
+    "start": "00:22:33",
+    "end": "00:22:39"
+  },
+  {
+    "text": "So that book was a little too much for the non believers. I went in other directions.",
+    "start": "00:22:39",
+    "end": "00:22:44"
+  },
+  {
+    "text": "Yeah. Yeah.",
+    "start": "00:22:44",
+    "end": "00:22:45"
+  },
+  {
+    "text": "I used more basic stuff.",
+    "start": "00:22:45",
+    "end": "00:22:47"
+  },
+  {
+    "text": "So in terms of. This has come up in John and I's conversations a lot. And I still think I am still reckoning with this because the four Gospel portraits of Jesus are claiming universal significance for this story. They're presenting Jesus as a figure of universal significance for the whole world. But the person they're presenting is very much grounded in. In the dust, the grit and politics and religious controversies of his day. You know, that's just something to wrap your mind around. Many people are introduced to Jesus teachings, especially completely like, taken out of that context and more like Jesus is a moral philosopher is how a lot of people encounter the teachings of Jesus. Yeah, it complicated how I related to Jesus teachings in the Gospel, but it also made them come alive in a new way, too. And John and I have talked about these themes some, but this book really helped me with that.",
+    "start": "00:22:47",
+    "end": "00:23:50"
+  },
+  {
+    "text": "I'm not. I think I would minimize the Gospel authors thinking that they're writing for a universal audience. They're writing for their audience, believing that what they have to say is valuable to other people too. But universal is pretty big, you know.",
+    "start": "00:23:51",
+    "end": "00:24:08"
+  },
+  {
+    "text": "Yes.",
+    "start": "00:24:08",
+    "end": "00:24:08"
+  },
+  {
+    "text": "They're not.",
+    "start": "00:24:09",
+    "end": "00:24:10"
+  },
+  {
+    "text": "Do you think there's a difference between the universal audience but universal significance? All authority in heaven and earth in terms of cosmic significance. I believe that that's what. Yeah, that's what I mean.",
+    "start": "00:24:10",
+    "end": "00:24:19"
+  },
+  {
+    "text": "Yeah. I think that they believe that this Jesus that they believed in, who was crucified, who taught all these things, told these stories, did these marvelous deeds, who was crucified and raised and ascended is the world's true Lord. They believed that. But you're dealing with in the first century when let's say Mark is writing in the mid-60s, he's in Rome, let's say no one knows for sure, but scholars like to think they know those things. So let's just say 65, he's sitting there writing this book. You know, there's maybe 200 Christians in Rome, maybe 150. Tom Wright thinks 100 when Paul writes the letter 57 A.D. so not many. So they are nobody. They have no power. So they really do believe that Jesus is the Lord and that he's coming back. But things don't look like they're in their favor. And Nero, you know, by the time Mark is writing, Nero is whacking people and he's. Maybe Mark writes after Nero, but maybe it's right in the middle of it when he's killing people, maybe set the city on fire so he could rebuild the inner part of Rome. That's one of the stories that has gone on since the first century. So I think that there was a level of imagination on the part of those early Christians on the significance of Jesus that is boggling.",
+    "start": "00:24:19",
+    "end": "00:25:48"
+  },
+  {
+    "text": "Wow.",
+    "start": "00:25:48",
+    "end": "00:25:48"
+  },
+  {
+    "text": "I mean, they thought. They really thought this Jewish guy who was crucified way out there, you know.",
+    "start": "00:25:48",
+    "end": "00:25:54"
+  },
+  {
+    "text": "On the far end, you know, Nevada.",
+    "start": "00:25:54",
+    "end": "00:25:56"
+  },
+  {
+    "text": "Or something like that, where New Mexico, where hardly anybody lives, and they think he's. He's the Lord. That takes courage and Imagination.",
+    "start": "00:25:56",
+    "end": "00:26:05"
+  },
+  {
+    "text": "Yes.",
+    "start": "00:26:05",
+    "end": "00:26:06"
+  },
+  {
+    "text": "And they had that imagination.",
+    "start": "00:26:06",
+    "end": "00:26:07"
+  },
+  {
+    "text": "And they're the size of like a neighborhood association.",
+    "start": "00:26:08",
+    "end": "00:26:11"
+  },
+  {
+    "text": "Yeah. And not only that, they're in poor areas. Okay. They probably lived in what's called the Aventine, some of them. If they're in the Aventine, the senators are moving out of the Roman Forum era and moving south into this. So there'd be some Christians there. There could be some mixture with some upper class people. But by and large, they're where all the poor people are in Rome. And they have. There's no rights. They're not citizens. They have no chance. They just keep their mouth shut and they want to do what's right. There was a great movie about Paul last year by James Faulkner. Did you watch it?",
+    "start": "00:26:12",
+    "end": "00:26:46"
+  },
+  {
+    "text": "I didn't heard.",
+    "start": "00:26:47",
+    "end": "00:26:48"
+  },
+  {
+    "text": "It's really worth watching.",
+    "start": "00:26:48",
+    "end": "00:26:49"
+  },
+  {
+    "text": "Okay.",
+    "start": "00:26:49",
+    "end": "00:26:49"
+  },
+  {
+    "text": "And I think it has great depictions of what it was like to be a first century Christian in Rome. I think it's really. I think I thought, wow, that's good. Faulkner became a Christian doing the movie.",
+    "start": "00:26:49",
+    "end": "00:27:00"
+  },
+  {
+    "text": "No joke. Wow. Okay. Well, it's quite a story.",
+    "start": "00:27:00",
+    "end": "00:27:04"
+  },
+  {
+    "text": "I just heard about it again this week.",
+    "start": "00:27:04",
+    "end": "00:27:06"
+  },
+  {
+    "text": "Yeah. So let's talk about that imagination and about how the early Christians in the Apostolic Witness came into writing through the Gospels. You wrote a version that wasn't accessible to your students. You discovered how to present Jesus college students. So then Jesus creed enters your mind and heart somewhere in there.",
+    "start": "00:27:06",
+    "end": "00:27:42"
+  },
+  {
+    "text": "2004, it was published.",
+    "start": "00:27:42",
+    "end": "00:27:44"
+  },
+  {
+    "text": "Okay. So actually I just discovered. I remembered today, looking for it, that I loaned my copy that I first read and whoever I loaned it to never gave it back to me. So, man, Scott, thank you for the Jesus creed. Tell us that book. Even Patrick.",
+    "start": "00:27:44",
+    "end": "00:28:00"
+  },
+  {
+    "text": "It changed my life too.",
+    "start": "00:28:00",
+    "end": "00:28:01"
+  },
+  {
+    "text": "It changed a lot of people's.",
+    "start": "00:28:01",
+    "end": "00:28:02"
+  },
+  {
+    "text": "All right, so I'm sitting at Willow Creek one day, Bill Hyvils is preaching and he says something about the Pharisees. And I'm sitting there and I just shake my head thinking, we have known better than this since 1977. When E.P. sanders wrote Paul and Palestinian Judaism. I thought, oh, he thinks all Jews are legalists. Come on, we can do better than this. Read the Bible, you know. So I decided right then and there, because I was listening to more and more pastors. The pastors are reading John Ortberg and Andy Stanley and they're not reading Jimmy Dunn and N.T. wright. And I thought, okay, well then I'm going to write for that group of people. So I thought, I need to write something at that level about Jesus because that's what I was writing about and studying. But I Also knew this. This was the big moment for me. It had to be spiritually engaging for ordinary people. So I wanted to write a book about Jesus for ordinary people that would have ordinary meaning.",
+    "start": "00:28:03",
+    "end": "00:29:05"
+  },
+  {
+    "text": "They don't like to read books all day.",
+    "start": "00:29:05",
+    "end": "00:29:07"
+  },
+  {
+    "text": "Yeah, not academics, you know, not pastors, people in the church. Normal people who might not even like to read. And I wanted them to understand Jesus in his Jewish world. So the first chapter started. I was having lunch with a pastor at Willow Creek named John Ortberg. I said to John, are you going to preach at Christmas this year? He said, yeah. I said, what are you going to preach about? This is in November. I have no idea. He said, do you have an idea? I said, yeah, I think you should preach about Joseph. He said, why don't you send me some stuff about Joseph? So that day I went home and I wrote 15 pages on Joseph and I sent it to him. The next morning I get a three line letter. Typical John Ortberg letter. This is great. Send me one on Mary. I wrote back, john, I am not your graduate assistant. So I. I wrote that. And then this is. No kidding. That became the template, the chapter on Joseph. But I wrote it 19 different times till I found a template. It grew to 35 pages, which would.",
+    "start": "00:29:07",
+    "end": "00:30:09"
+  },
+  {
+    "text": "Have been the chapter on Joseph, John, Joseph.",
+    "start": "00:30:09",
+    "end": "00:30:11"
+  },
+  {
+    "text": "It would have been way too. I mean, that's. That's probably eight times bigger than the chapters. I discovered that the right pace was about 2,200 words. And it had to have at least one story, maybe two, And I had to avoid. My editor wrote me and said I sent her some chapters. Quit trying to prove things. Your audience believes. You Just tell us what you think. I went, oh, I'm not used to this. I want to build a case. She says, no case. Just give me the conclusion and move on. So she was amazing editor Lil Copan, and she pushed me and ripped chapters apart. One chapter she wrote a great big green X on. And she said, this whole chapter sucks. So I worked on it, and originally it was going to be something like 7 Habits of Jesus Followers or something. And we went back and forth on titles. And I wanted to call the book then the Jesus Creed. And they did not like that title. They wanted the Creed of Jesus. Well, my editor sent it back to me with no approval for Jesus Creed. Had to be the Creed of Jesus. And I didn't like it. So I knew the next layer would go to a different editor. So I just changed it and put it to Jesus Creed, sent it to the next editor. And when My original editor got it again. She had no problem with it. And that book put me in all kinds of churches all over. I spoke to pastors, and that was the book that changed my life toward writing for the church and for laypeople. But the other side of it is I learned how to write in a different way. I mean, 19 times on Joseph.",
+    "start": "00:30:11",
+    "end": "00:31:57"
+  },
+  {
+    "text": "Yes.",
+    "start": "00:31:57",
+    "end": "00:31:57"
+  },
+  {
+    "text": "There was a reason for that, is because I did not know how to write for that audience.",
+    "start": "00:31:57",
+    "end": "00:32:01"
+  },
+  {
+    "text": "It's writing for a popular audience.",
+    "start": "00:32:02",
+    "end": "00:32:03"
+  },
+  {
+    "text": "Yeah. I call it. My wife calls that. I have two kinds of books. She calls them readable books and unreadable book. I had to move it to a readable book.",
+    "start": "00:32:03",
+    "end": "00:32:14"
+  },
+  {
+    "text": "Yes. Yeah, that was the process. The passion that comes through in that book is the Jewish heritage of Jesus. And the early Jesus movement is not some cultural set of shackles that the early Christians were freed from. It was the biblical heritage that shaped Jesus and that is actually still shaping us, his followers, through him. It's a Jewish heritage and it's beautiful. Well, and hit me square, square between the eyes.",
+    "start": "00:32:14",
+    "end": "00:32:45"
+  },
+  {
+    "text": "I was teaching two classes back to back. Jesus of Nazareth, 8 o' clock in the morning, 50 students in the classroom. Then I would walk across the hallway to a senior seminar on the Christian spiritual formation. And we were reading a book on Christian spiritual formation. And as I would walk from the Jesus class to this other class, I would say, the person that we're going to be talking about now has nothing to do with what Jesus was talking about. And it happened so long that I said to myself, wait, sorry, I wasn't.",
+    "start": "00:32:45",
+    "end": "00:33:16"
+  },
+  {
+    "text": "Following the person who wrote the book.",
+    "start": "00:33:16",
+    "end": "00:33:18"
+  },
+  {
+    "text": "Okay. So we were writing. We're reading a book by Richard Foster called Streams of Living Water. And it goes through six spiritual formation traditions in the church. And each one of them focuses on one person. So I'd start thinking about that person. I'd think, that's really good stuff, but has nothing to do with Jesus in his Jewish world. So it started working backwards. I kept thinking, so how would Jesus have framed spiritual formation? And one day I was sitting there thinking, well, he's Jewish. Every morning, every night, he says, Shema. So I'm going to start with this. So I decided to explore Shema in the Gospels. And I was shocked at how often, if you're looking for it, you can see it. And I don't think it's artificial to see it in certain contexts. For instance, the Lord's Prayer starts out with God and then it's others. That pattern is not in the Kaddish, the Jewish prayer that's like it. There's nothing about others. It's only about God. So he had to add the second part. And when you look at the Jesus Creed, hear, O Israel, the Lord our God, the Lord is one. Love. The Lord your God starts it out from Deuteronomy 6, but Jesus adds, love your neighbor as yourself from Leviticus 19. So he's added that in two different locations that are very important liturgically, religiously for Jews in the first century. So I began to trace this theme. And then the other thing that happened to me, I decided I was going to try to do this the way Jesus did that every morning when I put my feet on the ground, and every night when I took my feet off the ground, I would say the Jesus Creed. And I learned it in Hebrew so that I felt superior to. And I would say it every day. Then I made a commitment. I did this for maybe a month. Then I made a commitment that every time it came to mind, I would repeat it again. And I found myself saying it 40, 50 times a day. And to this day, I say it all the time. And I think that's the secret to it, is that you repeat this over and over, not as a form of vain repetition or recitation, but. But as a reminder. And if you say this often enough, before long you find yourself interacting with someone saying, okay, I need to be like Jesus here. I need to love my neighbor as myself. And it makes a difference.",
+    "start": "00:33:18",
+    "end": "00:35:39"
+  },
+  {
+    "text": "What is it not in Hebrew, in English?",
+    "start": "00:35:39",
+    "end": "00:35:40"
+  },
+  {
+    "text": "Hero, Israel, the Lord our God.",
+    "start": "00:35:40",
+    "end": "00:35:42"
+  },
+  {
+    "text": "Oh, so it's a shema. And is it Jesus version of it with.",
+    "start": "00:35:42",
+    "end": "00:35:45"
+  },
+  {
+    "text": "If you use Mark, Hero, Israel, the Lord our God, the Lord is one. Love the Lord your God with all your heart, with all your mind, with all your soul and all your strength. The second is this. Love your neighbor as yourself. There is no commandment greater than these.",
+    "start": "00:35:46",
+    "end": "00:35:59"
+  },
+  {
+    "text": "Cool.",
+    "start": "00:35:59",
+    "end": "00:36:00"
+  },
+  {
+    "text": "And that second half is from Leviticus 19. I found this in Paul. I find it in John.",
+    "start": "00:36:00",
+    "end": "00:36:08"
+  },
+  {
+    "text": "That's right.",
+    "start": "00:36:08",
+    "end": "00:36:09"
+  },
+  {
+    "text": "I find it in James.",
+    "start": "00:36:09",
+    "end": "00:36:10"
+  },
+  {
+    "text": "Totally. It's everywhere.",
+    "start": "00:36:10",
+    "end": "00:36:11"
+  },
+  {
+    "text": "It's tipped off when they're quoting Leviticus 19.",
+    "start": "00:36:11",
+    "end": "00:36:14"
+  },
+  {
+    "text": "Yeah, that's right.",
+    "start": "00:36:14",
+    "end": "00:36:15"
+  },
+  {
+    "text": "Quoting Deuteronomy 6 is very Jewish.",
+    "start": "00:36:15",
+    "end": "00:36:18"
+  },
+  {
+    "text": "Yes.",
+    "start": "00:36:18",
+    "end": "00:36:18"
+  },
+  {
+    "text": "Quoting Leviticus 19 in connection with Leviticus with Deuteronomy 6 or the Shema is pretty distinct. So, I mean, John is obsessed with the word love.",
+    "start": "00:36:18",
+    "end": "00:36:29"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:36:29",
+    "end": "00:36:29"
+  },
+  {
+    "text": "He didn't get that on his own.",
+    "start": "00:36:29",
+    "end": "00:36:30"
+  },
+  {
+    "text": "That's right.",
+    "start": "00:36:31",
+    "end": "00:36:31"
+  },
+  {
+    "text": "And Paul says a couple times, if you love your neighbor as yourself, you fulfill the law. That's big stuff.",
+    "start": "00:36:31",
+    "end": "00:36:39"
+  },
+  {
+    "text": "Yes.",
+    "start": "00:36:39",
+    "end": "00:36:39"
+  },
+  {
+    "text": "That's not small.",
+    "start": "00:36:40",
+    "end": "00:36:41"
+  },
+  {
+    "text": "What you're saying is this was so foundational for Jesus, the later apostolic writings don't even need to quote it as such. It's in the deep structure of their thought.",
+    "start": "00:36:41",
+    "end": "00:36:50"
+  },
+  {
+    "text": "That's right.",
+    "start": "00:36:50",
+    "end": "00:36:50"
+  },
+  {
+    "text": "And way of talking. Yeah. I mean, sometimes the most formative ideas on us, we don't need to talk about them explicitly. They just form our vocabulary and our thinking. And that's what you're saying about the Jesus creed.",
+    "start": "00:36:50",
+    "end": "00:37:05"
+  },
+  {
+    "text": "That was a novel thing for Jesus to mix up Leviticus, what is it? 19.",
+    "start": "00:37:06",
+    "end": "00:37:10"
+  },
+  {
+    "text": "I say that. Yeah, I say that Jesus combination of Deuteronomy 6 with Leviticus 19 is distinct to Jesus. No one else combines those two texts. The testament of the Twelve Patriarchs does combine loving God and loving others. But no 1 quotes Leviticus 19 in combination with Deuteronomy 6 before Jesus. That I'm aware of. And I don't think we. Because he's the first one to say it.",
+    "start": "00:37:10",
+    "end": "00:37:35"
+  },
+  {
+    "text": "Yeah. Right.",
+    "start": "00:37:35",
+    "end": "00:37:36"
+  },
+  {
+    "text": "I think he is the first one to do it.",
+    "start": "00:37:36",
+    "end": "00:37:38"
+  },
+  {
+    "text": "Yeah. Probably of all of your writings, that one has had the longest afterlife and, and transformations. There's a children's book based on it. There's study guides, and we're coming out.",
+    "start": "00:37:38",
+    "end": "00:37:50"
+  },
+  {
+    "text": "With a 15 year edition this year.",
+    "start": "00:37:50",
+    "end": "00:37:53"
+  },
+  {
+    "text": "Awesome.",
+    "start": "00:37:53",
+    "end": "00:37:54"
+  },
+  {
+    "text": "I wrote a new chapter for it.",
+    "start": "00:37:54",
+    "end": "00:37:56"
+  },
+  {
+    "text": "Yeah. Wow. Yeah.",
+    "start": "00:37:56",
+    "end": "00:37:57"
+  },
+  {
+    "text": "New cover.",
+    "start": "00:37:57",
+    "end": "00:37:58"
+  },
+  {
+    "text": "How many times did you write that chapter?",
+    "start": "00:37:58",
+    "end": "00:37:59"
+  },
+  {
+    "text": "I just had to write this one once, but I mean, I had to edit it over and over. But my editor read it and said, I love this. It's approved.",
+    "start": "00:38:00",
+    "end": "00:38:09"
+  },
+  {
+    "text": "So that's what happens when you're what, 40 years into a writing career.",
+    "start": "00:38:10",
+    "end": "00:38:14"
+  },
+  {
+    "text": "Yeah. Do you think, I mean, having looked back on your career and ministry of writing, does that kind of stand out as like a gem moment in terms of your journey?",
+    "start": "00:38:16",
+    "end": "00:38:27"
+  },
+  {
+    "text": "Unquestionably.",
+    "start": "00:38:27",
+    "end": "00:38:27"
+  },
+  {
+    "text": "I mean, it's.",
+    "start": "00:38:27",
+    "end": "00:38:28"
+  },
+  {
+    "text": "It's number one.",
+    "start": "00:38:28",
+    "end": "00:38:29"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:38:29",
+    "end": "00:38:29"
+  },
+  {
+    "text": "I always like when people say, what's your favorite book? It's always the last one I wrote, but.",
+    "start": "00:38:29",
+    "end": "00:38:35"
+  },
+  {
+    "text": "Or the one you're writing.",
+    "start": "00:38:35",
+    "end": "00:38:35"
+  },
+  {
+    "text": "Yeah, that one was. It was a life changing book for me spiritually and for my ministry and teaching and I mean, I was speaking at a place about the Jesus creed and a bookstore manager said, is this your first book? I said, well, I said, it's actually my 18th. I said, obviously you've never heard of me. He said, that's right. I've never heard of you until today.",
+    "start": "00:38:36",
+    "end": "00:39:04"
+  },
+  {
+    "text": "Yeah. Yeah. So what a journey. Well, again, thank you.",
+    "start": "00:39:04",
+    "end": "00:39:08"
+  },
+  {
+    "text": "My favorite story is.",
+    "start": "00:39:08",
+    "end": "00:39:09"
+  },
+  {
+    "text": "Yes, please.",
+    "start": "00:39:09",
+    "end": "00:39:10"
+  },
+  {
+    "text": "Johnny Wooden, the great basketball coach at ucla, had a copy of Jesus Creed.",
+    "start": "00:39:10",
+    "end": "00:39:15"
+  },
+  {
+    "text": "He reached out to you?",
+    "start": "00:39:15",
+    "end": "00:39:16"
+  },
+  {
+    "text": "No, but he was my hero.",
+    "start": "00:39:16",
+    "end": "00:39:19"
+  },
+  {
+    "text": "Okay.",
+    "start": "00:39:19",
+    "end": "00:39:20"
+  },
+  {
+    "text": "I grew up saying Johnny Wood is the greatest coach in basketball history.",
+    "start": "00:39:20",
+    "end": "00:39:23"
+  },
+  {
+    "text": "Wow.",
+    "start": "00:39:23",
+    "end": "00:39:23"
+  },
+  {
+    "text": "So he had a copy.",
+    "start": "00:39:24",
+    "end": "00:39:25"
+  },
+  {
+    "text": "That's awesome.",
+    "start": "00:39:26",
+    "end": "00:39:27"
+  },
+  {
+    "text": "Sam.",
+    "start": "00:39:31",
+    "end": "00:39:40"
+  },
+  {
+    "text": "Well, okay. Continuing the journey. This is really enjoyable. I think the next book of yours, as far as I can reconstruct, because I write the little dates. Inside was a book called on the Atonement, A community called Atonement. I was just beginning to come on staff at the church we had been attending for a couple years, and I was beginning to be asked to teach classes and occasionally preach. And so there was a sermon. It was in the Gospel of John series. I got assigned a passage in John about the son of man dying and being exalted. And so I wanted to read up on Atonement in my language about the cross. I got a Four Views book that I realized, like, oh my gosh, this is like a really hot topic. Totally. And then this volume, I got a four reviews book. And then I got this volume. And what was formative for me, there's a lot of things that were helpful here, but what was formative was actually this chapter called. Which is the fairest of them all.",
+    "start": "00:40:10",
+    "end": "00:41:11"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:41:11",
+    "end": "00:41:11"
+  },
+  {
+    "text": "So you've gone through the whole book saying you can talk about the apostles, represent the cross as a victory, as a sacrifice, as an example of love, different ways that they frame it. And then it was your way of addressing, do we have to privilege one over the other, or is there some deep underlying common denominator that's true of all of them. And so you have this phrase that the atonement is Jesus identifying with us so that we can be incorporated into him. And then you build on that. But that was very helpful for me and formative. So tell me about the genesis of this book and what your ideas were in it.",
+    "start": "00:41:11",
+    "end": "00:41:52"
+  },
+  {
+    "text": "Okay. This book was a total accident. I was asked by Tom Wright for the Nashville sbl, a Society of Biblical Literature meeting, for the Historical Jesus Seminar to give a five minute introduction to the death of Jesus so that the other main scholars would do the talks. And I was just going to give a five minute introduction in June or July. Tom writes me a letter and says, and you'll give the first paper. And I wrote back to him. I said, tom, I thought I was giving a brief introduction. He says, no, in my notes, I'm going to do that and you're going to give the first paper. So I said, well, I better get busy. So I spent that until SBL working on a taxonomy of how different Jesus scholars understood his death and how Jesus understood his own death according to Scholars. And at the end of it, I came to a conclusion that Jesus thought his death was atoning. And I told another. I told a historical Jesus scholar this. And she said to me, that's impossible. That's too theological. I remember thinking, so Jesus can't be theological. I mean, what's the point? So I decided. I decided to write a book on my sabbatical to prove that Jesus thought his death was atonement.",
+    "start": "00:41:52",
+    "end": "00:43:09"
+  },
+  {
+    "text": "Oh, that was a. Yeah.",
+    "start": "00:43:09",
+    "end": "00:43:11"
+  },
+  {
+    "text": "I wrote a big academic monograph, and as I was working on that, I was asked to do a more popular version of a different kind of book. So this book came out because Tom Wright took bad notes, and I would never have done that. I was going to work on prophecy.",
+    "start": "00:43:11",
+    "end": "00:43:29"
+  },
+  {
+    "text": "Now, was this in the mix then, when Tom wrote a book on atonement, or is that more recent?",
+    "start": "00:43:29",
+    "end": "00:43:33"
+  },
+  {
+    "text": "He wrote his book after that.",
+    "start": "00:43:34",
+    "end": "00:43:36"
+  },
+  {
+    "text": "After that.",
+    "start": "00:43:36",
+    "end": "00:43:36"
+  },
+  {
+    "text": "That little book on the evil of Jesus and evil or something like that?",
+    "start": "00:43:36",
+    "end": "00:43:40"
+  },
+  {
+    "text": "No, it's just like on atonement.",
+    "start": "00:43:40",
+    "end": "00:43:41"
+  },
+  {
+    "text": "Oh. Oh, that's just. That's real new.",
+    "start": "00:43:41",
+    "end": "00:43:43"
+  },
+  {
+    "text": "That's real new.",
+    "start": "00:43:43",
+    "end": "00:43:44"
+  },
+  {
+    "text": "That's three years ago.",
+    "start": "00:43:44",
+    "end": "00:43:45"
+  },
+  {
+    "text": "Yeah. Talk about how writing and presenting this. Was it just distilling convictions you already had, or was there some discovery process?",
+    "start": "00:43:46",
+    "end": "00:43:54"
+  },
+  {
+    "text": "I had to expand it because the other one was very much a historical Jesus book with New Testament theology, but very academic and trying to not get involved too much in the theological debates. But I wanted to put this together, and I was convinced, number one, that the battle that was going on was very unhealthy, that people had locked down, that there was a central metaphor, that everything else was secondary, that the primary. And I remember Tom Schreiner, a friend of mine, saying, the central metaphor is penal substitution. I remember thinking, no, it's not. You know, you gotta have. If you start reading the different authors. Not everybody talks about death of Jesus that way.",
+    "start": "00:43:54",
+    "end": "00:44:37"
+  },
+  {
+    "text": "By authors, you mean the New Testament authors?",
+    "start": "00:44:37",
+    "end": "00:44:38"
+  },
+  {
+    "text": "New Testament authors, yeah. Not everybody talks about it that way. So let's let them talk the way they do. So as I was teaching this one day, I told a story about playing golf with a guy who only had one golf club. And I thought this was blasphemous. I thought, this guy is so lazy, he doesn't want to carry a bag of golf clubs. So he just took this thing and he adjusted it.",
+    "start": "00:44:38",
+    "end": "00:45:01"
+  },
+  {
+    "text": "Oh, like he took the head off?",
+    "start": "00:45:01",
+    "end": "00:45:03"
+  },
+  {
+    "text": "Yeah, no, the head adjusted. He'd go, two iron, four iron, six iron.",
+    "start": "00:45:03",
+    "end": "00:45:06"
+  },
+  {
+    "text": "Oh, I see.",
+    "start": "00:45:06",
+    "end": "00:45:07"
+  },
+  {
+    "text": "And all the way at the top is a driver, you know, a one or whatever. And I thought that's wrong. I was teaching and I said, some people think that you can carry one golf club and get to all the atonement theory with one. And I said, I carry a bag of clubs and sometimes I need a wedge, sometimes I need a 5 iron, sometimes I need a 3 wood, sometimes I always need a putter, you know. So I said, the atonement is like that. We need a full bag of clubs to know which image to use for which audience at which time. Because every image of atonement, whether it's the victory of God, whether it's Jesus bearing our shouldering our sin, our burden, our guilt, whether it is reconciliation, whether it's forgiveness, redemption is a different term. That's to purchase justification. Every one of those actually has a different solution to a different problem. So we need all of those. And the New Testament authors, this is one of their greatest acts of imagination. They could not find enough ways to talk about the achievement of Jesus death. That's what I tried to bring out in the book. But I do think it can be reduced to. I call it identification for the sake of incorporation. He identified with us to bring us into life with him.",
+    "start": "00:45:08",
+    "end": "00:46:32"
+  },
+  {
+    "text": "Yeah. I mean, in a way that's trying to get underneath all the metaphors to a deep structure underneath it.",
+    "start": "00:46:32",
+    "end": "00:46:39"
+  },
+  {
+    "text": "Why do you think penal substitution became the primary metaphor in the modern church?",
+    "start": "00:46:39",
+    "end": "00:46:43"
+  },
+  {
+    "text": "Because of this. This is the way we preach the gospel. We preach the gospel, but why did that become the way we know God is mad at us? It evokes the response that we're looking for. We've learned to preach the gospel to achieve the most decisions, and we learned the most decisions could be achieved if we run it all through this theory of penal substitution. Now, most evangelists don't. Don't know that that's what they're doing. But that's the evangelistic method.",
+    "start": "00:46:43",
+    "end": "00:47:12"
+  },
+  {
+    "text": "Well, good. You just pointed to the next book on the stack here. The King Jesus Gospel was the next book of yours I read. So let's just make this a clean.",
+    "start": "00:47:12",
+    "end": "00:47:21"
+  },
+  {
+    "text": "You're skipping a lot of books.",
+    "start": "00:47:21",
+    "end": "00:47:22"
+  },
+  {
+    "text": "I know, I know, Scott. I haven't read all your books. I'm just giving the ones that I have.",
+    "start": "00:47:22",
+    "end": "00:47:28"
+  },
+  {
+    "text": "This was my favorite book.",
+    "start": "00:47:28",
+    "end": "00:47:29"
+  },
+  {
+    "text": "So the King Jesus Gospel. Tell us about this.",
+    "start": "00:47:29",
+    "end": "00:47:32"
+  },
+  {
+    "text": "I wanted to call it in the Beginning was the Gospel, but my editor had no part of it. And I still think it's a better title because I think in the Beginning was the Gospel. We don't have any New Testament until First there's the Gospel.",
+    "start": "00:47:32",
+    "end": "00:47:45"
+  },
+  {
+    "text": "Yeah. What problem are you in when I.",
+    "start": "00:47:46",
+    "end": "00:47:48"
+  },
+  {
+    "text": "Was in high school, I got involved in evangelism, and I became convinced that what we were doing in evangelism was not right. I was just unsettled. And I was unsettled even more when, as a college student, I encountered Dietrich Bonhoeffer's Cost of Discipleship. I thought, this guy gets it. Jesus calls us to be disciples. He's not calling us to make decisions. But what I wanted to do then was preach a gospel that called people to be disciples. But I didn't know how to do it then. I was unsettled with how we frame the gospel. And I was asked to give lectures in South Africa at the University of Stellenbosch on the Gospel of the Apostles in the Book of Acts.",
+    "start": "00:47:48",
+    "end": "00:48:31"
+  },
+  {
+    "text": "Just like the speeches that they give. Yes.",
+    "start": "00:48:32",
+    "end": "00:48:34"
+  },
+  {
+    "text": "Peter and Paul.",
+    "start": "00:48:34",
+    "end": "00:48:36"
+  },
+  {
+    "text": "Yeah. And I said, they never quite say it the way I hear it in church.",
+    "start": "00:48:36",
+    "end": "00:48:39"
+  },
+  {
+    "text": "That's right. And I said, there's the gospel. And when I read that, I looked at 1 Corinthians 15, which is an outline of the same thing that Peter and Paul are preaching. And then I thought, well, the Gospels themselves are the gospel.",
+    "start": "00:48:39",
+    "end": "00:48:55"
+  },
+  {
+    "text": "Yes.",
+    "start": "00:48:55",
+    "end": "00:48:55"
+  },
+  {
+    "text": "So I am.",
+    "start": "00:48:56",
+    "end": "00:48:57"
+  },
+  {
+    "text": "How did we get into a scenario where the gospel summary bears little resemblance to the books called gospels?",
+    "start": "00:48:57",
+    "end": "00:49:04"
+  },
+  {
+    "text": "Yeah, it's amazing. And I've had people tell me that the Gospels are not the gospel. We don't know the gospel till after Pentecost. I'm going, oh, boy, you put Jesus in a tough spot.",
+    "start": "00:49:04",
+    "end": "00:49:16"
+  },
+  {
+    "text": "Jesus was in the dark.",
+    "start": "00:49:17",
+    "end": "00:49:18"
+  },
+  {
+    "text": "My sarcastic line for this is, poor Jesus, born on the wrong side of the cross, didn't get to preach the gospel. And unfortunately, there's some truth in that. So it might be sarcastic, but it's because I'm telling you something I think is pretty important here. So in the second edition of this. This is the first edition. In the second edition, which is a paperback, I added a chapter because I knew something, but I wasn't completely convinced, so I needed to do more work. And so I gave a lecture in Canada. And at that lecture I traced the history of gospel preaching. So I spent an entire year reading evangelistic sermons.",
+    "start": "00:49:18",
+    "end": "00:49:59"
+  },
+  {
+    "text": "Fascinating.",
+    "start": "00:49:59",
+    "end": "00:50:00"
+  },
+  {
+    "text": "You know, you're not going to find any until America and the Great Awakening. You know, well, Jonathan Edwards, John Wesley, George Whitfield, Finney and DL Moody and Billy Sunday and then to Billy Graham. Prior to that, people were catechized into the church. They had national churches, so they grew up in the gospel. So I studied the history of evangelistic preaching, and Tim, I was amazed. Finney would preach sermons, sometimes had 37 points. There's no four pointers. And of course, Jonathan come a long way. We've reduced it. Jonathan Edwards is never going to preach a four point sermon. Not like that. And Whitefield. And so I started studying this and I realized that what they preached for, I think you could say, was regeneration and a total transformation of a person's life as they surrender to God and Christ. So then I got into Moody and Moody preached the same thing. Both Moody and Billy Sunday basically were almost social transformationists. They were trying to get, especially males to get their life back together. Quit drinking alcohol all the time, quit getting drunk, quit visiting women who you shouldn't be visiting, and give your life to God. And that will make America a better nation. So both Moody and Sunday were very much a national message. Then I saw a huge difference with Billy Graham, and I love Billy Graham, but Billy Graham and Campus Crusade and Henrietta Meares, she gave away Billy Graham. Crusade gave away 6 million copies of her book. And at the end of that book she has this outline of those four spiritual laws. So I spent a year, I got a librarian, a professional librarian, what the Bible's all about. What the Bible's all about. I got a librarian to work with me. And we got back to the original documents of Henrietta Meares. She did not have this, this four point. She got it from Billy Graham and from Bill Bright.",
+    "start": "00:50:00",
+    "end": "00:52:12"
+  },
+  {
+    "text": "Bill Bright in Campus Crusade. Yeah, yeah.",
+    "start": "00:52:12",
+    "end": "00:52:15"
+  },
+  {
+    "text": "And that's where we got our four point sermon. Prior to that, no one knew that.",
+    "start": "00:52:15",
+    "end": "00:52:18"
+  },
+  {
+    "text": "The four spiritual laws.",
+    "start": "00:52:18",
+    "end": "00:52:19"
+  },
+  {
+    "text": "The four spiritual laws, no one knew that gospel.",
+    "start": "00:52:19",
+    "end": "00:52:21"
+  },
+  {
+    "text": "And is that like you're a sinner?",
+    "start": "00:52:21",
+    "end": "00:52:23"
+  },
+  {
+    "text": "Yeah. God loves you, you're a sinner. Jesus died for you. Accept him into your heart. That four point evangelistic sermon, it comes.",
+    "start": "00:52:24",
+    "end": "00:52:33"
+  },
+  {
+    "text": "Out of mid 20th century, you're saying.",
+    "start": "00:52:33",
+    "end": "00:52:34"
+  },
+  {
+    "text": "Probably the 40s and 40s and 50s. That's where it begins to grow. And this was remarkable to me because if you talk, even mainliners think that's the gospel because they've all heard it from Billy Graham. And he's changed the lives of many, many people. And I'm grateful for that. He's not saying something wrong, but you're.",
+    "start": "00:52:35",
+    "end": "00:52:55"
+  },
+  {
+    "text": "Observing what the word gospel refers to. In generations, mind has shifted dramatically, shifted over time.",
+    "start": "00:52:55",
+    "end": "00:53:03"
+  },
+  {
+    "text": "The original gospel was to tell the story of Jesus. And if you listen to that story, the spirit of God works and calls people to repentance and to baptism.",
+    "start": "00:53:03",
+    "end": "00:53:13"
+  },
+  {
+    "text": "So what's your one liner for? What is the gospel?",
+    "start": "00:53:14",
+    "end": "00:53:18"
+  },
+  {
+    "text": "See, that's the problem right there. There is no one. The one liner Is Jesus, is Lord.",
+    "start": "00:53:18",
+    "end": "00:53:23"
+  },
+  {
+    "text": "Yeah, okay.",
+    "start": "00:53:24",
+    "end": "00:53:24"
+  },
+  {
+    "text": "Yeah, yeah.",
+    "start": "00:53:24",
+    "end": "00:53:25"
+  },
+  {
+    "text": "King Jesus.",
+    "start": "00:53:25",
+    "end": "00:53:25"
+  },
+  {
+    "text": "Well, this is an observation you make is different. Even in the New Testament, the different summaries differ in details. They differ in details based on audience.",
+    "start": "00:53:25",
+    "end": "00:53:35"
+  },
+  {
+    "text": "But it's all about Jesus. It's telling people about Jesus.",
+    "start": "00:53:36",
+    "end": "00:53:38"
+  },
+  {
+    "text": "It's telling. That's right.",
+    "start": "00:53:38",
+    "end": "00:53:39"
+  },
+  {
+    "text": "And Tim, you know, you've probably heard me say this. I taught 17 years Jesus of Nazareth to college students. I saw hundreds, at least a hundred of college students give their life to Jesus because they love Jesus of the Gospels. And so our friend Dan Kimball writes a book. They love Jesus, but not the church. That is so true. I found that with students all the time, they wanted to hear about Jesus. Yeah, yeah, so tell them.",
+    "start": "00:53:39",
+    "end": "00:54:06"
+  },
+  {
+    "text": "Yeah, so tell them.",
+    "start": "00:54:06",
+    "end": "00:54:07"
+  },
+  {
+    "text": "Tell them about Jesus.",
+    "start": "00:54:07",
+    "end": "00:54:08"
+  },
+  {
+    "text": "How many books do you have, Tim?",
+    "start": "00:54:35",
+    "end": "00:54:37"
+  },
+  {
+    "text": "Well, there's this one and then another Kindle one, but two more. Yeah, let's do it. The next book of yours I came across was I was assigned a number of sermons in a preaching series through First Corinthians. So then I'm just deep dive into Paul. That was a great season of learning for me. And it was around the same time period that you published A Fellowship of Difference. And it's exploring in a practical, funny way, essentially Paul's vision of the beloved community, of the unified body of Christ. So in terms of my years of reading Paul, my perception of Paul was like the heavy duty theologian and, and you know, don't sleep around and be holy and love each other. That was my, you know, baseline perception. And over the years it's become so clear to me how for Paul, the unity and commitment of love and mutual support of diverse communities wasn't just an add on for Paul. It was central to the expression of the Gospel in his mind and heart. And so that's what you're after in a fellowship of different. Tell me more about this book.",
+    "start": "00:54:39",
+    "end": "00:55:49"
+  },
+  {
+    "text": "I wrote this book for my seminary students. I started writing this as soon as I hit Northern Seminary. I wanted to write a book on the Christian life for my Paul class. So I started working on this. But so I loved it when you said it's his vision of the beloved community, because for me it was a vision of the Christian life, which is a vision of church life. So the original title was Life in a Salad Bowl.",
+    "start": "00:55:49",
+    "end": "00:56:16"
+  },
+  {
+    "text": "Oh, right, that's your main metaphor. Yeah, yeah, that's right.",
+    "start": "00:56:16",
+    "end": "00:56:18"
+  },
+  {
+    "text": "Hates salad. So he said, I can't work with this. I said, oh, come on, it's good time.",
+    "start": "00:56:19",
+    "end": "00:56:25"
+  },
+  {
+    "text": "Clever. It's clever.",
+    "start": "00:56:25",
+    "end": "00:56:26"
+  },
+  {
+    "text": "So I wanted to show how everything Paul teaches about the Christian life is actually teaching how people are to live with one another. It's not about how you can relate to God personally all the time. It's not about in that sense of how you can go practice solitude. I think Paul believed in all those things. His fundamental category that he operated with is what kind of virtues do we need to have to be able to live together when we are as different as we are? So that's where Paul started. And then the private, the personal things come into play. So it's not an either or, but the starting point for Paul is how to get people who are difference ents.",
+    "start": "00:56:26",
+    "end": "00:57:09"
+  },
+  {
+    "text": "Yes.",
+    "start": "00:57:09",
+    "end": "00:57:10"
+  },
+  {
+    "text": "Living together and liking it. That was the challenge. And this was, I think, a challenge unlike anything that we ever saw in the Jewish world and certainly that we saw in Athens or Rome, because they did not mix like this.",
+    "start": "00:57:10",
+    "end": "00:57:25"
+  },
+  {
+    "text": "Yeah. In the opening chapters, I remember looking back through my notes, you talk through. I forget what scholar, whose work you were quoting you were profiling.",
+    "start": "00:57:27",
+    "end": "00:57:37"
+  },
+  {
+    "text": "Peter Oaks, probably.",
+    "start": "00:57:38",
+    "end": "00:57:39"
+  },
+  {
+    "text": "Peter Oaks, yeah. And just, you know, an average house church in Rome who shows up. You got 15, 20 people who's sitting there. And it was so imaginative in terms of a slave. Some Macedonians. There's some Jews. There's some people, some like Greeks who had been going to synagogues. Some homeless people, workers in the house. That's right.",
+    "start": "00:57:39",
+    "end": "00:58:00"
+  },
+  {
+    "text": "Slaves.",
+    "start": "00:58:01",
+    "end": "00:58:01"
+  },
+  {
+    "text": "Yeah, yeah.",
+    "start": "00:58:02",
+    "end": "00:58:02"
+  },
+  {
+    "text": "That's a house church.",
+    "start": "00:58:02",
+    "end": "00:58:03"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:58:03",
+    "end": "00:58:04"
+  },
+  {
+    "text": "And he studied this by. He got access to a major villa in Pompeii and he went through all the archaeological records of what was there, what they could find, even DNA stuff. And they came to a conclusion of who would have been involved in that. Then he knew it would be slightly bigger in Rome, so he expanded it to a few more people. But we have a totally sanitized view of what church is like because we come to church and we come supposedly ready to worship and sing and listen. This is at someone's home. They are in an atrium. It's the only place probably they could meet. And they could, if it wasn't a very. A large group, they could meet in a room and in the atrium that would have been open ceiling water, if it's raining coming down, in a pool in the middle and they're gathered around this pool in the middle and they're talking and someone's. And it's people who live there and maybe some homeless people who are staying there or maybe some converts who live in another house who could get free for that time of worshiping together. It's unlike anything I know. I'VE been in one church like this in Champaign, Urbana, Illinois, and I thought to myself, this is a first century church. The pastor didn't even have a membership. He said, anybody who puts their name in our address book is a part of our church. I said, jews and Christians. Oh, yeah, Jews and Christians, they come here. They're part of us. And it was a total free for all homeless people. They fed 400 people a week. Those people came to church. It was, in some ways it was scary because I thought, I don't know what's going to happen.",
+    "start": "00:58:04",
+    "end": "00:59:46"
+  },
+  {
+    "text": "Yeah, sure.",
+    "start": "00:59:46",
+    "end": "00:59:47"
+  },
+  {
+    "text": "You can't control that.",
+    "start": "00:59:47",
+    "end": "00:59:48"
+  },
+  {
+    "text": "Yeah. So, yeah, thank you. I mean, you were among a number of scholars that helped me begin to imagine that. And it is scary. It is scary. Like what?",
+    "start": "00:59:48",
+    "end": "00:59:59"
+  },
+  {
+    "text": "It's not safe?",
+    "start": "00:59:59",
+    "end": "01:00:00"
+  },
+  {
+    "text": "That's right. And how Roman neighbors would perceive this. Like, you know, there's guilds for the blacksmiths to get together and people get together at the Zeus temple. This is unlike anything that's appeared in my neighborhood. And so I may be curious if I'm a Roman onlooker, what I'm doing. Scandalized because slaves and upper class people are eating together. It's a very.",
+    "start": "01:00:00",
+    "end": "01:00:22"
+  },
+  {
+    "text": "Jews.",
+    "start": "01:00:23",
+    "end": "01:00:23"
+  },
+  {
+    "text": "It doesn't fit on my mat.",
+    "start": "01:00:24",
+    "end": "01:00:25"
+  },
+  {
+    "text": "No. And think about this. Unless this is, I mean, almost any day of the week, anybody's villa, if it's a normal home, say in Pompeii or Rome, is also the business. So people would come in during business. This is why Paul says to the Corinthians, if someone comes in and you're speaking in tongues, they're going to think you're nuts. Well, that's because visitors walked in, because this is a business. It's not just. It's not a church building. It's a house. A house is a business.",
+    "start": "01:00:26",
+    "end": "01:00:55"
+  },
+  {
+    "text": "Yes, yes. Your atrium is your storefront.",
+    "start": "01:00:55",
+    "end": "01:00:58"
+  },
+  {
+    "text": "It's your marketplace.",
+    "start": "01:00:58",
+    "end": "01:00:59"
+  },
+  {
+    "text": "That's interesting. I hadn't heard that before. That's fascinating. We could talk at length about all of these things. More just the last thing to name. Actually. I have a number of other books on Kindle. We could talk about the Blue Parakeet and the other one about the phrase the Kingdom of God.",
+    "start": "01:00:59",
+    "end": "01:01:15"
+  },
+  {
+    "text": "Kingdom Conspiracy.",
+    "start": "01:01:15",
+    "end": "01:01:16"
+  },
+  {
+    "text": "Kingdom Conspiracy. However, what I'd like to talk about last. I'll let you pick Kingdom Conspiracy or your commentary on the Sermon on the Mount, which seemed like a culminating work of a lot of years of reflection on the Sermon on the Mount. You pick Kingdom Conspiracy or your commentary.",
+    "start": "01:01:16",
+    "end": "01:01:32"
+  },
+  {
+    "text": "Conspiracy is controversial. I talked about it here one time. So I'll do Sermon on the Mount.",
+    "start": "01:01:32",
+    "end": "01:01:38"
+  },
+  {
+    "text": "Sermon on the Mount. And here's what I remember, because you have a blog that you've been very active on for many years, and you did a series many years ago, I think after I just read one or two of your books, long series of posts on the Sermon on the Mount, I actually printed them out to collect them because you would do different. And then at the end, I was like, that's kind of like a small commentary on the Sermon on the Mount. And it was very helpful for me over the years, and it was an active resource. And then when you published a commentary, I realized, like, oh, this is. He just put together, like, a culminating work, at least a reflection on that passage. So tell me about the Sermon on the Mount in your life.",
+    "start": "01:01:38",
+    "end": "01:02:15"
+  },
+  {
+    "text": "I grew up in a church that did not preach from the Gospels. My pastor only preached from the Pauline letters, except at Easter and Christmas, he'd bring in a gospel passage.",
+    "start": "01:02:16",
+    "end": "01:02:25"
+  },
+  {
+    "text": "That sounds like my church tradition.",
+    "start": "01:02:25",
+    "end": "01:02:27"
+  },
+  {
+    "text": "Yeah. So when I got to college, I was told by someone, I have no idea. I am eternally grateful for this. To read Dietrich Bonhoeffer as a college.",
+    "start": "01:02:28",
+    "end": "01:02:39"
+  },
+  {
+    "text": "Junior, that's kind of a college author to discover.",
+    "start": "01:02:40",
+    "end": "01:02:44"
+  },
+  {
+    "text": "Oh, I read.",
+    "start": "01:02:44",
+    "end": "01:02:46"
+  },
+  {
+    "text": "It's dense reading.",
+    "start": "01:02:47",
+    "end": "01:02:48"
+  },
+  {
+    "text": "Oh, man, that was. He blew me away. When I looked back at it later, I thought, I have no idea what I understood when I read that. It was. I read. I just drank. And he had that long section on the Sermon on the Mount. So when I got to seminary and I started, I didn't have classes in the summer. One of the first summers I spent doing nothing but working through the Greek text of the Sermon on the Mount and studying. I really studied hard. The Meaning of Makarios Blessed. Went through the whole Septuagint. Didn't know Hebrew, so I couldn't do Hebrew at the time. I studied that, and I began, like a file of information in my head. And I loved the Sermon on the Mount. When I began to teach, I taught a course on Jesus and discipleship that had a big section on the Sermon on the Mount. And I taught a couple courses over the years on the Sermon on the Mount. So I was thrilled when the Story of God Bible commentary came out, and they asked me which book of the New Testament that I wanted to write a commentary on. I said, the Sermon on the Mount. And the editor at Zonderman says, that's not a book, Scott. That is a part of a book. I said, I'm an Anabaptist and that's a book. She said, okay, you can do it. So they Made a supplemental Volume Y. So I just couldn't wait to work through the whole thing and kind of put stuff together. The only other experience about this is at some point when I was teaching in seminary, Dallas Willard came out with a Divine conspiracy. And I began to read the book, and I had to put it down because it was the book I wanted to write.",
+    "start": "01:02:48",
+    "end": "01:04:21"
+  },
+  {
+    "text": "Yeah, sure.",
+    "start": "01:04:21",
+    "end": "01:04:22"
+  },
+  {
+    "text": "And I couldn't read it. And I told Dallas this one day. He said, you're not the first person who told me this.",
+    "start": "01:04:22",
+    "end": "01:04:27"
+  },
+  {
+    "text": "Interesting.",
+    "start": "01:04:27",
+    "end": "01:04:27"
+  },
+  {
+    "text": "But later, when I did my Sermon on the Mount, of course I read through it again.",
+    "start": "01:04:27",
+    "end": "01:04:31"
+  },
+  {
+    "text": "Yes, yes.",
+    "start": "01:04:31",
+    "end": "01:04:32"
+  },
+  {
+    "text": "And I resonate with a lot of Dallas. I differ with him on some things, on what Kingdom means and stuff like that, but I think he puts the religious theme of the Kingdom of God together. Well, so it's sort of like. You're exactly right. It's a culmination of my years of teaching Jesus and the Gospels to put it all together.",
+    "start": "01:04:32",
+    "end": "01:04:51"
+  },
+  {
+    "text": "Yeah. As you mentioned that I forget, you've referenced Dallas Willard in multiple contexts. It may have been a blog or a book, but I learned about the Divine Conspiracy from a reference you made to him somewhere. And I agree that exposition of the Sermon on the Mount is what keeps that book on my shelf. I keep going back to it and. Yeah, there you go. This was a unique privilege for me. Thank you.",
+    "start": "01:04:51",
+    "end": "01:05:16"
+  },
+  {
+    "text": "I'm privileged.",
+    "start": "01:05:16",
+    "end": "01:05:17"
+  },
+  {
+    "text": "You've written way more books than even the ones I've named. That's.",
+    "start": "01:05:17",
+    "end": "01:05:20"
+  },
+  {
+    "text": "Well, I've been. Thank you for these since 1980.",
+    "start": "01:05:21",
+    "end": "01:05:23"
+  },
+  {
+    "text": "Yeah, that's right. And you start at seven every. Every day, so. Yeah. Thank you so much.",
+    "start": "01:05:23",
+    "end": "01:05:28"
+  },
+  {
+    "text": "I also wanted to mention Scott's podcast, which I just discovered.",
+    "start": "01:05:28",
+    "end": "01:05:31"
+  },
+  {
+    "text": "Yeah, that's great. Yep.",
+    "start": "01:05:31",
+    "end": "01:05:33"
+  },
+  {
+    "text": "You've been doing it for years. Kingdom Roots, 123 episodes.",
+    "start": "01:05:33",
+    "end": "01:05:37"
+  },
+  {
+    "text": "I do podcast.",
+    "start": "01:05:37",
+    "end": "01:05:38"
+  },
+  {
+    "text": "That's what it says here.",
+    "start": "01:05:38",
+    "end": "01:05:39"
+  },
+  {
+    "text": "Yeah.",
+    "start": "01:05:39",
+    "end": "01:05:40"
+  },
+  {
+    "text": "Which one should. Should I listen to? If I could just listen to one episode.",
+    "start": "01:05:40",
+    "end": "01:05:44"
+  },
+  {
+    "text": "Oh, I don't know.",
+    "start": "01:05:44",
+    "end": "01:05:45"
+  },
+  {
+    "text": "You've got one. Everything you need to know about the new perspective in 30 minutes. Really? Everything I need to know about the new perspective?",
+    "start": "01:05:46",
+    "end": "01:05:53"
+  },
+  {
+    "text": "I was there when it happened. I was. I was studying with Jimmy Dunn when he gave that lecture.",
+    "start": "01:05:53",
+    "end": "01:06:01"
+  },
+  {
+    "text": "Yeah.",
+    "start": "01:06:01",
+    "end": "01:06:01"
+  },
+  {
+    "text": "Famous lecture.",
+    "start": "01:06:01",
+    "end": "01:06:02"
+  },
+  {
+    "text": "Yeah.",
+    "start": "01:06:02",
+    "end": "01:06:03"
+  },
+  {
+    "text": "The new perspective on Paul and E.P. sanders came and lectured to our PhD seminar.",
+    "start": "01:06:03",
+    "end": "01:06:08"
+  },
+  {
+    "text": "Unique time and place to be for Bible nerds.",
+    "start": "01:06:09",
+    "end": "01:06:12"
+  },
+  {
+    "text": "You go to the ones that have the most page views.",
+    "start": "01:06:12",
+    "end": "01:06:14"
+  },
+  {
+    "text": "The ones that have the most views. Well, let's see if we go back. Let's see. Atonement questions, part one and two are pretty popular.",
+    "start": "01:06:14",
+    "end": "01:06:22"
+  },
+  {
+    "text": "Well, the one at the bottom is big. Yeah.",
+    "start": "01:06:23",
+    "end": "01:06:25"
+  },
+  {
+    "text": "Your first one, what is the kingdom was 2016.",
+    "start": "01:06:25",
+    "end": "01:06:28"
+  },
+  {
+    "text": "Yeah.",
+    "start": "01:06:29",
+    "end": "01:06:29"
+  },
+  {
+    "text": "So, yeah, I'm going to check that out. I'm excited to listen to that.",
+    "start": "01:06:29",
+    "end": "01:06:32"
+  },
+  {
+    "text": "Yeah. Yeah. Well, again, this unique privilege to get to talk with somebody.",
+    "start": "01:06:32",
+    "end": "01:06:37"
+  },
+  {
+    "text": "Thanks for coming back.",
+    "start": "01:06:37",
+    "end": "01:06:37"
+  },
+  {
+    "text": "Who has influenced me so much. You've had a big influence on the Bible Project through these works over the years.",
+    "start": "01:06:37",
+    "end": "01:06:44"
+  },
+  {
+    "text": "Thanks.",
+    "start": "01:06:44",
+    "end": "01:06:44"
+  },
+  {
+    "text": "Yeah, yeah, thank you.",
+    "start": "01:06:44",
+    "end": "01:06:45"
+  },
+  {
+    "text": "I love the Bible Project. I think it's awesome what you're doing.",
+    "start": "01:06:45",
+    "end": "01:06:48"
+  },
+  {
+    "text": "Yeah. Thank you.",
+    "start": "01:06:48",
+    "end": "01:06:49"
+  },
+  {
+    "text": "And I feel comfortable here the whole time. We're looking out a window and there's a little snow.",
+    "start": "01:06:49",
+    "end": "01:06:53"
+  },
+  {
+    "text": "It's snowing.",
+    "start": "01:06:53",
+    "end": "01:06:54"
+  },
+  {
+    "text": "I know. Is this real snow for a Midwesterner?",
+    "start": "01:06:54",
+    "end": "01:06:57"
+  },
+  {
+    "text": "It's not sticking.",
+    "start": "01:06:57",
+    "end": "01:06:58"
+  },
+  {
+    "text": "Do you need a shovel?",
+    "start": "01:06:58",
+    "end": "01:06:59"
+  },
+  {
+    "text": "No.",
+    "start": "01:06:59",
+    "end": "01:07:00"
+  },
+  {
+    "text": "It's not real till you need a snowblower.",
+    "start": "01:07:00",
+    "end": "01:07:02"
+  },
+  {
+    "text": "All right.",
+    "start": "01:07:04",
+    "end": "01:07:05"
+  },
+  {
+    "text": "The fake snow is coming down.",
+    "start": "01:07:05",
+    "end": "01:07:06"
+  },
+  {
+    "text": "Yes. Yeah. Thank you, Scott.",
+    "start": "01:07:06",
+    "end": "01:07:08"
+  },
+  {
+    "text": "Very good.",
+    "start": "01:07:08",
+    "end": "01:07:08"
+  },
+  {
+    "text": "Yeah. Thank you for taking the time. All right. That was really cool.",
+    "start": "01:07:09",
+    "end": "01:07:15"
+  },
+  {
+    "text": "Yes.",
+    "start": "01:07:15",
+    "end": "01:07:16"
+  },
+  {
+    "text": "That was a great experience.",
+    "start": "01:07:16",
+    "end": "01:07:17"
+  },
+  {
+    "text": "That was fun to watch. You just go through the stack of books one at a time.",
+    "start": "01:07:17",
+    "end": "01:07:21"
+  },
+  {
+    "text": "Yeah. It's a pretty short list of scholars that I can say that. I've been reading their work for the 20 years that I've been, like, a student of biblical studies. His work has been with me for a long time, and so that was a unique opportunity to interview him about all of that work.",
+    "start": "01:07:21",
+    "end": "01:07:38"
+  },
+  {
+    "text": "So there's plenty to chase down there. His books, his podcast. And we are, again, really thankful that he spent time with us.",
+    "start": "01:07:38",
+    "end": "01:07:45"
+  },
+  {
+    "text": "Yeah. Yeah, totally. And we're thankful to all of you for listening, for your encouragement and support the BibleProject Podcast, along with all the other videos and resources we create. We can do all of this because of you all. And thank you for. For being so enthusiastic about what we're doing. We love getting to talk with people like Scott and then getting to create everything that we do. So thank you for being behind us and encouraging us.",
+    "start": "01:07:45",
+    "end": "01:08:12"
+  },
+  {
+    "text": "We believe the Bible is a unified story that leads to Jesus. We are a crowdfunded project by people like me. Find free videos, study notes, and more at the Bible Project.",
+    "start": "01:08:12",
+    "end": "01:08:26"
+  }
+]
