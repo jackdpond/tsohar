@@ -13,7 +13,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+
+
 def ms2hms(ms):
+    """
+    Convert timing in milliseconds to hh:mm:ss time format. 
+    
+    Used to convert utterance.start and utterance.end times from aai.Transcriber().transcribe() objects to human readable time stamps.
+    """
     seconds = ms // 1000
     hours = seconds // 3600
     minutes = (seconds % 3600) // 60
@@ -21,52 +28,98 @@ def ms2hms(ms):
     return f"{hours:02}:{minutes:02}:{secs:02}"
 
 def clean_path_name(filename):
+    """
+    Converts path string to human readable string.
+
+    Used to convert between naming conventions for the filepath and actual episode and series names.
+    """
     filename = filename.replace('-', ' ').replace('_', ' ').replace('/', ' ').split('.')[0]
     return filename
 
 def make_path_name(filename):
+    """
+    Converts human readable string to pathname.
+
+    Used to convert between naming conventions for the filepath and actual episode and series names.
+    """
     filename = filename.replace(' ', '_')
     return filename
 
 class Episode:
 
-    def __init__(self, episode_title, series_title, audio_file, speaker_labels=True, speakers_expected=0, speaker_map={'A': 'A', 'B': 'B', 'C': 'C', 'D': 'D', 'E': 'E', 'F':'F', 'G': 'G'}, verbose=False):
-        self.assembly_api_key = 0
+    def __init__(self, 
+                 episode_title, 
+                 series_title, 
+                 audio_file, 
+                 speaker_labels=True, 
+                 speakers_expected=0, 
+                 speaker_map={'A': 'A', 'B': 'B', 'C': 'C', 'D': 'D', 'E': 'E', 'F':'F', 'G': 'G'}, 
+                 verbose=False, 
+                 aai_model='nano',
+                 http_timeout=240):
+
+        
+        # self.assembly_api_key = 0
+
+        # Set episode name and the name of the series to which it belongs
         self.episode_title = episode_title
         self.series_title = series_title
 
-        aai.settings.http_timeout = 240.0
+        # Set speech_model from the parameter aai_model using a map
+        speech_model_map = {'best': aai.SpeechModel.best,
+                            'nano': aai.SpeechModel.nano}
+        speech_model = speech_model_map.get(aai_model, None)
 
+        # Raise ValueError if an invalid speech model is passed in
+        if not speech_model:
+            raise ValueError('aai_model parameter for Episode() must be "nano" or "best", not {aai_model}')
+
+        # Set timeout time from parameter http_timeout
+        # This is how long the transcriber will wait for a response from a url
+        aai.settings.http_timeout = http_timeout
+
+        # Create aai.TranscriptionConfig() object using parameters, with speakers_expected if any are expected.
         if speakers_expected > 0:
-            config = aai.TranscriptionConfig(speech_model=aai.SpeechModel.nano, 
+            config = aai.TranscriptionConfig(speech_model=speech_model, 
                                             speaker_labels=speaker_labels, 
                                             speakers_expected=speakers_expected)
         else:
-            config = aai.TranscriptionConfig(speech_model=aai.SpeechModel.best, 
+            config = aai.TranscriptionConfig(speech_model=speech_model, 
                                 speaker_labels=speaker_labels)
 
-
+        # Call aai.Transcriber.transcribe() to create transcription. audio_file may be an .mp3 file or a download url
         transcriber = aai.Transcriber(config=config).transcribe(audio_file)
 
+        # Raise RuntimeError if transcription fails
         if transcriber.status == "error":
             raise RuntimeError(f"Transcription failed: {transcriber.error}")
         
-        transcript = list()
+        # Store a list of dictionaries containing speaker, text, start time, and end time for each utterance as self.transcript
+        self.transcript = self.create_transcript(transcriber, speaker_map, verbose)
+        
 
-        # Handle case of transcriber.utterances being None
+    def create_transcript(self, transcriber, speaker_map, verbose=False):
+        # Initialize empty list
+        transcript = list()
+        
+        # Handle case of transcriber.utterances being None--raise ValueError
         if not transcriber.utterances:
             raise ValueError("utterances attribute of transcriber object is None")
+        
+        # Store info from each utterance in a list of dictionaries
         for utterance in transcriber.utterances:
             transcript.append({"speaker": speaker_map[utterance.speaker],
                           "text": utterance.text,
-                          "start": ms2hms(utterance.start),
+                          "start": ms2hms(utterance.start), # Convert to 'hh:mm:ss' format timestamp, as a string
                           "end": ms2hms(utterance.end)})
-            
-        self.transcript = transcript
-
-        if verbose:
+    
+        if verbose: # Print out utterances so user or developer can see what is being iterated
             for utterance in transcriber.utterances:
                 print(f"{utterance.speaker}: {utterance.text}")
+        
+        # return list of dictionaries
+        return transcript
+
 
     def add_speaker_labels(self, speaker_map={'A': 'A', 'B': 'B', 'C': 'C'}):
         for utterance in self.transcript:
