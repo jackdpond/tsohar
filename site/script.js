@@ -115,6 +115,93 @@ function setupTabs() {
   });
 }
 
+// Text selection popup functionality
+function setupTextSelectionPopup() {
+  const popup = document.getElementById('selection-popup');
+  const searchBtn = document.getElementById('search-selection-btn');
+  const copyBtn = document.getElementById('copy-selection-btn');
+  let selectedText = '';
+
+  // Handle text selection
+  document.addEventListener('mouseup', (e) => {
+    const selection = window.getSelection();
+    selectedText = selection.toString().trim();
+    
+    if (selectedText && selectedText.length > 0) {
+      // Position the popup near the mouse cursor
+      const rect = selection.getRangeAt(0).getBoundingClientRect();
+      let left = e.clientX - popup.offsetWidth / 2;
+      let top = rect.bottom + window.scrollY + 10;
+      
+      // Ensure popup stays within viewport
+      if (left < 10) left = 10;
+      if (left + popup.offsetWidth > window.innerWidth - 10) {
+        left = window.innerWidth - popup.offsetWidth - 10;
+      }
+      if (top + popup.offsetHeight > window.innerHeight + window.scrollY - 10) {
+        top = rect.top + window.scrollY - popup.offsetHeight - 10;
+      }
+      
+      popup.style.left = `${left}px`;
+      popup.style.top = `${top}px`;
+      popup.style.display = 'block';
+    } else {
+      popup.style.display = 'none';
+    }
+  });
+
+  // Hide popup when clicking outside
+  document.addEventListener('mousedown', (e) => {
+    if (!popup.contains(e.target)) {
+      popup.style.display = 'none';
+    }
+  });
+
+  // Search button functionality
+  searchBtn.addEventListener('click', () => {
+    if (selectedText) {
+      // Switch to search tab
+      const searchTab = document.querySelector('[data-tab="search"]');
+      if (searchTab) {
+        searchTab.click();
+      }
+      
+      // Set the search input value
+      const searchInput = document.getElementById('sidebar-search-input');
+      if (searchInput) {
+        searchInput.value = selectedText;
+        searchInput.focus();
+        
+        // Trigger the search
+        const searchBtn = document.getElementById('sidebar-search-btn');
+        if (searchBtn) {
+          searchBtn.click();
+        }
+      }
+      
+      popup.style.display = 'none';
+    }
+  });
+
+  // Copy button functionality
+  copyBtn.addEventListener('click', () => {
+    if (selectedText) {
+      navigator.clipboard.writeText(selectedText).then(() => {
+        // Show a brief visual feedback
+        const originalText = copyBtn.textContent;
+        copyBtn.textContent = '✅ Copied!';
+        setTimeout(() => {
+          copyBtn.textContent = originalText;
+        }, 1000);
+      }).catch(err => {
+        console.error('Failed to copy text: ', err);
+      });
+      
+      popup.style.display = 'none';
+    }
+  });
+}
+
 // Search functionality for sidebar
 function setupSidebarSearch(seriesData) {
   const sidebarSearchInput = document.getElementById('sidebar-search-input');
@@ -215,6 +302,7 @@ fetch('seriesData.json')
     renderSidebar(seriesData);
     setupTabs();
     setupSidebarSearch(seriesData);
+    setupTextSelectionPopup(); // Initialize text selection popup
   })
   .catch(error => {
     console.error('Error loading series data:', error);
