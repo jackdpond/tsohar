@@ -42,10 +42,27 @@ function loadEpisodeContent(series, episode, targetTime = null) {
         <div class="episode-title">${cleanEpisodeTitle}</div>
         <div class="series-name">${series.replace(/_/g, ' ')}, Episode ${episodeNumber}</div>
       `;
+      
+      let contentHtml = `<div class="transcript-container">`;
+      
+      paragraphs.forEach((paraObj, index) => {
         const timeId = paraObj.start ? paraObj.start.replace(/:/g, '-') : `para-${index}`;
-        const timeDisplay = paraObj.start ? `<span class="time-marker">[${paraObj.start}]</span> ` : '';
-        return `<p id="time-${timeId}" data-start="${paraObj.start || ''}" data-end="${paraObj.end || ''}">${timeDisplay}${paraObj.text ? paraObj.text : ''}</p>`;
-      }).join('');
+        const timeDisplay = paraObj.start ? paraObj.start : '';
+        const textContent = paraObj.text ? paraObj.text : '';
+        
+        contentHtml += `
+          <div class="transcript-row" id="time-${timeId}" data-start="${paraObj.start || ''}" data-end="${paraObj.end || ''}">
+            <div class="timestamp-column">
+              ${timeDisplay ? `<span class="timestamp">${timeDisplay}</span>` : ''}
+            </div>
+            <div class="text-column">
+              <p>${textContent}</p>
+            </div>
+          </div>
+        `;
+      });
+      
+      contentHtml += `</div>`;
       document.getElementById('search-results').innerHTML = contentHtml;
       console.log('Episode content loaded successfully');
       
