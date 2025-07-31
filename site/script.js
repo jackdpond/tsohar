@@ -27,8 +27,21 @@ function loadEpisodeContent(series, episode, targetTime = null) {
       return response.json();
     })
     .then(paragraphs => {
-      let contentHtml = `<div class="episode-header"><strong>${series}:</strong> ${episode}</div>`;
-      contentHtml += paragraphs.map((paraObj, index) => {
+      // Update the main header to show episode information
+      const mainTitle = document.querySelector('.main-title');
+      
+      // Extract episode number and clean title
+      const episodeMatch = episode.match(/^Episode \d+:\s*(.+)$/);
+      const cleanEpisodeTitle = episodeMatch ? episodeMatch[1] : episode;
+      
+      // Extract episode number for the series line
+      const episodeNumberMatch = episode.match(/^Episode (\d+):/);
+      const episodeNumber = episodeNumberMatch ? episodeNumberMatch[1] : '';
+      
+      mainTitle.innerHTML = `
+        <div class="episode-title">${cleanEpisodeTitle}</div>
+        <div class="series-name">${series.replace(/_/g, ' ')}, Episode ${episodeNumber}</div>
+      `;
         const timeId = paraObj.start ? paraObj.start.replace(/:/g, '-') : `para-${index}`;
         const timeDisplay = paraObj.start ? `<span class="time-marker">[${paraObj.start}]</span> ` : '';
         return `<p id="time-${timeId}" data-start="${paraObj.start || ''}" data-end="${paraObj.end || ''}">${timeDisplay}${paraObj.text ? paraObj.text : ''}</p>`;
@@ -48,6 +61,12 @@ function loadEpisodeContent(series, episode, targetTime = null) {
         <p style='color:red;'>Could not load episode content: ${err.message}</p>
       `;
     });
+}
+
+// Function to reset the header to default state
+function resetHeader() {
+  const mainTitle = document.querySelector('.main-title');
+  mainTitle.innerHTML = 'BibleProject <span class="highlight">Pod-Search</span>';
 }
 
 // Function to scroll to a specific paragraph based on time
@@ -356,6 +375,7 @@ fetch('seriesData.json')
     setupSidebarSearch(seriesData);
     setupTextSelectionPopup(); // Initialize text selection popup
     setupSidebarResizer(); // Initialize sidebar resizer
+    resetHeader(); // Reset header on page load
     
     // Initialize main content positioning to match sidebar width
     const sidebar = document.querySelector('.sidebar');
