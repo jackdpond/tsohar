@@ -120,11 +120,12 @@ class Episode:
         # return list of dictionaries
         return transcript
 
-
+    # This is a work in progress, and fairly useless right now
     def add_speaker_labels(self, speaker_map={'A': 'A', 'B': 'B', 'C': 'C'}):
         for utterance in self.transcript:
             utterance['speaker'] = speaker_map[utterance['speaker']]
-        
+
+    # Save transcript as a .json file
     def save_as_json(self, destination):    
         directory, _ = os.path.split(destination)
         if not os.path.exists(directory):
@@ -135,7 +136,7 @@ class Episode:
 
         print("Saved as .json!")
 
-
+    # Save transcript as a .pdf file
     def save_as_pdf(self, destination):
         # Set up the PDF file
         directory, _ = os.path.split(destination)
@@ -211,43 +212,89 @@ class Episode:
 
         print(f"PDF created: {filename}")
 
-
+# This is the main class for the vector database
 class Index:
+    # Set AssemblyAI API key
     aai.settings.api_key = os.getenv("ASSEMBLY_API_KEY")
 
     def __init__(self, dimension=1536, embedding_model='text-embedding-3-small'):
+        """
+        Initialize an Index instance
+        
+        Args:
+            dimension (int): The dimension of the paragraph embedding used. Should match the size
+        of the embeddings produced by the selected embedding model.
+
+            embedding_model (str): Name of the embedding model. Currently, only openai models are supported
+        """
+        # Set dimension attribute
         self.dimension = dimension
+        # Initialize faiss.IndexFlatL2() object and set it as index attribute
         self.index = faiss.IndexFlatL2(dimension)
+        # Initialize empty list of utterances
         self.utterances = []
 
+        # Create OpenAI() client and set embedding_model attribute
         self.client = OpenAI()
         self.embedding_model = embedding_model
 
     def add_batch_embeddings(self, texts, batch_size=100):
+        """
+        Create embeddings for a list of texts (utterances, in this case) and add them to the faiss 
+        index. 
+
+        Args:
+            texts (list(str)): List of strings to be embedded and stored
+            batch_size (int): How many to send to OpenAI at a time
+        """
+        # Iterate through batches of the list of texts
         for i in range(0, len(texts), batch_size):
             batch = texts[i: i+batch_size]
+
+            # Get embeddings for the current batch, convert to np.array() of float32
             response = self.client.embeddings.create(input=batch, model=self.embedding_model)
             batch_embeddings = np.array([item.embedding for item in response.data]).astype('float32')
+
+            # Use add method of faiss.IndexFlatL2 object to add batch_embeddings
             self.index.add(batch_embeddings)
 
+        # Print a statement to show status to user
         print('Created and added embeddings to index')
 
+    ####### The folowing methods are hierarchical, each performing the former iteratively. ######
+
     def add_episode(self, episode: Episode, batch_size=100):
+        """
+        Add an episode's transcript (or list of utterances) to the index.
+
+        Args:
+            episode (Episode): The Episode object whose transcript is to be added to the index. Adding
+        it to the index will allow it to be searchable.
+            batch_size (int): Size of batch of utterances sent to OpenAI in the add_batch_embeddings()
+        call in this function.
+        """
+        # Turn episode utterances into list of dictionaries containing desired data
         documents = [{'text': utterance['text'],
                             'start': utterance['start'],
                             'end': utterance['end'],
                             'series': episode.series_title,
                             'episode': episode.episode_title}
                             for utterance in episode.transcript]
+        
+        # Add this list of dictionaries to the utterances attribute
         self.utterances.extend(documents)
 
+        # Create list of texts (what the speakers actually say) and pass into add_batch_embeddings()
         texts = [doc['text'] for doc in documents]
         self.add_batch_embeddings(texts, batch_size)
 
+        # Descriptive print statement
         print("Index and utterances initialized.")
 
+        # Save checkpoint to allow for easy loading. Hardcoded checkpoint name, for now
         self.save_database('temp')
 
+        # Descriptive print statement
         print("Checkpoint saved")
 
     def add_series(self, 
