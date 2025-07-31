@@ -292,6 +292,51 @@ body {
   line-height: 1.6;
 }
 
+/* Two-column transcript layout */
+.transcript-container {
+  margin-top: 20px;
+}
+
+.transcript-row {
+  display: flex;
+  margin-bottom: 12px;
+  padding: 8px 0;
+  border-bottom: 1px solid #f0f0f0;
+  transition: background-color 0.2s ease;
+}
+
+.transcript-row:hover {
+  background-color: #f8f9fa;
+}
+
+.timestamp-column {
+  width: 80px;
+  flex-shrink: 0;
+  padding-right: 16px;
+  text-align: right;
+}
+
+.timestamp {
+  color: #6b7280;
+  font-size: 0.85em;
+  font-weight: 500;
+  font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+  background: #f3f4f6;
+  padding: 2px 6px;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+
+.text-column {
+  flex: 1;
+  min-width: 0; /* Allows text to wrap properly */
+}
+
+.text-column p {
+  margin: 0;
+  line-height: 1.6;
+}
+
 .time-marker {
   color: #6b7280;
   font-size: 0.85em;
