@@ -10,6 +10,7 @@ body {
 .container {
   display: flex;
   height: 100vh;
+  position: relative;
 }
 
 .sidebar {
@@ -18,7 +19,44 @@ body {
   border-right: 1px solid #e5e7eb;
   display: flex;
   flex-direction: column;
-  position: relative;
+  position: fixed;
+  height: 100vh;
+  overflow: hidden;
+  --sidebar-width: 320px;
+  width: var(--sidebar-width);
+}
+
+.sidebar-resizer {
+  position: absolute;
+  right: -3px;
+  top: 0;
+  width: 6px;
+  height: 100%;
+  cursor: col-resize;
+  background: transparent;
+  transition: background-color 0.2s ease;
+}
+
+.sidebar-resizer:hover,
+.sidebar-resizer:active {
+  background-color: #3b82f6;
+}
+
+.sidebar-resizer::after {
+  content: '';
+  position: absolute;
+  right: 2px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 2px;
+  height: 40px;
+  background-color: #d1d5db;
+  border-radius: 1px;
+}
+
+.sidebar-resizer:hover::after,
+.sidebar-resizer:active::after {
+  background-color: #3b82f6;
 }
 
 .sidebar-header {
@@ -179,6 +217,10 @@ body {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  margin-left: var(--sidebar-width);
+  height: 100vh;
+  overflow-y: auto;
+  width: calc(100vw - var(--sidebar-width));
 }
 
 .main-title {
