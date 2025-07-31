@@ -337,6 +337,43 @@ body {
   line-height: 1.6;
 }
 
+/* Text selection popup */
+.selection-popup {
+  position: fixed;
+  background: #1f2937;
+  border-radius: 8px;
+  padding: 8px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  display: none;
+  z-index: 1000;
+  border: 1px solid #374151;
+}
+
+.popup-btn {
+  background: none;
+  border: none;
+  color: #f9fafb;
+  padding: 8px 12px;
+  margin: 0 2px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: background-color 0.2s ease;
+}
+
+.popup-btn:hover {
+  background-color: #374151;
+}
+
+.popup-btn:first-child {
+  margin-left: 0;
+}
+
+.popup-btn:last-child {
+  margin-right: 0;
+}
+
 .time-marker {
   color: #6b7280;
   font-size: 0.85em;
