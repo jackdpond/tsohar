@@ -96,8 +96,8 @@ function scrollToParagraph(targetTime) {
     // Scroll to the element with some offset for better visibility
     targetElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
     
-    // Add a temporary highlight effect
-    targetElement.style.backgroundColor = '#fff3cd';
+    // Add a temporary highlight effect to the entire row
+    targetElement.style.backgroundColor = '#e3f2fd';
     targetElement.style.transition = 'background-color 0.5s ease';
     
     setTimeout(() => {
