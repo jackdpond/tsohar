@@ -202,6 +202,58 @@ function setupTextSelectionPopup() {
   });
 }
 
+// Sidebar resizer functionality
+function setupSidebarResizer() {
+  const resizer = document.querySelector('.sidebar-resizer');
+  const sidebar = document.querySelector('.sidebar');
+  let isResizing = false;
+  let startX = 0;
+  let startWidth = 0;
+
+  const minWidth = 200;
+  const maxWidth = 600;
+
+  function startResize(e) {
+    isResizing = true;
+    startX = e.clientX;
+    startWidth = parseInt(getComputedStyle(sidebar).getPropertyValue('--sidebar-width'));
+    
+    document.addEventListener('mousemove', resize);
+    document.addEventListener('mouseup', stopResize);
+    
+    // Prevent text selection during resize
+    e.preventDefault();
+  }
+
+  function resize(e) {
+    if (!isResizing) return;
+    
+    const deltaX = e.clientX - startX;
+    let newWidth = startWidth + deltaX;
+    
+    // Constrain width
+    newWidth = Math.max(minWidth, Math.min(maxWidth, newWidth));
+    
+    // Update CSS custom property for both sidebar and main content
+    sidebar.style.setProperty('--sidebar-width', `${newWidth}px`);
+    
+    // Also update the main content area to ensure it moves with the sidebar
+    const mainContent = document.querySelector('.main-content');
+    if (mainContent) {
+      mainContent.style.marginLeft = `${newWidth}px`;
+      mainContent.style.width = `calc(100vw - ${newWidth}px)`;
+    }
+  }
+
+  function stopResize() {
+    isResizing = false;
+    document.removeEventListener('mousemove', resize);
+    document.removeEventListener('mouseup', stopResize);
+  }
+
+  resizer.addEventListener('mousedown', startResize);
+}
+
 // Search functionality for sidebar
 function setupSidebarSearch(seriesData) {
   const sidebarSearchInput = document.getElementById('sidebar-search-input');
@@ -303,6 +355,16 @@ fetch('seriesData.json')
     setupTabs();
     setupSidebarSearch(seriesData);
     setupTextSelectionPopup(); // Initialize text selection popup
+    setupSidebarResizer(); // Initialize sidebar resizer
+    
+    // Initialize main content positioning to match sidebar width
+    const sidebar = document.querySelector('.sidebar');
+    const mainContent = document.querySelector('.main-content');
+    if (sidebar && mainContent) {
+      const sidebarWidth = getComputedStyle(sidebar).getPropertyValue('--sidebar-width');
+      mainContent.style.marginLeft = sidebarWidth;
+      mainContent.style.width = `calc(100vw - ${sidebarWidth})`;
+    }
   })
   .catch(error => {
     console.error('Error loading series data:', error);
