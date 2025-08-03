@@ -1,12 +1,23 @@
-# Introducing pod-search
+# About this repo
+This repo houses the code for both a personal project I did to provide a service I wanted, and a website that serves that project cleanly on the web. 
+
+The project itself is called pod-search (for now at least), and the code for it is found in [scripts](scripts). It is essentially two classes that wrap AssemblyAI, ChatGPT embeddings, and the FAISS vector index package to transcribe podcasts and make them semantically searchable. I wrote it without the use of AI.
+
+The code for the website that uses pod-search in its backend is located in [site](site). It includes two servers, one for the API for searching, and one for the site that displays podcast transcripts. I created this in order to be able to search for passages and ideas from the BibleProject podcast, and I created this proof of concept with its content.
+
+Below I will include what I hope is helpful documentation for the simple pod-search classes and then I will describe briefly how to serve the site on local servers.
+
+
+# Introducing pod-search 
 ### A tool to automatically transcribe, index, and semantic-search your favorite podcast.
 This project was born from a specific frustration I had with *my* favorite podcast, from The BibleProject. While they have begun to transcribe their podcasts, I still struggled to find the lines and ideas that I wanted to revisit or share. pod-search uses Assembly AI's automatic transcription API and Facebook's faiss-cpu package to transcribe, embed, and index podcast episodes in order to be able to easily search semantically for the moments you want to revisit.
 
 ## Disclaimer
-This project is very much still in development, and I am actively adding methods and documentation to make this project easier to use. Also, I have no affiliation with the BibleProject.
+This project is very much still in development, and I am actively adding methods and documentation to make this project easier to use. Also, I have no affiliation with the BibleProject. Incredible podcasts, classes, videos, articles and more can be found for free at [their website](https://bibleproject.com)
 
 ## Using pod-search
 I am planning to turn this into an easier-to-use package, but for now users will need to clone this repo in order to use it.
+
 ### Installation
 #### MacOS / Unix
 ```bash
@@ -101,13 +112,13 @@ cd scripts/
 python3 search.py 'Type your own query here!' --filename <path/to/vector/database> --k-nearest-neighbors <how many results to display>
 ```
 
-For example, running the following command in the right directory returns the search results printed below the command.
+For example, running the following command in the right directory returns the search results printed below the command.  
 **Command**
 ```bash
-python3 search.py 'Type your own query here!' --filename <path/to/vector/database> --k-nearest-neighbors <how many results to display>
+python3 search.py 'When God allies himself with humans who are imperfect, things can get messy.' --filename Exodus --k-nearest-neighbors 5
 ```
 **Results**
-```bash
+```
 Loaded Vector Database from database/exodus_way_db.index and database/exodus_way_db.index
 Query embedding obtained
 Search completed
@@ -144,7 +155,23 @@ Perhaps pod-search marks a fork in my time spent coding from here on out. Perhap
 
 I don't know how AI will change programming and I don't know how AI will change me. However, building pod-search has been both stimulating, frustrating, and relaxing for me, and I have enjoyed it immensely. 
 
-## License
-This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
+# About BibleProject Pod-Search, the website
+Hosting this site on a local server is very simple. First, clone this repo, as I demonstrated above in the [Installation section](#installation). Then, in order to serve the search API, run the following.
+```bash
+cd site
+python3 start_search_server.py
+```
+
+Then, in another terminal tab, navigate to the pod-search directory and run the following commands.
+```bash
+cd site
+python3 serve_site.py
+```
+
+Then visit the link printed to the terminal (http://localhost:8000) to see the website!
+
+Using the sidebar, you can either navigate through the BibleProject series and episodes and read the transcripts, or you can semantically search all of BibleProject's podcast content. That the search is semantic means it isn't word for word, but rather idea for idea. Searching for a concept or something you remember hearing will point you towards parts of the podcast where Tim and John talk about the same concept. An example of a search and its results can be found [above](#search).
+
+You may notice that the transcripts do not include speaker labels. That is for the very simple reason that I forgot to include them and did not realize until it would be difficult and expensive to add them back in. Sorry about that.
 
 
