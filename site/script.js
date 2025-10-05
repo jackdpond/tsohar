@@ -361,7 +361,8 @@ async function searchEpisodes(query, data) {
   }
   
   try {
-    const response = await fetch(`http://localhost:5001/search?q=${encodeURIComponent(query)}&k=10`);
+    // Use relative URL for same-origin requests (works in production)
+    const response = await fetch(`/search?q=${encodeURIComponent(query)}&k=10`);
     if (!response.ok) {
       throw new Error(`HTTP ${response.status}: ${response.statusText}`);
     }

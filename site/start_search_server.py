@@ -15,7 +15,7 @@ def main():
     print()
     
     # Check if the database files exist
-    db_path = "../scripts/database/bp_db"
+    db_path = "scripts/database/bp_db"
     if not os.path.exists(f"{db_path}.index") or not os.path.exists(f"{db_path}.json"):
         print(f"Error: Database files not found at {db_path}")
         print("Please make sure bp_db.index and bp_db.json exist in scripts/database/")
@@ -23,7 +23,7 @@ def main():
     
     try:
         # Start the Flask server
-        subprocess.run([sys.executable, "search_api.py"], check=True)
+        subprocess.run([sys.executable, "site/search_api.py"], check=True)
     except KeyboardInterrupt:
         print("\nServer stopped by user")
     except subprocess.CalledProcessError as e:
