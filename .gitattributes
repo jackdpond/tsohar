@@ -1,0 +1,2 @@
+scripts/database/*.index filter=lfs diff=lfs merge=lfs -text
+scripts/database/*.json filter=lfs diff=lfs merge=lfs -text
