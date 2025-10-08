@@ -238,6 +238,22 @@ function setupTextSelectionPopup() {
   });
 }
 
+// Sidebar toggle functionality
+function setupSidebarToggle() {
+  const sidebar = document.getElementById('sidebar');
+  const mainContent = document.getElementById('main-content');
+  const collapseBtn = document.getElementById('sidebar-collapse');
+  const expandBtn = document.getElementById('sidebar-expand');
+
+  collapseBtn.addEventListener('click', () => {
+    sidebar.classList.add('collapsed');
+  });
+
+  expandBtn.addEventListener('click', () => {
+    sidebar.classList.remove('collapsed');
+  });
+}
+
 // Sidebar resizer functionality
 function setupSidebarResizer() {
   const resizer = document.querySelector('.sidebar-resizer');
@@ -391,6 +407,7 @@ fetch('seriesData_demo.json')
     setupTabs();
     setupSidebarSearch(seriesData);
     setupTextSelectionPopup(); // Initialize text selection popup
+    setupSidebarToggle(); // Initialize sidebar toggle
     setupSidebarResizer(); // Initialize sidebar resizer
     resetHeader(); // Reset header on page load
     

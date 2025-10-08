@@ -8,8 +8,9 @@
 </head>
 <body>
   <div class="container">
-    <aside class="sidebar">
+    <aside class="sidebar" id="sidebar">
       <div class="sidebar-header">
+        <button class="sidebar-toggle" id="sidebar-collapse" title="Hide sidebar">←</button>
         <h1>BibleProject</h1>
       </div>
       <div class="sidebar-tabs">
@@ -32,7 +33,8 @@
       </div>
       <div class="sidebar-resizer"></div>
     </aside>
-    <main class="main-content">
+    <main class="main-content" id="main-content">
+      <button class="sidebar-toggle" id="sidebar-expand" title="Show sidebar">→</button>
       <h2 class="main-title">BibleProject <span class="highlight">Tsohar-Search</span> <small style="color: #666; font-size: 0.7em;">(Demo)</small></h2>
       <div id="search-results"></div>
     </main>
