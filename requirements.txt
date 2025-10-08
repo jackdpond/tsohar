@@ -1,25 +1,9 @@
-# Core dependencies for the web app
+# Core web app dependencies
 flask>=2.3.0
 flask-cors>=4.0.0
 gunicorn>=21.0.0
 
-# AI and ML dependencies
+# AI and ML dependencies (minimal)
 openai>=1.3.0
 faiss-cpu>=1.7.4
 numpy>=1.26.0
-
-# Assembly AI for transcription
-assemblyai>=0.40.0
-
-# PDF generation
-reportlab>=4.4.0
-
-# Audio processing
-pydub>=0.25.0
-
-# Utilities
-python-dotenv>=1.0.0
-tqdm>=4.67.0
-
-# HTTP client
-httpx>=0.28.0

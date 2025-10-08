@@ -384,7 +384,7 @@ async function searchEpisodes(query, data) {
 }
 
 // Load seriesData and initialize the site
-fetch('seriesData.json')
+fetch('seriesData_demo.json')
   .then(response => response.json())
   .then(seriesData => {
     console.log('Series data loaded:', Object.keys(seriesData));

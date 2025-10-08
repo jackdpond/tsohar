@@ -9,20 +9,18 @@ import sys
 from flask import Flask, request, jsonify, send_from_directory, send_file
 from flask_cors import CORS
 
-# Add the scripts directory to the path so we can import scribe
-sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'scripts'))
-
-from scribe import Index
+# Import the minimal version of Index
+from minimal_scribe import Index
 
 app = Flask(__name__, static_folder='.', static_url_path='')
 CORS(app)  # Enable CORS for all routes
 
 # Initialize the Index object once when the server starts
-print("Loading database...")
+print("Loading demo database...")
 index = Index()
-# Database path relative to the site directory
-index.load_database('../scripts/database/bp_db')
-print("Database loaded successfully!")
+# Database path relative to the site directory - using demo version
+index.load_database('../scripts/database/bp_db_demo')
+print("Demo database loaded successfully!")
 
 @app.route('/')
 def index_page():
