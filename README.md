@@ -155,11 +155,13 @@ While I am not opposed to using AI to code and develop, I decided to use AI mini
 
 For the code itself, I wrote and organized without AI, with the exception of the function `Episode.save_as_pdf()`, which uses a somewhat complicated package with which I am unfamiliar. I looked up documentation and consulted Stack Overflow when I had questions--which was often.
 
-I am both grateful and excited for the opportunities AI-coding or vibe-coding has created and will create, I still plan to develop my own coding skills, which include a rote knowledge of syntax, but also critical thinking, reasoning, and creativity. I am aware that I could have created a better, neater, more functional tool more quickly using Cursor or ChatGPT, but a neat, functional tool was not my primary object in building Tsohar. 
+I am both grateful and excited for the opportunities AI-coding or vibe-coding has created and will create. However, I still plan to develop my own coding skills which includes a rote knowledge of syntax, but also critical thinking, reasoning, and creativity. I am aware that I could have created a better, neater, more functional tool more quickly using Cursor or ChatGPT, but a neat, functional tool was not my primary object in building Tsohar. 
 
-Perhaps Tsohar marks a fork in my time spent coding from here on out. Perhaps from now on, I will code with one of two objects, or two mindesets. First, with a neat, functional final product in mind, or second, with the building of my brain and my character in mind. Maybe I will do the first in my profession, and the second as a hobby. 
+Perhaps Tsohar marks a fork in my time spent coding from here on out. Maybe from now on, I will code with one of two objects, or two mindesets. First, with an idiomatic, functional, final product (or just a fast product) in mind, or second, with the building of my brain and character in mind.
 
 I don't know how AI will change programming and I don't know how AI will change me. However, building Tsohar has been both stimulating, frustrating, and relaxing for me, and I have enjoyed it immensely. 
+
+The site was built almost entirely by Cursor. I have no experience with web development, though I would like to learn more.
 
 # About BibleProject Tsohar, the website
 Hosting this site on a local server is very simple. First, clone this repo, as I demonstrated above in the [Installation section](#installation). Then, in order to serve the site as a web app, run the following command:
