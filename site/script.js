@@ -83,7 +83,7 @@ function loadEpisodeContent(series, episode, targetTime = null) {
 // Function to reset the header to default state
 function resetHeader() {
   const mainTitle = document.querySelector('.main-title');
-  mainTitle.innerHTML = 'BibleProject <span class="highlight">Pod-Search</span>';
+  mainTitle.innerHTML = 'BibleProject <span class="highlight">Tsohar</span>';
 }
 
 // Function to scroll to a specific paragraph based on time
