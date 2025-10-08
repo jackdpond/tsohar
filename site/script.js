@@ -333,13 +333,12 @@ function renderSidebarSearchResults(results, container) {
     // Handle both old format (series, episode) and new format (from Index.search)
     const series = r.series || r.series_title;
     const episode = r.episode || r.episode_title;
-    const similarity = r.similarity_score ? ` (${(r.similarity_score * 100).toFixed(1)}%)` : '';
-    const text = r.text ? ` - "${r.text.substring(0, 100)}${r.text.length > 100 ? '...' : ''}"` : '';
+    const text = r.text ? `"${r.text.substring(0, 120)}${r.text.length > 120 ? '...' : ''}"` : '';
     const time = r.start ? ` [${r.start}]` : '';
     
     return `<div class="sidebar-search-result" data-series="${series}" data-episode="${episode}" data-time="${r.start || ''}">
-      <strong>${series.replace(/_/g, ' ')}:</strong> ${episode}${time}${similarity}
-      <div style="font-size: 0.9em; color: #666; margin-top: 2px;">${text}</div>
+      <div style="font-weight: bold; margin-bottom: 2px;">${series.replace(/_/g, ' ')} - ${episode}${time}</div>
+      <div style="font-size: 0.9em; color: #666;">${text}</div>
     </div>`;
   }).join('');
   
