@@ -1,48 +1,53 @@
 # About this repo
 This repo houses the code for both a personal project I did to provide a service I wanted, and a website that serves that project cleanly on the web. 
 
-The project itself is called pod-search (for now at least), and the code for it is found in [scripts](scripts). It is essentially two classes that wrap AssemblyAI, ChatGPT embeddings, and the FAISS vector index package to transcribe podcasts and make them semantically searchable. I wrote it without the use of AI.
+The project itself is called Tsohar (for now at least), and the code for it is found in [scripts](scripts). It is essentially two classes that wrap AssemblyAI, ChatGPT embeddings, and the FAISS vector index package to transcribe podcasts and make them semantically searchable. I wrote it without the use of AI.
 
-The code for the website that uses pod-search in its backend is located in [site](site). It includes two servers, one for the API for searching, and one for the site that displays podcast transcripts. I created this in order to be able to search for passages and ideas from the BibleProject podcast, and I created this proof of concept with its content.
+The code for the website that uses Tsohar in its backend is located in [site](site). It includes two servers, one for the API for searching, and one for the site that displays podcast transcripts. I created this in order to be able to search for passages and ideas from the [BibleProject](https://bibleproject.com) [podcast](https://bibleproject.com/podcasts/shows/the-bible-project-podcast/), and I created this proof of concept with its content.
 
-Below I will include what I hope is helpful documentation for the simple pod-search classes and then I will describe briefly how to serve the site on local servers.
+Below I will include what I hope is helpful documentation for the simple Tsohar classes, brief instructions for self-hosting the site, and a discussion of current shortcomings of the service.
 
 
-# Introducing pod-search 
+# Introducing Tsohar 
 ### A tool to automatically transcribe, index, and semantic-search your favorite podcast.
-This project was born from a specific frustration I had with *my* favorite podcast, from The BibleProject. While they have begun to transcribe their podcasts, I still struggled to find the lines and ideas that I wanted to revisit or share. pod-search uses Assembly AI's automatic transcription API and Facebook's faiss-cpu package to transcribe, embed, and index podcast episodes in order to be able to easily search semantically for the moments you want to revisit.
+This project was born from a specific frustration I had with *my* favorite podcast, from The BibleProject. While they have begun to transcribe their podcasts, I still struggled to find the lines and ideas that I wanted to revisit or share. Tsohar uses Assembly AI's automatic transcription API and Facebook's faiss-cpu package to transcribe, embed, and index podcast episodes in order to be able to easily search semantically for the moments you want to revisit.
 
 ## Disclaimer
 This project is very much still in development, and I am actively adding methods and documentation to make this project easier to use. Also, I have no affiliation with the BibleProject. Incredible podcasts, classes, videos, articles and more can be found for free at [their website](https://bibleproject.com)
 
-## Using pod-search
+## Using Tsohar
 I am planning to turn this into an easier-to-use package, but for now users will need to clone this repo in order to use it.
 
 ### Installation
 #### MacOS / Unix
 ```bash
-cd Documents                                              # Navigate to Documents folder
-mkdir pod-search                                          # Make a new folder called WordTree_Game
-cd pod-search                                             # Navigate into the new folder
-git clone git@github.com:jackdpond/pod-search.git         # Clone this git repository
-python3 -m venv venv                                      # Create a virtual environment
-source venv/bin/activate                                  # Activate virtual environment
-pip install -r requirements.txt                           # Install dependencies
+cd Documents                                          # Navigate to Documents folder
+mkdir tsohar                                          # Make a new folder called WordTree_Game
+cd tsohar                                             # Navigate into the new folder
+git clone git@github.com:jackdpond/tsohar.git         # Clone this git repository
+python3 -m venv venv                                  # Create a virtual environment
+source venv/bin/activate                              # Activate virtual environment
+pip install -r requirements.txt                       # Install dependencies
 ```
 #### Windows
 ```bash
-cd Documents                                              # Navigate to Documents folder
-mkdir pod-search                                          # Make a new folder called WordTree_Game
-cd pod-search                                             # Navigate into the new folder
-git clone git@github.com:jackdpond/pod-search.git         # Clone this git repository
-python3 -m venv venv                                      # Create a virtual environment
-.\venv\Scripts\activate                                   # Activate virtual environment
-pip install -r requirements.txt                           # Install dependencies
+cd Documents                                          # Navigate to Documents folder
+mkdir Tsohar                                          # Make a new folder called WordTree_Game
+cd Tsohar                                             # Navigate into the new folder
+git clone git@github.com:jackdpond/tsohar.git         # Clone this git repository
+python3 -m venv venv                                  # Create a virtual environment
+.\venv\Scripts\activate                               # Activate virtual environment
+pip install -r requirements.txt                       # Install dependencies
 ```
 ### Creating a searchable index
+The tool works by transcribing each episode with AssemblyAI's API, then embedding each utterance with OpenAI's sentence embedding model. One day I hope tsohar will support other services. The embeddings are saved in a faiss-cpu vector database, with corresponding metadata saved in a json. The search function embeds the query and does a k-nearest-neighbor search for the most similar embeddings, and returns the series, episode, and timestamp of matching utterances.
+
+AssemblyAI is relatively cheap compared to other AI transcription services. It costs about $0.15 an hour and I believe it takes a bit less than a minute to transcribe an hour. It cost a bit less than $120 to transcribe all of BibleProject's episodes through the Redemption series, but I may have also had some free starter credits left.
+
 The `Index()` object will be created using `Episode()` objects, each of which will have attributes `series_name` and `episode_name`. That way, when we search, the results appear with a series/season name, episode name, and a time stamp.
 
-The `Index()` object has a method `.add_episode()` which can be used to add individual episodes via file path or url. This can be used as follows:
+The `Index()` object has a method `.add_episode()` which can be used to add individual episodes via file path (if you have downloaded the audio) or url of the audio download. This can be used as follows:
+
 ```python
 from scribe import Index
 
@@ -55,7 +60,7 @@ index.add_episode(episode_title: str, series_title: str, audio_url: str)
 However, the easier method is to use `Index.add_series()`, which allows the user to add an entire podcast series or season by setting up the file tree in a particular way. `.add_series()` accepts either a file directory or a .txt file listing urls.
 ##### Directory method
 ```
-pod-search/
+tsohar/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
@@ -73,7 +78,7 @@ pod-search/
 
 ##### Urls list method
 ```
-pod-search/
+tsohar/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
@@ -92,7 +97,8 @@ Episode 2,https://episode2.url-ish-text-here.445566
 Episode 3,https://episode3.url-ish-text-here.778899
 ```
 
-Once the file tree is set up after the preferred manner, the `Index.add_series()` method is used like so:
+Once the file tree is set up in this manner, the `Index.add_series()` method is used like so:
+
 ```python
 from scribe import Index
 
@@ -112,7 +118,7 @@ cd scripts/
 python3 search.py 'Type your own query here!' --filename <path/to/vector/database> --k-nearest-neighbors <how many results to display>
 ```
 
-For example, running the following command in the right directory returns the search results printed below the command.  
+For example, running the following command in the right directory returns the search results printed below the command. 
 **Command**
 ```bash
 python3 search.py 'When God allies himself with humans who are imperfect, things can get messy.' --filename Exodus --k-nearest-neighbors 5
@@ -149,29 +155,29 @@ While I am not opposed to using AI to code and develop, I decided to use AI mini
 
 For the code itself, I wrote and organized without AI, with the exception of the function `Episode.save_as_pdf()`, which uses a somewhat complicated package with which I am unfamiliar. I looked up documentation and consulted Stack Overflow when I had questions--which was often.
 
-I am both grateful and excited for the opportunities AI-coding or vibe-coding has created and will create, I still plan to develop my own coding skills, which include a rote knowledge of syntax, but also critical thinking, reasoning, and creativity. I am aware that I could have created a better, neater, more functional tool more quickly using Cursor or ChatGPT, but a neat, functional tool was not my primary object in building pod-search. 
+I am both grateful and excited for the opportunities AI-coding or vibe-coding has created and will create, I still plan to develop my own coding skills, which include a rote knowledge of syntax, but also critical thinking, reasoning, and creativity. I am aware that I could have created a better, neater, more functional tool more quickly using Cursor or ChatGPT, but a neat, functional tool was not my primary object in building Tsohar. 
 
-Perhaps pod-search marks a fork in my time spent coding from here on out. Perhaps from now on, I will code with one of two objects, or two mindesets. First, with a neat, functional final product in mind, or second, with the building of my brain and my character in mind. Maybe I will do the first in my profession, and the second as a hobby. 
+Perhaps Tsohar marks a fork in my time spent coding from here on out. Perhaps from now on, I will code with one of two objects, or two mindesets. First, with a neat, functional final product in mind, or second, with the building of my brain and my character in mind. Maybe I will do the first in my profession, and the second as a hobby. 
 
-I don't know how AI will change programming and I don't know how AI will change me. However, building pod-search has been both stimulating, frustrating, and relaxing for me, and I have enjoyed it immensely. 
+I don't know how AI will change programming and I don't know how AI will change me. However, building Tsohar has been both stimulating, frustrating, and relaxing for me, and I have enjoyed it immensely. 
 
-# About BibleProject Pod-Search, the website
-Hosting this site on a local server is very simple. First, clone this repo, as I demonstrated above in the [Installation section](#installation). Then, in order to serve the search API, run the following.
+# About BibleProject Tsohar, the website
+Hosting this site on a local server is very simple. First, clone this repo, as I demonstrated above in the [Installation section](#installation). Then, in order to serve the site as a web app, run the following command:
+
 ```bash
 cd site
-python3 start_search_server.py
+python3 app.py
 ```
 
-Then, in another terminal tab, navigate to the pod-search directory and run the following commands.
-```bash
-cd site
-python3 serve_site.py
-```
-
-Then visit the link printed to the terminal (http://localhost:8000) to see the website!
+Then visit the link printed to the terminal (http://localhost:5000) to see the website!
 
 Using the sidebar, you can either navigate through the BibleProject series and episodes and read the transcripts, or you can semantically search all of BibleProject's podcast content. That the search is semantic means it isn't word for word, but rather idea for idea. Searching for a concept or something you remember hearing will point you towards parts of the podcast where Tim and John talk about the same concept. An example of a search and its results can be found [above](#search).
 
-You may notice that the transcripts do not include speaker labels. That is for the very simple reason that I forgot to include them and did not realize until it would be difficult and expensive to add them back in. Sorry about that.
+## Shortcomings of the site as a service
+- **Readability**: No matter how articulate the speakers are, unfortunately good conversation does not make for good reading. I think there is room for improvement over the AI transcription, in smarter punctuation and speaker breaks. For instance, quick interruptions that wouldn't bother a listener are very disruptive for reading--but "hmm"s and "yeah"s can be easily removed, and interrupted utterances can be recombined. Perhaps an AI agent could automate this, but for now I think that the gold standard still is humans. Even after improving transcription, though, I still think the transcription will be good mostly for reference rather than long reading.  
+- **Foreign words**: BibleProject specifically includes lots of Hebrew and Greek words and phrases, and these are slaughtered by AssemblyAI.  
+- **Semantics**: Semantic search is not quite what most users are used to using. Keywords or questions are not as effective as full phrases. As in the example [above](#search), what works best is an approximation of the kind of thing you're looking for. But sometimes you're not all the way sure what you're looking for! Also, since utterances are discrete, sometimes the whole idea being searched is split between two or more utterances. For example, I searched "The armor of Goliath is described with the language of snakes and scales, referencing the Chaos Dragon". A large part of an episode is dedicated to that idea, but the name Goliath doesn't actually appear in the same utterances as descriptions of his armor, so the embeddings of the utterances I was looking for didn't match the embedding of my query.  
+- **Speaker Labels**: You may notice that the transcripts do not include speaker labels. That is for the very simple reason that I forgot to include them and did not realize until it would be difficult and expensive to add them back in. Sorry about that. AssemblyAI labels distinct speakers in the order in which they speak, but the user needs to provide a map from those labels to the speakers names, which is a pain. 
+
 
 
