@@ -36,7 +36,7 @@ def clean_path_name(filename):
     filename = filename.replace('-', ' ').replace('_', ' ').replace('/', ' ').split('.')[0]
     return filename
 
-def make_path_name(filename):
+def make_path_name(filename: str):
     """
     Converts human readable string to pathname.
 
@@ -48,15 +48,20 @@ def make_path_name(filename):
 class Episode:
 
     def __init__(self, 
-                 episode_title, 
-                 series_title, 
-                 audio_file, 
-                 speaker_labels=True, 
-                 speakers_expected=0, 
-                 speaker_map={'A': 'A', 'B': 'B', 'C': 'C', 'D': 'D', 'E': 'E', 'F':'F', 'G': 'G'}, 
-                 verbose=False, 
-                 aai_model='nano',
-                 http_timeout=240):
+                 episode_title: str, 
+                 series_title: str, 
+                 audio_file: str, 
+                 speaker_labels: bool=True, 
+                 speakers_expected: int=0, 
+                 speaker_map: dict={'A': 'A', 'B': 'B', 'C': 'C', 'D': 'D', 'E': 'E', 'F':'F', 'G': 'G'}, 
+                 verbose: bool=False, 
+                 aai_model: str='nano',
+                 http_timeout: int=240):
+        """
+        Instatiate an Episode object
+        
+        Params:
+        """
 
         
         # self.assembly_api_key = 0
