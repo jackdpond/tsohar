@@ -110,6 +110,9 @@ index.add_series(urls_list_path: str)
 ```
 This will take a few minutes to run. Once it is finished, you will have a vector database that is ready to search!
 
+#### Adding several series at once
+You can also put several series .txt files in a directory and pass the directory path into the Index.add_podcast() method, which simply iterates through the text files and adds a series for each one.
+
 ### Search
 The search.py script is for searching the index. Because it is an index of sentence embeddings, you will be able to search semantically, not using keywords.
 
